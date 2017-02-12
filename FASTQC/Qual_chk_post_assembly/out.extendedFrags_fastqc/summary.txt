@@ -1,0 +1,12 @@
+PASS	Basic Statistics	out.extendedFrags.fastq
+FAIL	Per base sequence quality	out.extendedFrags.fastq
+FAIL	Per tile sequence quality	out.extendedFrags.fastq
+PASS	Per sequence quality scores	out.extendedFrags.fastq
+FAIL	Per base sequence content	out.extendedFrags.fastq
+WARN	Per sequence GC content	out.extendedFrags.fastq
+PASS	Per base N content	out.extendedFrags.fastq
+WARN	Sequence Length Distribution	out.extendedFrags.fastq
+WARN	Sequence Duplication Levels	out.extendedFrags.fastq
+FAIL	Overrepresented sequences	out.extendedFrags.fastq
+PASS	Adapter Content	out.extendedFrags.fastq
+WARN	Kmer Content	out.extendedFrags.fastq

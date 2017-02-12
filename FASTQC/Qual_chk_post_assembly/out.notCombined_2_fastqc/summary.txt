@@ -1,0 +1,12 @@
+PASS	Basic Statistics	out.notCombined_2.fastq
+FAIL	Per base sequence quality	out.notCombined_2.fastq
+WARN	Per tile sequence quality	out.notCombined_2.fastq
+FAIL	Per sequence quality scores	out.notCombined_2.fastq
+FAIL	Per base sequence content	out.notCombined_2.fastq
+FAIL	Per sequence GC content	out.notCombined_2.fastq
+PASS	Per base N content	out.notCombined_2.fastq
+WARN	Sequence Length Distribution	out.notCombined_2.fastq
+WARN	Sequence Duplication Levels	out.notCombined_2.fastq
+FAIL	Overrepresented sequences	out.notCombined_2.fastq
+PASS	Adapter Content	out.notCombined_2.fastq
+FAIL	Kmer Content	out.notCombined_2.fastq

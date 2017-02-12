@@ -1,0 +1,12 @@
+PASS	Basic Statistics	forward_singleton.fastq
+FAIL	Per base sequence quality	forward_singleton.fastq
+FAIL	Per tile sequence quality	forward_singleton.fastq
+WARN	Per sequence quality scores	forward_singleton.fastq
+FAIL	Per base sequence content	forward_singleton.fastq
+FAIL	Per sequence GC content	forward_singleton.fastq
+WARN	Per base N content	forward_singleton.fastq
+WARN	Sequence Length Distribution	forward_singleton.fastq
+PASS	Sequence Duplication Levels	forward_singleton.fastq
+FAIL	Overrepresented sequences	forward_singleton.fastq
+WARN	Adapter Content	forward_singleton.fastq
+WARN	Kmer Content	forward_singleton.fastq

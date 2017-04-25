@@ -1,0 +1,20 @@
+Starting job 15894277 ("Megablast_unpaired_end_reads") on c16-11 at on. 09. nov. 12:27:16 +0100 2016
+After MegaBLAST processing, the dataset contained 607 forward singleton reads, 
+corresponding to .32 % reduction of the original files.
+After MegaBLAST processing, the dataset contained 1247 reverse singleton reads, 
+corresponding to .08 % reduction of the original files.
+
+Currently Loaded Modulefiles:
+  1) blast+/2.2.29
+
+Job script resource usage:
+       JobID  MaxVMSize     MaxRSS 
+------------ ---------- ---------- 
+15894277.ba+   1054668K    371861K 
+
+Job step resource usage:
+       JobID    JobName  AllocCPUS  MaxVMSize     MaxRSS    Elapsed ExitCode 
+------------ ---------- ---------- ---------- ---------- ---------- -------- 
+15894277     Megablast+          1                         00:00:43      0:0 
+
+Job 15894277 ("Megablast_unpaired_end_reads") completed on c16-11 at on. 09. nov. 12:27:56 +0100 2016

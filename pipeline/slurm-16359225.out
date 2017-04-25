@@ -1,0 +1,1628 @@
+slurmstepd: Unable to create TMPDIR [/work/jobs/16359216.d/.tmp]: No such file or directory
+slurmstepd: Setting TMPDIR to /tmp
+Starting job 16359225 ("tblastx_nt") on c16-33 at ma. 16. jan. 08:02:36 +0100 2017
+TASK_IDs to submit: 00,01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16
+Command line: tblastx_remote_worker.sh
+Main job id: 16359225
+Start time: 2017-01-16
+Mon Jan 16 08:02:38 2017: Submitting jobs...
+17 more job(s) to submit
+0 job(s) are running, and 0 are waiting
+Submitting 10 job(s):
+ TASK_ID 00:
+  Result from submit: Submitted batch job 16362228 => job ID 16362228
+ TASK_ID 01:
+  Result from submit: Submitted batch job 16362229 => job ID 16362229
+ TASK_ID 02:
+  Result from submit: Submitted batch job 16362230 => job ID 16362230
+ TASK_ID 03:
+  Result from submit: Submitted batch job 16362231 => job ID 16362231
+ TASK_ID 04:
+  Result from submit: Submitted batch job 16362232 => job ID 16362232
+ TASK_ID 05:
+  Result from submit: Submitted batch job 16362233 => job ID 16362233
+ TASK_ID 06:
+  Result from submit: Submitted batch job 16362234 => job ID 16362234
+ TASK_ID 07:
+  Result from submit: Submitted batch job 16362235 => job ID 16362235
+ TASK_ID 08:
+  Result from submit: Submitted batch job 16362236 => job ID 16362236
+ TASK_ID 09:
+  Result from submit: Submitted batch job 16362237 => job ID 16362237
+Sleeping...
+Mon Jan 16 08:04:39 2017: Checking queue...
+Number of jobs to check: 10
+ Job 16362228 is still waiting
+ Job 16362229 is still waiting
+ Job 16362230 is still waiting
+ Job 16362231 is still waiting
+ Job 16362232 is still waiting
+ Job 16362233 is still waiting
+ Job 16362234 is still waiting
+ Job 16362235 is still waiting
+ Job 16362236 is still waiting
+ Job 16362237 is still waiting
+Mon Jan 16 08:04:50 2017: Submitting jobs...
+7 more job(s) to submit
+0 job(s) are running, and 10 are waiting
+Submitting 0 job(s):
+Sleeping...
+Mon Jan 16 08:06:45 2017: Checking queue...
+Number of jobs to check: 10
+ Job 16362228 is still running
+ Job 16362229 is still waiting
+ Job 16362230 is still waiting
+ Job 16362231 is still waiting
+ Job 16362232 is still waiting
+ Job 16362233 is still waiting
+ Job 16362234 is still waiting
+ Job 16362235 is still waiting
+ Job 16362236 is still waiting
+ Job 16362237 is still waiting
+Mon Jan 16 08:06:55 2017: Submitting jobs...
+7 more job(s) to submit
+1 job(s) are running, and 9 are waiting
+Submitting 1 job(s):
+ TASK_ID 10:
+  Result from submit: Submitted batch job 16362243 => job ID 16362243
+Sleeping...
+Mon Jan 16 08:08:51 2017: Checking queue...
+Number of jobs to check: 11
+ Job 16362228 is still running
+ Job 16362229 is still waiting
+ Job 16362230 is still waiting
+ Job 16362231 is still waiting
+ Job 16362232 is still waiting
+ Job 16362233 is still waiting
+ Job 16362234 is still waiting
+ Job 16362235 is still waiting
+ Job 16362236 is still waiting
+ Job 16362237 is still waiting
+ Job 16362243 is still waiting
+Mon Jan 16 08:09:01 2017: Submitting jobs...
+6 more job(s) to submit
+1 job(s) are running, and 10 are waiting
+Submitting 0 job(s):
+Sleeping...
+Mon Jan 16 08:10:57 2017: Checking queue...
+Number of jobs to check: 11
+ Job 16362228 is still running
+ Job 16362229 is still waiting
+ Job 16362230 is still waiting
+ Job 16362231 is still waiting
+ Job 16362232 is still waiting
+ Job 16362233 is still waiting
+ Job 16362234 is still waiting
+ Job 16362235 is still waiting
+ Job 16362236 is still waiting
+ Job 16362237 is still waiting
+ Job 16362243 is still waiting
+Mon Jan 16 08:11:08 2017: Submitting jobs...
+6 more job(s) to submit
+1 job(s) are running, and 10 are waiting
+Submitting 0 job(s):
+Sleeping...
+Mon Jan 16 08:13:04 2017: Checking queue...
+Number of jobs to check: 11
+ Job 16362228 is still running
+ Job 16362229 is still waiting
+ Job 16362230 is still waiting
+ Job 16362231 is still waiting
+ Job 16362232 is still waiting
+ Job 16362233 is still waiting
+ Job 16362234 is still waiting
+ Job 16362235 is still waiting
+ Job 16362236 is still waiting
+ Job 16362237 is still waiting
+ Job 16362243 is still waiting
+Mon Jan 16 08:13:15 2017: Submitting jobs...
+6 more job(s) to submit
+1 job(s) are running, and 10 are waiting
+Submitting 0 job(s):
+Sleeping...
+Mon Jan 16 08:15:17 2017: Checking queue...
+Number of jobs to check: 11
+ Job 16362228 is still running
+ Job 16362229 is still waiting
+ Job 16362230 is still waiting
+ Job 16362231 is still waiting
+ Job 16362232 is still waiting
+ Job 16362233 is still waiting
+ Job 16362234 is still waiting
+ Job 16362235 is still waiting
+ Job 16362236 is still waiting
+ Job 16362237 is still waiting
+ Job 16362243 is still waiting
+Mon Jan 16 08:15:27 2017: Submitting jobs...
+6 more job(s) to submit
+1 job(s) are running, and 10 are waiting
+Submitting 0 job(s):
+Sleeping...
+Mon Jan 16 08:17:25 2017: Checking queue...
+Number of jobs to check: 11
+ Job 16362228 is still running
+ Job 16362229 is still running
+ Job 16362230 is still running
+ Job 16362231 is still running
+ Job 16362232 is still running
+ Job 16362233 is still running
+ Job 16362234 is still running
+ Job 16362235 is still running
+ Job 16362236 is still running
+ Job 16362237 is still running
+ Job 16362243 is still waiting
+Mon Jan 16 08:17:35 2017: Submitting jobs...
+6 more job(s) to submit
+10 job(s) are running, and 1 are waiting
+Submitting 6 job(s):
+ TASK_ID 11:
+  Result from submit: Submitted batch job 16362257 => job ID 16362257
+ TASK_ID 12:
+  Result from submit: Submitted batch job 16362258 => job ID 16362258
+ TASK_ID 13:
+  Result from submit: Submitted batch job 16362259 => job ID 16362259
+ TASK_ID 14:
+  Result from submit: Submitted batch job 16362260 => job ID 16362260
+ TASK_ID 15:
+  Result from submit: Submitted batch job 16362261 => job ID 16362261
+ TASK_ID 16:
+  Result from submit: Submitted batch job 16362262 => job ID 16362262
+Sleeping...
+Mon Jan 16 08:19:37 2017: Checking queue...
+Number of jobs to check: 17
+ Job 16362228 is still running
+ Job 16362229 is still running
+ Job 16362230 is still running
+ Job 16362231 is still running
+ Job 16362232 is still running
+ Job 16362233 is still running
+ Job 16362234 is still running
+ Job 16362235 is still running
+ Job 16362236 is still running
+ Job 16362237 is still running
+ Job 16362243 is still running
+ Job 16362257 is still running
+ Job 16362258 is still running
+ Job 16362259 is still waiting
+ Job 16362260 is still waiting
+ Job 16362261 is still waiting
+ Job 16362262 is still waiting
+All jobs have been submitted
+13 job(s) are still running, and 4 are waiting
+Sleeping...
+Mon Jan 16 08:21:51 2017: Checking queue...
+Number of jobs to check: 17
+ Job 16362228 is still running
+ Job 16362229 is still running
+ Job 16362230 is still running
+ Job 16362231 is still running
+ Job 16362232 is still running
+ Job 16362233 is still running
+ Job 16362234 is still running
+ Job 16362235 is still running
+ Job 16362236 is still running
+ Job 16362237 is still running
+ Job 16362243 is still running
+ Job 16362257 is still running
+ Job 16362258 is still running
+ Job 16362259 is still running
+ Job 16362260 is still running
+ Job 16362261 is still running
+ Job 16362262 is still running
+17 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Jan 16 08:23:59 2017: Checking queue...
+Number of jobs to check: 17
+ Job 16362228 is still running
+ Job 16362229 is still running
+ Job 16362230 is still running
+ Job 16362231 is still running
+ Job 16362232 is still running
+ Job 16362233 is still running
+ Job 16362234 is still running
+ Job 16362235 is still running
+ Job 16362236 is still running
+ Job 16362237 is still running
+ Job 16362243 is still running
+ Job 16362257 is still running
+ Job 16362258 is still running
+ Job 16362259 is still running
+ Job 16362260 is still running
+ Job 16362261 is still running
+ Job 16362262 is still running
+17 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Jan 16 08:26:07 2017: Checking queue...
+Number of jobs to check: 17
+ Job 16362228 is still running
+ Job 16362229 is still running
+ Job 16362230 is still running
+ Job 16362231 is still running
+ Job 16362232 is still running
+ Job 16362233 is still running
+ Job 16362234 is still running
+ Job 16362235 is still running
+ Job 16362236 is still running
+ Job 16362237 is still running
+ Job 16362243 is still running
+ Job 16362257 is still running
+ Job 16362258 is still running
+ Job 16362259 is still running
+ Job 16362260 is still running
+ Job 16362261 is still running
+ Job 16362262 is still running
+17 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Jan 16 08:28:21 2017: Checking queue...
+Number of jobs to check: 17
+ Job 16362228 is still running
+ Job 16362229 is still running
+ Job 16362230 is still running
+ Job 16362231 is still running
+ Job 16362232 is still running
+ Job 16362233 is still running
+ Job 16362234 is still running
+ Job 16362235 is still running
+ Job 16362236 is still running
+ Job 16362237 is still running
+ Job 16362243 is still running
+ Job 16362257 is still running
+ Job 16362258 is still running
+ Job 16362259 is still running
+ Job 16362260 is still running
+ Job 16362261 is still running
+ Job 16362262 is still running
+17 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Jan 16 08:30:36 2017: Checking queue...
+Number of jobs to check: 17
+ Job 16362228 is still running
+ Job 16362229 is still running
+ Job 16362230 is still running
+ Job 16362231 is still running
+ Job 16362232 is still running
+ Job 16362233 is still running
+ Job 16362234 is still running
+ Job 16362235 is still running
+ Job 16362236 is still running
+ Job 16362237 is still running
+ Job 16362243 is still running
+ Job 16362257 is still running
+ Job 16362258 is still running
+ Job 16362259 is still running
+ Job 16362260 is still running
+ Job 16362261 is still running
+ Job 16362262 is still running
+17 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Jan 16 08:32:50 2017: Checking queue...
+Number of jobs to check: 17
+ Job 16362228 is still running
+ Job 16362229 is still running
+ Job 16362230 is still running
+ Job 16362231 is still running
+ Job 16362232 is still running
+ Job 16362233 is still running
+ Job 16362234 is still running
+ Job 16362235 is still running
+ Job 16362236 is still running
+ Job 16362237 is still running
+ Job 16362243 is still running
+ Job 16362257 is still running
+ Job 16362258 is still running
+ Job 16362259 is still running
+ Job 16362260 is still running
+ Job 16362261 is still running
+ Job 16362262 is still running
+17 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Jan 16 08:35:05 2017: Checking queue...
+Number of jobs to check: 17
+ Job 16362228 is still running
+ Job 16362229 is still running
+ Job 16362230 is still running
+ Job 16362231 is still running
+ Job 16362232 is still running
+ Job 16362233 is still running
+ Job 16362234 is still running
+ Job 16362235 is still running
+ Job 16362236 is still running
+ Job 16362237 is still running
+ Job 16362243 is still running
+ Job 16362257 is still running
+ Job 16362258 is still running
+ Job 16362259 is still running
+ Job 16362260 is still running
+ Job 16362261 is still running
+ Job 16362262 is still running
+17 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Jan 16 08:37:13 2017: Checking queue...
+Number of jobs to check: 17
+ Job 16362228 is still running
+ Job 16362229 is still running
+ Job 16362230 is still running
+ Job 16362231 is still running
+ Job 16362232 is still running
+ Job 16362233 is still running
+ Job 16362234 is still running
+ Job 16362235 is still running
+ Job 16362236 is still running
+ Job 16362237 is still running
+ Job 16362243 is still running
+ Job 16362257 is still running
+ Job 16362258 is still running
+ Job 16362259 is still running
+ Job 16362260 is still running
+ Job 16362261 is still running
+ Job 16362262 is still running
+17 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Jan 16 08:39:27 2017: Checking queue...
+Number of jobs to check: 17
+ Job 16362228 is still running
+ Job 16362229 is still running
+ Job 16362230 is still running
+ Job 16362231 is still running
+ Job 16362232 is still running
+ Job 16362233 is still running
+ Job 16362234 is still running
+ Job 16362235 is still running
+ Job 16362236 is still running
+ Job 16362237 is still running
+ Job 16362243 is still running
+ Job 16362257 is still running
+ Job 16362258 is still running
+ Job 16362259 is still running
+ Job 16362260 is still running
+ Job 16362261 is still running
+ Job 16362262 is still running
+17 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Jan 16 08:41:36 2017: Checking queue...
+Number of jobs to check: 17
+ Job 16362228 is still running
+ Job 16362229 is still running
+ Job 16362230 is still running
+ Job 16362231 is still running
+ Job 16362232 is still running
+ Job 16362233 is still running
+ Job 16362234 is still running
+ Job 16362235 is still running
+ Job 16362236 is still running
+ Job 16362237 is still running
+ Job 16362243 is still running
+ Job 16362257 is still running
+ Job 16362258 is still running
+ Job 16362259 is still running
+ Job 16362260 is still running
+ Job 16362261 is still running
+ Job 16362262 is still running
+17 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Jan 16 08:43:51 2017: Checking queue...
+Number of jobs to check: 17
+ Job 16362228 is still running
+ Job 16362229 is still running
+ Job 16362230 is still running
+ Job 16362231 is still running
+ Job 16362232 is still running
+ Job 16362233 is still running
+ Job 16362234 is still running
+ Job 16362235 is still running
+ Job 16362236 is still running
+ Job 16362237 is still running
+ Job 16362243 is still running
+ Job 16362257 is still running
+ Job 16362258 is still running
+ Job 16362259 is still running
+ Job 16362260 is still running
+ Job 16362261 is still running
+ Job 16362262 is still running
+17 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Jan 16 08:46:06 2017: Checking queue...
+Number of jobs to check: 17
+ Job 16362228 is still running
+ Job 16362229 is still running
+ Job 16362230 is still running
+ Job 16362231 is still running
+ Job 16362232 is still running
+ Job 16362233 is still running
+ Job 16362234 is still running
+ Job 16362235 is still running
+ Job 16362236 is still running
+ Job 16362237 is still running
+ Job 16362243 is still running
+ Job 16362257 is still running
+ Job 16362258 is still running
+ Job 16362259 is still running
+ Job 16362260 is still running
+ Job 16362261 is still running
+ Job 16362262 is still running
+17 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Jan 16 08:48:19 2017: Checking queue...
+Number of jobs to check: 17
+ Job 16362228 is still running
+ Job 16362229 is still running
+ Job 16362230 is still running
+ Job 16362231 is still running
+ Job 16362232 is still running
+ Job 16362233 is still running
+ Job 16362234 is still running
+ Job 16362235 is still running
+ Job 16362236 is still running
+ Job 16362237 is still running
+ Job 16362243 is still running
+ Job 16362257 is still running
+ Job 16362258 is still running
+ Job 16362259 is still running
+ Job 16362260 is still running
+ Job 16362261 is still running
+ Job 16362262 is still running
+17 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Jan 16 08:50:27 2017: Checking queue...
+Number of jobs to check: 17
+ Job 16362228 is still running
+ Job 16362229 is still running
+ Job 16362230 is still running
+ Job 16362231 is still running
+ Job 16362232 is still running
+ Job 16362233 is still running
+ Job 16362234 is still running
+ Job 16362235 is still running
+ Job 16362236 is still running
+ Job 16362237 is still running
+ Job 16362243 is still running
+ Job 16362257 is still running
+ Job 16362258 is still running
+ Job 16362259 is still running
+ Job 16362260 is still running
+ Job 16362261 is still running
+ Job 16362262 is still running
+17 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Jan 16 08:52:32 2017: Checking queue...
+Number of jobs to check: 17
+ Job 16362228 is still running
+ Job 16362229 is still running
+ Job 16362230 is still running
+ Job 16362231 is still running
+ Job 16362232 is still running
+ Job 16362233 is still running
+ Job 16362234 is still running
+ Job 16362235 is still running
+ Job 16362236 is still running
+ Job 16362237 is still running
+ Job 16362243 is still running
+ Job 16362257 is still running
+ Job 16362258 is still running
+ Job 16362259 is still running
+ Job 16362260 is still running
+ Job 16362261 is still running
+ Job 16362262 is still running
+17 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Jan 16 08:54:45 2017: Checking queue...
+Number of jobs to check: 17
+ Job 16362228 is still running
+ Job 16362229 is still running
+ Job 16362230 is still running
+ Job 16362231 is still running
+ Job 16362232 is still running
+ Job 16362233 is still running
+ Job 16362234 is still running
+ Job 16362235 is still running
+ Job 16362236 is still running
+ Job 16362237 is still running
+ Job 16362243 is still running
+ Job 16362257 is still running
+ Job 16362258 is still running
+ Job 16362259 is still running
+ Job 16362260 is still running
+ Job 16362261 is still running
+ Job 16362262 is still running
+17 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Jan 16 08:57:00 2017: Checking queue...
+Number of jobs to check: 17
+ Job 16362228 is still running
+ Job 16362229 is still running
+ Job 16362230 is still running
+ Job 16362231 is still running
+ Job 16362232 is still running
+ Job 16362233 is still running
+ Job 16362234 is still running
+ Job 16362235 is still running
+ Job 16362236 is still running
+ Job 16362237 is still running
+ Job 16362243 is still running
+ Job 16362257 is still running
+ Job 16362258 is still running
+ Job 16362259 is still running
+ Job 16362260 is still running
+ Job 16362261 is still running
+ Job 16362262 is still running
+17 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Jan 16 08:59:15 2017: Checking queue...
+Number of jobs to check: 17
+ Job 16362228 is still running
+ Job 16362229 is still running
+ Job 16362230 is still running
+ Job 16362231 is still running
+ Job 16362232 is still running
+ Job 16362233 is still running
+ Job 16362234 is still running
+ Job 16362235 is still running
+ Job 16362236 is still running
+ Job 16362237 is still running
+ Job 16362243 is still running
+ Job 16362257 is still running
+ Job 16362258 is still running
+ Job 16362259 is still running
+ Job 16362260 is still running
+ Job 16362261 is still running
+ Job 16362262 is still running
+17 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Jan 16 09:01:25 2017: Checking queue...
+Number of jobs to check: 17
+ Job 16362228 is still running
+ Job 16362229 is still running
+ Job 16362230 is still running
+ Job 16362231 is still running
+ Job 16362232 is still running
+ Job 16362233 is still running
+ Job 16362234 is still running
+ Job 16362235 is still running
+ Job 16362236 is still running
+ Job 16362237 is still running
+ Job 16362243 is still running
+ Job 16362257 is still running
+ Job 16362258 is still running
+ Job 16362259 is still running
+ Job 16362260 is still running
+ Job 16362261 is still running
+ Job 16362262 is still running
+17 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Jan 16 09:03:32 2017: Checking queue...
+Number of jobs to check: 17
+ Job 16362228 is still running
+ Job 16362229 is still running
+ Job 16362230 is still running
+ Job 16362231 is still running
+ Job 16362232 is still running
+ Job 16362233 is still running
+ Job 16362234 is still running
+ Job 16362235 is still running
+ Job 16362236 is still running
+ Job 16362237 is still running
+ Job 16362243 is still running
+ Job 16362257 is still running
+ Job 16362258 is still running
+ Job 16362259 is still running
+ Job 16362260 is still running
+ Job 16362261 is still running
+ Job 16362262 is still running
+17 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Jan 16 09:05:41 2017: Checking queue...
+Number of jobs to check: 17
+ Job 16362228 is still running
+ Job 16362229 is still running
+ Job 16362230 is still running
+ Job 16362231 is still running
+ Job 16362232 is still running
+ Job 16362233 is still running
+ Job 16362234 is still running
+ Job 16362235 is still running
+ Job 16362236 is still running
+ Job 16362237 is still running
+ Job 16362243 is still running
+ Job 16362257 is still running
+ Job 16362258 is still running
+ Job 16362259 is still running
+ Job 16362260 is still running
+ Job 16362261 is still running
+ Job 16362262 is still running
+17 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Jan 16 09:07:48 2017: Checking queue...
+Number of jobs to check: 17
+ Job 16362228 is still running
+ Job 16362229 is still running
+ Job 16362230 is still running
+ Job 16362231 is still running
+ Job 16362232 is still running
+ Job 16362233 is still running
+ Job 16362234 is still running
+ Job 16362235 is still running
+ Job 16362236 is still running
+ Job 16362237 is still running
+ Job 16362243 is still running
+ Job 16362257 is still running
+ Job 16362258 is still running
+ Job 16362259 is still running
+ Job 16362260 is still running
+ Job 16362261 is still running
+ Job 16362262 is still running
+17 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Jan 16 09:10:03 2017: Checking queue...
+Number of jobs to check: 17
+ Job 16362228 is still running
+ Job 16362229 is still running
+ Job 16362230 is still running
+ Job 16362231 is still running
+ Job 16362232 is still running
+ Job 16362233 is still running
+ Job 16362234 is still running
+ Job 16362235 is still running
+ Job 16362236 is still running
+ Job 16362237 is still running
+ Job 16362243 is still running
+ Job 16362257 is still running
+ Job 16362258 is still running
+ Job 16362259 is still running
+ Job 16362260 is still running
+ Job 16362261 is still running
+ Job 16362262 is still running
+17 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Jan 16 09:12:10 2017: Checking queue...
+Number of jobs to check: 17
+ Job 16362228 is still running
+ Job 16362229 is still running
+ Job 16362230 is still running
+ Job 16362231 is still running
+ Job 16362232 is still running
+ Job 16362233 is still running
+ Job 16362234 is still running
+ Job 16362235 is still running
+ Job 16362236 is still running
+ Job 16362237 is still running
+ Job 16362243 is still running
+ Job 16362257 is still running
+ Job 16362258 is still running
+ Job 16362259 is still running
+ Job 16362260 is still running
+ Job 16362261 is still running
+ Job 16362262 has finished:
+       JobID               Start                 End  MaxVMSize     MaxRSS      State ExitCode 
+  ------------ ------------------- ------------------- ---------- ---------- ---------- -------- 
+  16362262     2017-01-16T08:19:43 2017-01-16T09:11:15                        COMPLETED      0:0 
+  16362262.ba+ 2017-01-16T08:19:43 2017-01-16T09:11:15  13730288K    597647K  COMPLETED      0:0 
+16 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Jan 16 09:14:17 2017: Checking queue...
+Number of jobs to check: 16
+ Job 16362228 is still running
+ Job 16362229 is still running
+ Job 16362230 is still running
+ Job 16362231 is still running
+ Job 16362232 is still running
+ Job 16362233 is still running
+ Job 16362234 is still running
+ Job 16362235 is still running
+ Job 16362236 is still running
+ Job 16362237 is still running
+ Job 16362243 is still running
+ Job 16362257 is still running
+ Job 16362258 is still running
+ Job 16362259 is still running
+ Job 16362260 is still running
+ Job 16362261 is still running
+16 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Jan 16 09:16:26 2017: Checking queue...
+Number of jobs to check: 16
+ Job 16362228 is still running
+ Job 16362229 is still running
+ Job 16362230 is still running
+ Job 16362231 is still running
+ Job 16362232 is still running
+ Job 16362233 is still running
+ Job 16362234 is still running
+ Job 16362235 is still running
+ Job 16362236 is still running
+ Job 16362237 is still running
+ Job 16362243 is still running
+ Job 16362257 is still running
+ Job 16362258 is still running
+ Job 16362259 is still running
+ Job 16362260 is still running
+ Job 16362261 is still running
+16 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Jan 16 09:18:31 2017: Checking queue...
+Number of jobs to check: 16
+ Job 16362228 is still running
+ Job 16362229 is still running
+ Job 16362230 is still running
+ Job 16362231 is still running
+ Job 16362232 is still running
+ Job 16362233 is still running
+ Job 16362234 is still running
+ Job 16362235 is still running
+ Job 16362236 is still running
+ Job 16362237 is still running
+ Job 16362243 is still running
+ Job 16362257 is still running
+ Job 16362258 is still running
+ Job 16362259 is still running
+ Job 16362260 is still running
+ Job 16362261 is still running
+16 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Jan 16 09:20:47 2017: Checking queue...
+Number of jobs to check: 16
+ Job 16362228 is still running
+ Job 16362229 is still running
+ Job 16362230 is still running
+ Job 16362231 is still running
+ Job 16362232 is still running
+ Job 16362233 is still running
+ Job 16362234 is still running
+ Job 16362235 is still running
+ Job 16362236 is still running
+ Job 16362237 is still running
+ Job 16362243 is still running
+ Job 16362257 is still running
+ Job 16362258 is still running
+ Job 16362259 is still running
+ Job 16362260 is still running
+ Job 16362261 is still running
+16 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Jan 16 09:22:58 2017: Checking queue...
+Number of jobs to check: 16
+ Job 16362228 is still running
+ Job 16362229 is still running
+ Job 16362230 is still running
+ Job 16362231 is still running
+ Job 16362232 is still running
+ Job 16362233 is still running
+ Job 16362234 is still running
+ Job 16362235 is still running
+ Job 16362236 is still running
+ Job 16362237 is still running
+ Job 16362243 is still running
+ Job 16362257 is still running
+ Job 16362258 is still running
+ Job 16362259 is still running
+ Job 16362260 is still running
+ Job 16362261 is still running
+16 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Jan 16 09:25:09 2017: Checking queue...
+Number of jobs to check: 16
+ Job 16362228 is still running
+ Job 16362229 is still running
+ Job 16362230 is still running
+ Job 16362231 is still running
+ Job 16362232 is still running
+ Job 16362233 is still running
+ Job 16362234 is still running
+ Job 16362235 is still running
+ Job 16362236 is still running
+ Job 16362237 is still running
+ Job 16362243 is still running
+ Job 16362257 is still running
+ Job 16362258 is still running
+ Job 16362259 is still running
+ Job 16362260 is still running
+ Job 16362261 is still running
+16 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Jan 16 09:27:23 2017: Checking queue...
+Number of jobs to check: 16
+ Job 16362228 is still running
+ Job 16362229 is still running
+ Job 16362230 is still running
+ Job 16362231 is still running
+ Job 16362232 is still running
+ Job 16362233 is still running
+ Job 16362234 is still running
+ Job 16362235 is still running
+ Job 16362236 is still running
+ Job 16362237 is still running
+ Job 16362243 is still running
+ Job 16362257 is still running
+ Job 16362258 is still running
+ Job 16362259 is still running
+ Job 16362260 is still running
+ Job 16362261 is still running
+16 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Jan 16 09:29:33 2017: Checking queue...
+Number of jobs to check: 16
+ Job 16362228 is still running
+ Job 16362229 is still running
+ Job 16362230 is still running
+ Job 16362231 is still running
+ Job 16362232 is still running
+ Job 16362233 is still running
+ Job 16362234 is still running
+ Job 16362235 is still running
+ Job 16362236 is still running
+ Job 16362237 is still running
+ Job 16362243 is still running
+ Job 16362257 is still running
+ Job 16362258 is still running
+ Job 16362259 is still running
+ Job 16362260 is still running
+ Job 16362261 is still running
+16 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Jan 16 09:31:46 2017: Checking queue...
+Number of jobs to check: 16
+ Job 16362228 is still running
+ Job 16362229 is still running
+ Job 16362230 is still running
+ Job 16362231 is still running
+ Job 16362232 is still running
+ Job 16362233 is still running
+ Job 16362234 is still running
+ Job 16362235 is still running
+ Job 16362236 is still running
+ Job 16362237 is still running
+ Job 16362243 is still running
+ Job 16362257 is still running
+ Job 16362258 is still running
+ Job 16362259 is still running
+ Job 16362260 is still running
+ Job 16362261 is still running
+16 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Jan 16 09:33:55 2017: Checking queue...
+Number of jobs to check: 16
+ Job 16362228 is still running
+ Job 16362229 is still running
+ Job 16362230 is still running
+ Job 16362231 is still running
+ Job 16362232 is still running
+ Job 16362233 is still running
+ Job 16362234 is still running
+ Job 16362235 is still running
+ Job 16362236 is still running
+ Job 16362237 is still running
+ Job 16362243 is still running
+ Job 16362257 is still running
+ Job 16362258 is still running
+ Job 16362259 is still running
+ Job 16362260 is still running
+ Job 16362261 is still running
+16 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Jan 16 09:36:05 2017: Checking queue...
+Number of jobs to check: 16
+ Job 16362228 is still running
+ Job 16362229 is still running
+ Job 16362230 is still running
+ Job 16362231 is still running
+ Job 16362232 is still running
+ Job 16362233 is still running
+ Job 16362234 is still running
+ Job 16362235 is still running
+ Job 16362236 is still running
+ Job 16362237 is still running
+ Job 16362243 is still running
+ Job 16362257 is still running
+ Job 16362258 is still running
+ Job 16362259 is still running
+ Job 16362260 is still running
+ Job 16362261 is still running
+16 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Jan 16 09:38:18 2017: Checking queue...
+Number of jobs to check: 16
+ Job 16362228 is still running
+ Job 16362229 is still running
+ Job 16362230 is still running
+ Job 16362231 is still running
+ Job 16362232 is still running
+ Job 16362233 is still running
+ Job 16362234 is still running
+ Job 16362235 is still running
+ Job 16362236 is still running
+ Job 16362237 is still running
+ Job 16362243 is still running
+ Job 16362257 is still running
+ Job 16362258 is still running
+ Job 16362259 is still running
+ Job 16362260 is still running
+ Job 16362261 is still running
+16 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Jan 16 09:40:33 2017: Checking queue...
+Number of jobs to check: 16
+ Job 16362228 is still running
+ Job 16362229 is still running
+ Job 16362230 is still running
+ Job 16362231 is still running
+ Job 16362232 is still running
+ Job 16362233 is still running
+ Job 16362234 is still running
+ Job 16362235 is still running
+ Job 16362236 is still running
+ Job 16362237 is still running
+ Job 16362243 is still running
+ Job 16362257 is still running
+ Job 16362258 is still running
+ Job 16362259 is still running
+ Job 16362260 is still running
+ Job 16362261 is still running
+16 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Jan 16 09:42:42 2017: Checking queue...
+Number of jobs to check: 16
+ Job 16362228 is still running
+ Job 16362229 is still running
+ Job 16362230 is still running
+ Job 16362231 is still running
+ Job 16362232 is still running
+ Job 16362233 is still running
+ Job 16362234 is still running
+ Job 16362235 is still running
+ Job 16362236 is still running
+ Job 16362237 is still running
+ Job 16362243 is still running
+ Job 16362257 is still running
+ Job 16362258 is still running
+ Job 16362259 is still running
+ Job 16362260 is still running
+ Job 16362261 is still running
+16 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Jan 16 09:44:49 2017: Checking queue...
+Number of jobs to check: 16
+ Job 16362228 is still running
+ Job 16362229 is still running
+ Job 16362230 is still running
+ Job 16362231 is still running
+ Job 16362232 is still running
+ Job 16362233 is still running
+ Job 16362234 is still running
+ Job 16362235 is still running
+ Job 16362236 is still running
+ Job 16362237 is still running
+ Job 16362243 is still running
+ Job 16362257 is still running
+ Job 16362258 is still running
+ Job 16362259 is still running
+ Job 16362260 is still running
+ Job 16362261 is still running
+16 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Jan 16 09:47:02 2017: Checking queue...
+Number of jobs to check: 16
+ Job 16362228 is still running
+ Job 16362229 is still running
+ Job 16362230 is still running
+ Job 16362231 is still running
+ Job 16362232 is still running
+ Job 16362233 is still running
+ Job 16362234 is still running
+ Job 16362235 is still running
+ Job 16362236 is still running
+ Job 16362237 is still running
+ Job 16362243 is still running
+ Job 16362257 is still running
+ Job 16362258 is still running
+ Job 16362259 is still running
+ Job 16362260 is still running
+ Job 16362261 is still running
+16 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Jan 16 09:49:15 2017: Checking queue...
+Number of jobs to check: 16
+ Job 16362228 is still running
+ Job 16362229 is still running
+ Job 16362230 is still running
+ Job 16362231 is still running
+ Job 16362232 is still running
+ Job 16362233 is still running
+ Job 16362234 is still running
+ Job 16362235 is still running
+ Job 16362236 is still running
+ Job 16362237 is still running
+ Job 16362243 is still running
+ Job 16362257 is still running
+ Job 16362258 is still running
+ Job 16362259 is still running
+ Job 16362260 is still running
+ Job 16362261 is still running
+16 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Jan 16 09:51:22 2017: Checking queue...
+Number of jobs to check: 16
+ Job 16362228 is still running
+ Job 16362229 is still running
+ Job 16362230 is still running
+ Job 16362231 is still running
+ Job 16362232 is still running
+ Job 16362233 is still running
+ Job 16362234 is still running
+ Job 16362235 is still running
+ Job 16362236 is still running
+ Job 16362237 is still running
+ Job 16362243 is still running
+ Job 16362257 is still running
+ Job 16362258 is still running
+ Job 16362259 is still running
+ Job 16362260 is still running
+ Job 16362261 is still running
+16 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Jan 16 09:53:28 2017: Checking queue...
+Number of jobs to check: 16
+ Job 16362228 is still running
+ Job 16362229 is still running
+ Job 16362230 is still running
+ Job 16362231 is still running
+ Job 16362232 is still running
+ Job 16362233 is still running
+ Job 16362234 is still running
+ Job 16362235 is still running
+ Job 16362236 is still running
+ Job 16362237 is still running
+ Job 16362243 is still running
+ Job 16362257 is still running
+ Job 16362258 is still running
+ Job 16362259 is still running
+ Job 16362260 is still running
+ Job 16362261 is still running
+16 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Jan 16 09:55:42 2017: Checking queue...
+Number of jobs to check: 16
+ Job 16362228 is still running
+ Job 16362229 is still running
+ Job 16362230 is still running
+ Job 16362231 is still running
+ Job 16362232 is still running
+ Job 16362233 is still running
+ Job 16362234 is still running
+ Job 16362235 is still running
+ Job 16362236 is still running
+ Job 16362237 is still running
+ Job 16362243 is still running
+ Job 16362257 is still running
+ Job 16362258 is still running
+ Job 16362259 is still running
+ Job 16362260 is still running
+ Job 16362261 is still running
+16 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Jan 16 09:57:56 2017: Checking queue...
+Number of jobs to check: 16
+ Job 16362228 is still running
+ Job 16362229 is still running
+ Job 16362230 is still running
+ Job 16362231 is still running
+ Job 16362232 is still running
+ Job 16362233 is still running
+ Job 16362234 is still running
+ Job 16362235 is still running
+ Job 16362236 is still running
+ Job 16362237 is still running
+ Job 16362243 is still running
+ Job 16362257 is still running
+ Job 16362258 is still running
+ Job 16362259 is still running
+ Job 16362260 is still running
+ Job 16362261 is still running
+16 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Jan 16 10:00:04 2017: Checking queue...
+Number of jobs to check: 16
+ Job 16362228 is still running
+ Job 16362229 is still running
+ Job 16362230 is still running
+ Job 16362231 is still running
+ Job 16362232 is still running
+ Job 16362233 is still running
+ Job 16362234 is still running
+ Job 16362235 is still running
+ Job 16362236 is still running
+ Job 16362237 is still running
+ Job 16362243 is still running
+ Job 16362257 is still running
+ Job 16362258 is still running
+ Job 16362259 is still running
+ Job 16362260 is still running
+ Job 16362261 is still running
+16 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Jan 16 10:02:15 2017: Checking queue...
+Number of jobs to check: 16
+ Job 16362228 is still running
+ Job 16362229 is still running
+ Job 16362230 is still running
+ Job 16362231 is still running
+ Job 16362232 is still running
+ Job 16362233 is still running
+ Job 16362234 is still running
+ Job 16362235 is still running
+ Job 16362236 is still running
+ Job 16362237 is still running
+ Job 16362243 is still running
+ Job 16362257 is still running
+ Job 16362258 is still running
+ Job 16362259 is still running
+ Job 16362260 is still running
+ Job 16362261 is still running
+16 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Jan 16 10:04:24 2017: Checking queue...
+Number of jobs to check: 16
+ Job 16362228 is still running
+ Job 16362229 is still running
+ Job 16362230 is still running
+ Job 16362231 is still running
+ Job 16362232 is still running
+ Job 16362233 is still running
+ Job 16362234 is still running
+ Job 16362235 is still running
+ Job 16362236 is still running
+ Job 16362237 is still running
+ Job 16362243 is still running
+ Job 16362257 is still running
+ Job 16362258 is still running
+ Job 16362259 is still running
+ Job 16362260 is still running
+ Job 16362261 is still running
+16 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Jan 16 10:06:36 2017: Checking queue...
+Number of jobs to check: 16
+ Job 16362228 is still running
+ Job 16362229 is still running
+ Job 16362230 is still running
+ Job 16362231 is still running
+ Job 16362232 is still running
+ Job 16362233 is still running
+ Job 16362234 is still running
+ Job 16362235 is still running
+ Job 16362236 is still running
+ Job 16362237 is still running
+ Job 16362243 is still running
+ Job 16362257 is still running
+ Job 16362258 is still running
+ Job 16362259 is still running
+ Job 16362260 is still running
+ Job 16362261 is still running
+16 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Jan 16 10:08:44 2017: Checking queue...
+Number of jobs to check: 16
+ Job 16362228 is still running
+ Job 16362229 is still running
+ Job 16362230 is still running
+ Job 16362231 is still running
+ Job 16362232 is still running
+ Job 16362233 is still running
+ Job 16362234 is still running
+ Job 16362235 is still running
+ Job 16362236 is still running
+ Job 16362237 is still running
+ Job 16362243 is still running
+ Job 16362257 is still running
+ Job 16362258 is still running
+ Job 16362259 is still running
+ Job 16362260 is still running
+ Job 16362261 is still running
+16 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Jan 16 10:10:52 2017: Checking queue...
+Number of jobs to check: 16
+ Job 16362228 is still running
+ Job 16362229 is still running
+ Job 16362230 is still running
+ Job 16362231 is still running
+ Job 16362232 is still running
+ Job 16362233 is still running
+ Job 16362234 is still running
+ Job 16362235 is still running
+ Job 16362236 is still running
+ Job 16362237 is still running
+ Job 16362243 is still running
+ Job 16362257 is still running
+ Job 16362258 is still running
+ Job 16362259 is still running
+ Job 16362260 is still running
+ Job 16362261 is still running
+16 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Jan 16 10:13:03 2017: Checking queue...
+Number of jobs to check: 16
+ Job 16362228 is still running
+ Job 16362229 has finished:
+       JobID               Start                 End  MaxVMSize     MaxRSS      State ExitCode 
+  ------------ ------------------- ------------------- ---------- ---------- ---------- -------- 
+  16362229     2017-01-16T08:15:34 2017-01-16T10:12:41                        COMPLETED      0:0 
+  16362229.ba+ 2017-01-16T08:15:34 2017-01-16T10:12:41  13743868K    768810K  COMPLETED      0:0 
+ Job 16362230 is still running
+ Job 16362231 is still running
+ Job 16362232 is still running
+ Job 16362233 is still running
+ Job 16362234 is still running
+ Job 16362235 is still running
+ Job 16362236 is still running
+ Job 16362237 is still running
+ Job 16362243 is still running
+ Job 16362257 is still running
+ Job 16362258 is still running
+ Job 16362259 is still running
+ Job 16362260 is still running
+ Job 16362261 is still running
+15 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Jan 16 10:15:18 2017: Checking queue...
+Number of jobs to check: 15
+ Job 16362228 is still running
+ Job 16362230 is still running
+ Job 16362231 is still running
+ Job 16362232 is still running
+ Job 16362233 is still running
+ Job 16362234 is still running
+ Job 16362235 is still running
+ Job 16362236 is still running
+ Job 16362237 is still running
+ Job 16362243 is still running
+ Job 16362257 is still running
+ Job 16362258 is still running
+ Job 16362259 is still running
+ Job 16362260 is still running
+ Job 16362261 is still running
+15 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Jan 16 10:17:26 2017: Checking queue...
+Number of jobs to check: 15
+ Job 16362228 is still running
+ Job 16362230 is still running
+ Job 16362231 is still running
+ Job 16362232 is still running
+ Job 16362233 is still running
+ Job 16362234 is still running
+ Job 16362235 is still running
+ Job 16362236 is still running
+ Job 16362237 is still running
+ Job 16362243 is still running
+ Job 16362257 is still running
+ Job 16362258 is still running
+ Job 16362259 is still running
+ Job 16362260 is still running
+ Job 16362261 is still running
+15 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Jan 16 10:19:36 2017: Checking queue...
+Number of jobs to check: 15
+ Job 16362228 has finished:
+       JobID               Start                 End  MaxVMSize     MaxRSS      State ExitCode 
+  ------------ ------------------- ------------------- ---------- ---------- ---------- -------- 
+  16362228     2017-01-16T08:05:51 2017-01-16T10:17:54                        COMPLETED      0:0 
+  16362228.ba+ 2017-01-16T08:05:51 2017-01-16T10:17:54  14663780K    757092K  COMPLETED      0:0 
+ Job 16362230 has finished:
+       JobID               Start                 End  MaxVMSize     MaxRSS      State ExitCode 
+  ------------ ------------------- ------------------- ---------- ---------- ---------- -------- 
+  16362230     2017-01-16T08:15:34 2017-01-16T10:18:16                        COMPLETED      0:0 
+  16362230.ba+ 2017-01-16T08:15:34 2017-01-16T10:18:16  13734732K    785099K  COMPLETED      0:0 
+ Job 16362231 is still running
+ Job 16362232 is still running
+ Job 16362233 is still running
+ Job 16362234 is still running
+ Job 16362235 is still running
+ Job 16362236 is still running
+ Job 16362237 is still running
+ Job 16362243 is still running
+ Job 16362257 is still running
+ Job 16362258 is still running
+ Job 16362259 is still running
+ Job 16362260 is still running
+ Job 16362261 is still running
+13 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Jan 16 10:21:47 2017: Checking queue...
+Number of jobs to check: 13
+ Job 16362231 is still running
+ Job 16362232 is still running
+ Job 16362233 is still running
+ Job 16362234 is still running
+ Job 16362235 is still running
+ Job 16362236 is still running
+ Job 16362237 is still running
+ Job 16362243 is still running
+ Job 16362257 is still running
+ Job 16362258 is still running
+ Job 16362259 is still running
+ Job 16362260 is still running
+ Job 16362261 is still running
+13 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Jan 16 10:23:53 2017: Checking queue...
+Number of jobs to check: 13
+ Job 16362231 is still running
+ Job 16362232 has finished:
+       JobID               Start                 End  MaxVMSize     MaxRSS      State ExitCode 
+  ------------ ------------------- ------------------- ---------- ---------- ---------- -------- 
+  16362232     2017-01-16T08:15:34 2017-01-16T10:22:07                        COMPLETED      0:0 
+  16362232.ba+ 2017-01-16T08:15:34 2017-01-16T10:22:07  13743660K    788579K  COMPLETED      0:0 
+ Job 16362233 is still running
+ Job 16362234 is still running
+ Job 16362235 is still running
+ Job 16362236 is still running
+ Job 16362237 is still running
+ Job 16362243 is still running
+ Job 16362257 is still running
+ Job 16362258 has finished:
+       JobID               Start                 End  MaxVMSize     MaxRSS      State ExitCode 
+  ------------ ------------------- ------------------- ---------- ---------- ---------- -------- 
+  16362258     2017-01-16T08:18:55 2017-01-16T10:22:21                        COMPLETED      0:0 
+  16362258.ba+ 2017-01-16T08:18:55 2017-01-16T10:22:21  13743124K    766869K  COMPLETED      0:0 
+ Job 16362259 is still running
+ Job 16362260 is still running
+ Job 16362261 is still running
+11 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Jan 16 10:26:09 2017: Checking queue...
+Number of jobs to check: 11
+ Job 16362231 has finished:
+       JobID               Start                 End  MaxVMSize     MaxRSS      State ExitCode 
+  ------------ ------------------- ------------------- ---------- ---------- ---------- -------- 
+  16362231     2017-01-16T08:15:34 2017-01-16T10:26:02                        COMPLETED      0:0 
+  16362231.ba+ 2017-01-16T08:15:34 2017-01-16T10:26:02  13741060K    793071K  COMPLETED      0:0 
+ Job 16362233 is still running
+ Job 16362234 has finished:
+       JobID               Start                 End  MaxVMSize     MaxRSS      State ExitCode 
+  ------------ ------------------- ------------------- ---------- ---------- ---------- -------- 
+  16362234     2017-01-16T08:16:23 2017-01-16T10:25:10                        COMPLETED      0:0 
+  16362234.ba+ 2017-01-16T08:16:23 2017-01-16T10:25:10  13743972K    780977K  COMPLETED      0:0 
+ Job 16362235 is still running
+ Job 16362236 is still running
+ Job 16362237 has finished:
+       JobID               Start                 End  MaxVMSize     MaxRSS      State ExitCode 
+  ------------ ------------------- ------------------- ---------- ---------- ---------- -------- 
+  16362237     2017-01-16T08:17:18 2017-01-16T10:24:52                        COMPLETED      0:0 
+  16362237.ba+ 2017-01-16T08:17:18 2017-01-16T10:24:52  13731652K    783771K  COMPLETED      0:0 
+ Job 16362243 has finished:
+       JobID               Start                 End  MaxVMSize     MaxRSS      State ExitCode 
+  ------------ ------------------- ------------------- ---------- ---------- ---------- -------- 
+  16362243     2017-01-16T08:18:07 2017-01-16T10:24:01                        COMPLETED      0:0 
+  16362243.ba+ 2017-01-16T08:18:07 2017-01-16T10:24:01  13732376K    628655K  COMPLETED      0:0 
+ Job 16362257 is still running
+ Job 16362259 is still running
+ Job 16362260 has finished:
+       JobID               Start                 End  MaxVMSize     MaxRSS      State ExitCode 
+  ------------ ------------------- ------------------- ---------- ---------- ---------- -------- 
+  16362260     2017-01-16T08:19:43 2017-01-16T10:24:44                        COMPLETED      0:0 
+  16362260.ba+ 2017-01-16T08:19:43 2017-01-16T10:24:44  13736428K    764208K  COMPLETED      0:0 
+ Job 16362261 is still running
+6 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Jan 16 10:28:18 2017: Checking queue...
+Number of jobs to check: 6
+ Job 16362233 is still running
+ Job 16362235 is still running
+ Job 16362236 is still running
+ Job 16362257 has finished:
+       JobID               Start                 End  MaxVMSize     MaxRSS      State ExitCode 
+  ------------ ------------------- ------------------- ---------- ---------- ---------- -------- 
+  16362257     2017-01-16T08:18:07 2017-01-16T10:26:14                        COMPLETED      0:0 
+  16362257.ba+ 2017-01-16T08:18:07 2017-01-16T10:26:14  13743236K    719925K  COMPLETED      0:0 
+ Job 16362259 has finished:
+       JobID               Start                 End  MaxVMSize     MaxRSS      State ExitCode 
+  ------------ ------------------- ------------------- ---------- ---------- ---------- -------- 
+  16362259     2017-01-16T08:19:43 2017-01-16T10:27:34                        COMPLETED      0:0 
+  16362259.ba+ 2017-01-16T08:19:43 2017-01-16T10:27:34  13744628K    754068K  COMPLETED      0:0 
+ Job 16362261 has finished:
+       JobID               Start                 End  MaxVMSize     MaxRSS      State ExitCode 
+  ------------ ------------------- ------------------- ---------- ---------- ---------- -------- 
+  16362261     2017-01-16T08:19:43 2017-01-16T10:27:04                        COMPLETED      0:0 
+  16362261.ba+ 2017-01-16T08:19:43 2017-01-16T10:27:04  13739428K    755049K  COMPLETED      0:0 
+3 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Jan 16 10:30:32 2017: Checking queue...
+Number of jobs to check: 3
+ Job 16362233 is still running
+ Job 16362235 is still running
+ Job 16362236 is still running
+3 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Jan 16 10:32:39 2017: Checking queue...
+Number of jobs to check: 3
+ Job 16362233 is still running
+ Job 16362235 is still running
+ Job 16362236 is still running
+3 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Jan 16 10:34:54 2017: Checking queue...
+Number of jobs to check: 3
+ Job 16362233 is still running
+ Job 16362235 is still running
+ Job 16362236 is still running
+3 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Jan 16 10:37:07 2017: Checking queue...
+Number of jobs to check: 3
+ Job 16362233 is still running
+ Job 16362235 is still running
+ Job 16362236 is still running
+3 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Jan 16 10:39:13 2017: Checking queue...
+Number of jobs to check: 3
+ Job 16362233 is still running
+ Job 16362235 is still running
+ Job 16362236 is still running
+3 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Jan 16 10:41:23 2017: Checking queue...
+Number of jobs to check: 3
+ Job 16362233 is still running
+ Job 16362235 is still running
+ Job 16362236 is still running
+3 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Jan 16 10:43:39 2017: Checking queue...
+Number of jobs to check: 3
+ Job 16362233 is still running
+ Job 16362235 is still running
+ Job 16362236 is still running
+3 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Jan 16 10:45:51 2017: Checking queue...
+Number of jobs to check: 3
+ Job 16362233 is still running
+ Job 16362235 is still running
+ Job 16362236 is still running
+3 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Jan 16 10:47:59 2017: Checking queue...
+Number of jobs to check: 3
+ Job 16362233 is still running
+ Job 16362235 is still running
+ Job 16362236 is still running
+3 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Jan 16 10:50:05 2017: Checking queue...
+Number of jobs to check: 3
+ Job 16362233 is still running
+ Job 16362235 is still running
+ Job 16362236 is still running
+3 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Jan 16 10:52:14 2017: Checking queue...
+Number of jobs to check: 3
+ Job 16362233 is still running
+ Job 16362235 is still running
+ Job 16362236 is still running
+3 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Jan 16 10:54:23 2017: Checking queue...
+Number of jobs to check: 3
+ Job 16362233 is still running
+ Job 16362235 is still running
+ Job 16362236 is still running
+3 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Jan 16 10:56:29 2017: Checking queue...
+Number of jobs to check: 3
+ Job 16362233 is still running
+ Job 16362235 is still running
+ Job 16362236 is still running
+3 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Jan 16 10:58:39 2017: Checking queue...
+Number of jobs to check: 3
+ Job 16362233 is still running
+ Job 16362235 is still running
+ Job 16362236 is still running
+3 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Jan 16 11:00:53 2017: Checking queue...
+Number of jobs to check: 3
+ Job 16362233 is still running
+ Job 16362235 is still running
+ Job 16362236 is still running
+3 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Jan 16 11:03:01 2017: Checking queue...
+Number of jobs to check: 3
+ Job 16362233 is still running
+ Job 16362235 has finished:
+       JobID               Start                 End  MaxVMSize     MaxRSS      State ExitCode 
+  ------------ ------------------- ------------------- ---------- ---------- ---------- -------- 
+  16362235     2017-01-16T08:16:23 2017-01-16T11:02:19                        COMPLETED      0:0 
+  16362235.ba+ 2017-01-16T08:16:23 2017-01-16T11:02:19  13745272K    738474K  COMPLETED      0:0 
+ Job 16362236 is still running
+2 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Jan 16 11:05:13 2017: Checking queue...
+Number of jobs to check: 2
+ Job 16362233 is still running
+ Job 16362236 is still running
+2 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Jan 16 11:07:19 2017: Checking queue...
+Number of jobs to check: 2
+ Job 16362233 is still running
+ Job 16362236 is still running
+2 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Jan 16 11:09:30 2017: Checking queue...
+Number of jobs to check: 2
+ Job 16362233 is still running
+ Job 16362236 is still running
+2 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Jan 16 11:11:35 2017: Checking queue...
+Number of jobs to check: 2
+ Job 16362233 is still running
+ Job 16362236 is still running
+2 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Jan 16 11:13:50 2017: Checking queue...
+Number of jobs to check: 2
+ Job 16362233 is still running
+ Job 16362236 is still running
+2 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Jan 16 11:15:58 2017: Checking queue...
+Number of jobs to check: 2
+ Job 16362233 is still running
+ Job 16362236 is still running
+2 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Jan 16 11:18:07 2017: Checking queue...
+Number of jobs to check: 2
+ Job 16362233 is still running
+ Job 16362236 has finished:
+       JobID               Start                 End  MaxVMSize     MaxRSS      State ExitCode 
+  ------------ ------------------- ------------------- ---------- ---------- ---------- -------- 
+  16362236     2017-01-16T08:16:23 2017-01-16T11:17:33                        COMPLETED      0:0 
+  16362236.ba+ 2017-01-16T08:16:23 2017-01-16T11:17:33  13745768K    798409K  COMPLETED      0:0 
+1 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Jan 16 11:20:16 2017: Checking queue...
+Number of jobs to check: 1
+ Job 16362233 is still running
+1 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Jan 16 11:22:28 2017: Checking queue...
+Number of jobs to check: 1
+ Job 16362233 is still running
+1 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Jan 16 11:24:41 2017: Checking queue...
+Number of jobs to check: 1
+ Job 16362233 is still running
+1 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Jan 16 11:26:56 2017: Checking queue...
+Number of jobs to check: 1
+ Job 16362233 has finished:
+       JobID               Start                 End  MaxVMSize     MaxRSS      State ExitCode 
+  ------------ ------------------- ------------------- ---------- ---------- ---------- -------- 
+  16362233     2017-01-16T08:16:23 2017-01-16T11:25:01                        COMPLETED      0:0 
+  16362233.ba+ 2017-01-16T08:16:23 2017-01-16T11:25:01  13746284K    797374K  COMPLETED      0:0 
+Done.
+
+No Modulefiles Currently Loaded.
+
+Job script resource usage:
+       JobID  MaxVMSize     MaxRSS 
+------------ ---------- ---------- 
+16359225.ba+    360912K      4070K 
+
+Job step resource usage:
+       JobID    JobName  AllocCPUS  MaxVMSize     MaxRSS    Elapsed ExitCode 
+------------ ---------- ---------- ---------- ---------- ---------- -------- 
+16359225     tblastx_nt          1                         03:24:31      0:0 
+16359225.0   arrayrun_+          1    273524K      2896K   03:24:28      0:0 
+
+Job 16359225 ("tblastx_nt") completed on c16-33 at ma. 16. jan. 11:27:06 +0100 2017

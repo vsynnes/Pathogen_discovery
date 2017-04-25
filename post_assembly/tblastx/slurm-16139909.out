@@ -1,0 +1,2025 @@
+Starting job 16139909 ("tblastx_nt") on c18-34 at ma. 12. des. 07:38:06 +0100 2016
+TASK_IDs to submit: 00,01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16
+Command line: tblastx_remote_worker.sh
+Main job id: 16139909
+Start time: 2016-12-12
+Mon Dec 12 07:38:07 2016: Submitting jobs...
+17 more job(s) to submit
+0 job(s) are running, and 0 are waiting
+Submitting 10 job(s):
+ TASK_ID 00:
+  Result from submit: Submitted batch job 16139910 => job ID 16139910
+ TASK_ID 01:
+  Result from submit: Submitted batch job 16139911 => job ID 16139911
+ TASK_ID 02:
+  Result from submit: Submitted batch job 16139912 => job ID 16139912
+ TASK_ID 03:
+  Result from submit: Submitted batch job 16139913 => job ID 16139913
+ TASK_ID 04:
+  Result from submit: Submitted batch job 16139914 => job ID 16139914
+ TASK_ID 05:
+  Result from submit: Submitted batch job 16139915 => job ID 16139915
+ TASK_ID 06:
+  Result from submit: Submitted batch job 16139916 => job ID 16139916
+ TASK_ID 07:
+  Result from submit: Submitted batch job 16139917 => job ID 16139917
+ TASK_ID 08:
+  Result from submit: Submitted batch job 16139918 => job ID 16139918
+ TASK_ID 09:
+  Result from submit: Submitted batch job 16139919 => job ID 16139919
+Sleeping...
+Mon Dec 12 07:40:09 2016: Checking queue...
+Number of jobs to check: 10
+ Job 16139910 is still running
+ Job 16139911 is still running
+ Job 16139912 is still running
+ Job 16139913 is still running
+ Job 16139914 is still waiting
+ Job 16139915 is still waiting
+ Job 16139916 is still waiting
+ Job 16139917 is still waiting
+ Job 16139918 is still waiting
+ Job 16139919 is still waiting
+Mon Dec 12 07:40:20 2016: Submitting jobs...
+7 more job(s) to submit
+4 job(s) are running, and 6 are waiting
+Submitting 4 job(s):
+ TASK_ID 10:
+  Result from submit: Submitted batch job 16139921 => job ID 16139921
+ TASK_ID 11:
+  Result from submit: Submitted batch job 16139922 => job ID 16139922
+ TASK_ID 12:
+  Result from submit: Submitted batch job 16139923 => job ID 16139923
+ TASK_ID 13:
+  Result from submit: Submitted batch job 16139924 => job ID 16139924
+Sleeping...
+Mon Dec 12 07:42:17 2016: Checking queue...
+Number of jobs to check: 14
+ Job 16139910 is still running
+ Job 16139911 is still running
+ Job 16139912 is still running
+ Job 16139913 is still running
+ Job 16139914 is still waiting
+ Job 16139915 is still waiting
+ Job 16139916 is still waiting
+ Job 16139917 is still waiting
+ Job 16139918 is still waiting
+ Job 16139919 is still waiting
+ Job 16139921 is still waiting
+ Job 16139922 is still waiting
+ Job 16139923 is still waiting
+ Job 16139924 is still waiting
+Mon Dec 12 07:42:28 2016: Submitting jobs...
+3 more job(s) to submit
+4 job(s) are running, and 10 are waiting
+Submitting 0 job(s):
+Sleeping...
+Mon Dec 12 07:44:23 2016: Checking queue...
+Number of jobs to check: 14
+ Job 16139910 is still running
+ Job 16139911 is still running
+ Job 16139912 is still running
+ Job 16139913 is still running
+ Job 16139914 is still waiting
+ Job 16139915 is still waiting
+ Job 16139916 is still waiting
+ Job 16139917 is still waiting
+ Job 16139918 is still waiting
+ Job 16139919 is still waiting
+ Job 16139921 is still waiting
+ Job 16139922 is still waiting
+ Job 16139923 is still waiting
+ Job 16139924 is still waiting
+Mon Dec 12 07:44:33 2016: Submitting jobs...
+3 more job(s) to submit
+4 job(s) are running, and 10 are waiting
+Submitting 0 job(s):
+Sleeping...
+Mon Dec 12 07:46:32 2016: Checking queue...
+Number of jobs to check: 14
+ Job 16139910 is still running
+ Job 16139911 is still running
+ Job 16139912 is still running
+ Job 16139913 is still running
+ Job 16139914 is still waiting
+ Job 16139915 is still waiting
+ Job 16139916 is still waiting
+ Job 16139917 is still waiting
+ Job 16139918 is still waiting
+ Job 16139919 is still waiting
+ Job 16139921 is still waiting
+ Job 16139922 is still waiting
+ Job 16139923 is still waiting
+ Job 16139924 is still waiting
+Mon Dec 12 07:46:42 2016: Submitting jobs...
+3 more job(s) to submit
+4 job(s) are running, and 10 are waiting
+Submitting 0 job(s):
+Sleeping...
+Mon Dec 12 07:48:45 2016: Checking queue...
+Number of jobs to check: 14
+ Job 16139910 is still running
+ Job 16139911 is still running
+ Job 16139912 is still running
+ Job 16139913 is still running
+ Job 16139914 is still running
+ Job 16139915 is still waiting
+ Job 16139916 is still waiting
+ Job 16139917 is still waiting
+ Job 16139918 is still waiting
+ Job 16139919 is still waiting
+ Job 16139921 is still waiting
+ Job 16139922 is still waiting
+ Job 16139923 is still waiting
+ Job 16139924 is still waiting
+Mon Dec 12 07:48:56 2016: Submitting jobs...
+3 more job(s) to submit
+5 job(s) are running, and 9 are waiting
+Submitting 1 job(s):
+ TASK_ID 14:
+  Result from submit: Submitted batch job 16139934 => job ID 16139934
+Sleeping...
+Mon Dec 12 07:50:54 2016: Checking queue...
+Number of jobs to check: 15
+ Job 16139910 is still running
+ Job 16139911 is still running
+ Job 16139912 is still running
+ Job 16139913 is still running
+ Job 16139914 is still running
+ Job 16139915 is still waiting
+ Job 16139916 is still waiting
+ Job 16139917 is still waiting
+ Job 16139918 is still waiting
+ Job 16139919 is still waiting
+ Job 16139921 is still waiting
+ Job 16139922 is still waiting
+ Job 16139923 is still waiting
+ Job 16139924 is still waiting
+ Job 16139934 is still waiting
+Mon Dec 12 07:51:05 2016: Submitting jobs...
+2 more job(s) to submit
+5 job(s) are running, and 10 are waiting
+Submitting 0 job(s):
+Sleeping...
+Mon Dec 12 07:53:07 2016: Checking queue...
+Number of jobs to check: 15
+ Job 16139910 is still running
+ Job 16139911 is still running
+ Job 16139912 is still running
+ Job 16139913 is still running
+ Job 16139914 is still running
+ Job 16139915 is still waiting
+ Job 16139916 is still waiting
+ Job 16139917 is still waiting
+ Job 16139918 is still waiting
+ Job 16139919 is still waiting
+ Job 16139921 is still waiting
+ Job 16139922 is still waiting
+ Job 16139923 is still waiting
+ Job 16139924 is still waiting
+ Job 16139934 is still waiting
+Mon Dec 12 07:53:18 2016: Submitting jobs...
+2 more job(s) to submit
+5 job(s) are running, and 10 are waiting
+Submitting 0 job(s):
+Sleeping...
+Mon Dec 12 07:55:16 2016: Checking queue...
+Number of jobs to check: 15
+ Job 16139910 is still running
+ Job 16139911 is still running
+ Job 16139912 is still running
+ Job 16139913 is still running
+ Job 16139914 is still running
+ Job 16139915 is still waiting
+ Job 16139916 is still waiting
+ Job 16139917 is still waiting
+ Job 16139918 is still waiting
+ Job 16139919 is still waiting
+ Job 16139921 is still waiting
+ Job 16139922 is still waiting
+ Job 16139923 is still waiting
+ Job 16139924 is still waiting
+ Job 16139934 is still waiting
+Mon Dec 12 07:55:27 2016: Submitting jobs...
+2 more job(s) to submit
+5 job(s) are running, and 10 are waiting
+Submitting 0 job(s):
+Sleeping...
+Mon Dec 12 07:57:25 2016: Checking queue...
+Number of jobs to check: 15
+ Job 16139910 is still running
+ Job 16139911 is still running
+ Job 16139912 is still running
+ Job 16139913 is still running
+ Job 16139914 is still running
+ Job 16139915 is still waiting
+ Job 16139916 is still waiting
+ Job 16139917 is still waiting
+ Job 16139918 is still waiting
+ Job 16139919 is still waiting
+ Job 16139921 is still waiting
+ Job 16139922 is still waiting
+ Job 16139923 is still waiting
+ Job 16139924 is still waiting
+ Job 16139934 is still waiting
+Mon Dec 12 07:57:35 2016: Submitting jobs...
+2 more job(s) to submit
+5 job(s) are running, and 10 are waiting
+Submitting 0 job(s):
+Sleeping...
+Mon Dec 12 07:59:31 2016: Checking queue...
+Number of jobs to check: 15
+ Job 16139910 is still running
+ Job 16139911 is still running
+ Job 16139912 is still running
+ Job 16139913 is still running
+ Job 16139914 is still running
+ Job 16139915 is still waiting
+ Job 16139916 is still waiting
+ Job 16139917 is still waiting
+ Job 16139918 is still waiting
+ Job 16139919 is still waiting
+ Job 16139921 is still waiting
+ Job 16139922 is still waiting
+ Job 16139923 is still waiting
+ Job 16139924 is still waiting
+ Job 16139934 is still waiting
+Mon Dec 12 07:59:42 2016: Submitting jobs...
+2 more job(s) to submit
+5 job(s) are running, and 10 are waiting
+Submitting 0 job(s):
+Sleeping...
+Mon Dec 12 08:01:39 2016: Checking queue...
+Number of jobs to check: 15
+ Job 16139910 is still running
+ Job 16139911 is still running
+ Job 16139912 is still running
+ Job 16139913 is still running
+ Job 16139914 is still running
+ Job 16139915 is still waiting
+ Job 16139916 is still waiting
+ Job 16139917 is still waiting
+ Job 16139918 is still waiting
+ Job 16139919 is still waiting
+ Job 16139921 is still waiting
+ Job 16139922 is still waiting
+ Job 16139923 is still waiting
+ Job 16139924 is still waiting
+ Job 16139934 is still waiting
+Mon Dec 12 08:01:50 2016: Submitting jobs...
+2 more job(s) to submit
+5 job(s) are running, and 10 are waiting
+Submitting 0 job(s):
+Sleeping...
+Mon Dec 12 08:03:52 2016: Checking queue...
+Number of jobs to check: 15
+ Job 16139910 is still running
+ Job 16139911 is still running
+ Job 16139912 is still running
+ Job 16139913 is still running
+ Job 16139914 is still running
+ Job 16139915 is still waiting
+ Job 16139916 is still waiting
+ Job 16139917 is still waiting
+ Job 16139918 is still waiting
+ Job 16139919 is still waiting
+ Job 16139921 is still waiting
+ Job 16139922 is still waiting
+ Job 16139923 is still waiting
+ Job 16139924 is still waiting
+ Job 16139934 is still waiting
+Mon Dec 12 08:04:03 2016: Submitting jobs...
+2 more job(s) to submit
+5 job(s) are running, and 10 are waiting
+Submitting 0 job(s):
+Sleeping...
+Mon Dec 12 08:05:59 2016: Checking queue...
+Number of jobs to check: 15
+ Job 16139910 is still running
+ Job 16139911 is still running
+ Job 16139912 is still running
+ Job 16139913 is still running
+ Job 16139914 is still running
+ Job 16139915 is still waiting
+ Job 16139916 is still waiting
+ Job 16139917 is still waiting
+ Job 16139918 is still waiting
+ Job 16139919 is still waiting
+ Job 16139921 is still waiting
+ Job 16139922 is still waiting
+ Job 16139923 is still waiting
+ Job 16139924 is still waiting
+ Job 16139934 is still waiting
+Mon Dec 12 08:06:09 2016: Submitting jobs...
+2 more job(s) to submit
+5 job(s) are running, and 10 are waiting
+Submitting 0 job(s):
+Sleeping...
+Mon Dec 12 08:08:09 2016: Checking queue...
+Number of jobs to check: 15
+ Job 16139910 is still running
+ Job 16139911 is still running
+ Job 16139912 is still running
+ Job 16139913 is still running
+ Job 16139914 is still running
+ Job 16139915 is still waiting
+ Job 16139916 is still waiting
+ Job 16139917 is still waiting
+ Job 16139918 is still waiting
+ Job 16139919 is still waiting
+ Job 16139921 is still waiting
+ Job 16139922 is still waiting
+ Job 16139923 is still waiting
+ Job 16139924 is still waiting
+ Job 16139934 is still waiting
+Mon Dec 12 08:08:20 2016: Submitting jobs...
+2 more job(s) to submit
+5 job(s) are running, and 10 are waiting
+Submitting 0 job(s):
+Sleeping...
+Mon Dec 12 08:10:22 2016: Checking queue...
+Number of jobs to check: 15
+ Job 16139910 is still running
+ Job 16139911 is still running
+ Job 16139912 is still running
+ Job 16139913 is still running
+ Job 16139914 is still running
+ Job 16139915 is still waiting
+ Job 16139916 is still waiting
+ Job 16139917 is still waiting
+ Job 16139918 is still waiting
+ Job 16139919 is still waiting
+ Job 16139921 is still waiting
+ Job 16139922 is still waiting
+ Job 16139923 is still waiting
+ Job 16139924 is still waiting
+ Job 16139934 is still waiting
+Mon Dec 12 08:10:33 2016: Submitting jobs...
+2 more job(s) to submit
+5 job(s) are running, and 10 are waiting
+Submitting 0 job(s):
+Sleeping...
+Mon Dec 12 08:12:35 2016: Checking queue...
+Number of jobs to check: 15
+ Job 16139910 is still running
+ Job 16139911 is still running
+ Job 16139912 is still running
+ Job 16139913 is still running
+ Job 16139914 is still running
+ Job 16139915 is still waiting
+ Job 16139916 is still waiting
+ Job 16139917 is still waiting
+ Job 16139918 is still waiting
+ Job 16139919 is still waiting
+ Job 16139921 is still waiting
+ Job 16139922 is still waiting
+ Job 16139923 is still waiting
+ Job 16139924 is still waiting
+ Job 16139934 is still waiting
+Mon Dec 12 08:12:46 2016: Submitting jobs...
+2 more job(s) to submit
+5 job(s) are running, and 10 are waiting
+Submitting 0 job(s):
+Sleeping...
+Mon Dec 12 08:14:50 2016: Checking queue...
+Number of jobs to check: 15
+ Job 16139910 is still running
+ Job 16139911 is still running
+ Job 16139912 is still running
+ Job 16139913 is still running
+ Job 16139914 is still running
+ Job 16139915 is still waiting
+ Job 16139916 is still waiting
+ Job 16139917 is still waiting
+ Job 16139918 is still waiting
+ Job 16139919 is still waiting
+ Job 16139921 is still waiting
+ Job 16139922 is still waiting
+ Job 16139923 is still waiting
+ Job 16139924 is still waiting
+ Job 16139934 is still waiting
+Mon Dec 12 08:15:00 2016: Submitting jobs...
+2 more job(s) to submit
+5 job(s) are running, and 10 are waiting
+Submitting 0 job(s):
+Sleeping...
+Mon Dec 12 08:17:05 2016: Checking queue...
+Number of jobs to check: 15
+ Job 16139910 is still running
+ Job 16139911 is still running
+ Job 16139912 is still running
+ Job 16139913 is still running
+ Job 16139914 is still running
+ Job 16139915 is still waiting
+ Job 16139916 is still waiting
+ Job 16139917 is still waiting
+ Job 16139918 is still waiting
+ Job 16139919 is still waiting
+ Job 16139921 is still waiting
+ Job 16139922 is still waiting
+ Job 16139923 is still waiting
+ Job 16139924 is still waiting
+ Job 16139934 is still waiting
+Mon Dec 12 08:17:15 2016: Submitting jobs...
+2 more job(s) to submit
+5 job(s) are running, and 10 are waiting
+Submitting 0 job(s):
+Sleeping...
+Mon Dec 12 08:19:14 2016: Checking queue...
+Number of jobs to check: 15
+ Job 16139910 is still running
+ Job 16139911 is still running
+ Job 16139912 is still running
+ Job 16139913 is still running
+ Job 16139914 is still running
+ Job 16139915 is still waiting
+ Job 16139916 is still waiting
+ Job 16139917 is still waiting
+ Job 16139918 is still waiting
+ Job 16139919 is still waiting
+ Job 16139921 is still waiting
+ Job 16139922 is still waiting
+ Job 16139923 is still waiting
+ Job 16139924 is still waiting
+ Job 16139934 is still waiting
+Mon Dec 12 08:19:24 2016: Submitting jobs...
+2 more job(s) to submit
+5 job(s) are running, and 10 are waiting
+Submitting 0 job(s):
+Sleeping...
+Mon Dec 12 08:21:28 2016: Checking queue...
+Number of jobs to check: 15
+ Job 16139910 is still running
+ Job 16139911 is still running
+ Job 16139912 is still running
+ Job 16139913 is still running
+ Job 16139914 is still running
+ Job 16139915 is still waiting
+ Job 16139916 is still waiting
+ Job 16139917 is still waiting
+ Job 16139918 is still waiting
+ Job 16139919 is still waiting
+ Job 16139921 is still waiting
+ Job 16139922 is still waiting
+ Job 16139923 is still waiting
+ Job 16139924 is still waiting
+ Job 16139934 is still waiting
+Mon Dec 12 08:21:39 2016: Submitting jobs...
+2 more job(s) to submit
+5 job(s) are running, and 10 are waiting
+Submitting 0 job(s):
+Sleeping...
+Mon Dec 12 08:23:41 2016: Checking queue...
+Number of jobs to check: 15
+ Job 16139910 is still running
+ Job 16139911 is still running
+ Job 16139912 is still running
+ Job 16139913 is still running
+ Job 16139914 is still running
+ Job 16139915 is still waiting
+ Job 16139916 is still waiting
+ Job 16139917 is still waiting
+ Job 16139918 is still waiting
+ Job 16139919 is still waiting
+ Job 16139921 is still waiting
+ Job 16139922 is still waiting
+ Job 16139923 is still waiting
+ Job 16139924 is still waiting
+ Job 16139934 is still waiting
+Mon Dec 12 08:23:52 2016: Submitting jobs...
+2 more job(s) to submit
+5 job(s) are running, and 10 are waiting
+Submitting 0 job(s):
+Sleeping...
+Mon Dec 12 08:25:57 2016: Checking queue...
+Number of jobs to check: 15
+ Job 16139910 is still running
+ Job 16139911 is still running
+ Job 16139912 is still running
+ Job 16139913 is still running
+ Job 16139914 is still running
+ Job 16139915 is still waiting
+ Job 16139916 is still waiting
+ Job 16139917 is still waiting
+ Job 16139918 is still waiting
+ Job 16139919 is still waiting
+ Job 16139921 is still waiting
+ Job 16139922 is still waiting
+ Job 16139923 is still waiting
+ Job 16139924 is still waiting
+ Job 16139934 is still waiting
+Mon Dec 12 08:26:07 2016: Submitting jobs...
+2 more job(s) to submit
+5 job(s) are running, and 10 are waiting
+Submitting 0 job(s):
+Sleeping...
+Mon Dec 12 08:28:08 2016: Checking queue...
+Number of jobs to check: 15
+ Job 16139910 is still running
+ Job 16139911 is still running
+ Job 16139912 is still running
+ Job 16139913 is still running
+ Job 16139914 is still running
+ Job 16139915 is still waiting
+ Job 16139916 is still waiting
+ Job 16139917 is still waiting
+ Job 16139918 is still waiting
+ Job 16139919 is still waiting
+ Job 16139921 is still waiting
+ Job 16139922 is still waiting
+ Job 16139923 is still waiting
+ Job 16139924 is still waiting
+ Job 16139934 is still waiting
+Mon Dec 12 08:28:18 2016: Submitting jobs...
+2 more job(s) to submit
+5 job(s) are running, and 10 are waiting
+Submitting 0 job(s):
+Sleeping...
+Mon Dec 12 08:30:16 2016: Checking queue...
+Number of jobs to check: 15
+ Job 16139910 is still running
+ Job 16139911 is still running
+ Job 16139912 is still running
+ Job 16139913 is still running
+ Job 16139914 is still running
+ Job 16139915 is still waiting
+ Job 16139916 is still waiting
+ Job 16139917 is still waiting
+ Job 16139918 is still waiting
+ Job 16139919 is still waiting
+ Job 16139921 is still waiting
+ Job 16139922 is still waiting
+ Job 16139923 is still waiting
+ Job 16139924 is still waiting
+ Job 16139934 is still waiting
+Mon Dec 12 08:30:27 2016: Submitting jobs...
+2 more job(s) to submit
+5 job(s) are running, and 10 are waiting
+Submitting 0 job(s):
+Sleeping...
+Mon Dec 12 08:32:30 2016: Checking queue...
+Number of jobs to check: 15
+ Job 16139910 is still running
+ Job 16139911 is still running
+ Job 16139912 is still running
+ Job 16139913 is still running
+ Job 16139914 is still running
+ Job 16139915 is still waiting
+ Job 16139916 is still waiting
+ Job 16139917 is still waiting
+ Job 16139918 is still waiting
+ Job 16139919 is still waiting
+ Job 16139921 is still waiting
+ Job 16139922 is still waiting
+ Job 16139923 is still waiting
+ Job 16139924 is still waiting
+ Job 16139934 is still waiting
+Mon Dec 12 08:32:40 2016: Submitting jobs...
+2 more job(s) to submit
+5 job(s) are running, and 10 are waiting
+Submitting 0 job(s):
+Sleeping...
+Mon Dec 12 08:34:37 2016: Checking queue...
+Number of jobs to check: 15
+ Job 16139910 is still running
+ Job 16139911 is still running
+ Job 16139912 is still running
+ Job 16139913 is still running
+ Job 16139914 is still running
+ Job 16139915 is still running
+ Job 16139916 is still running
+ Job 16139917 is still running
+ Job 16139918 is still waiting
+ Job 16139919 is still waiting
+ Job 16139921 is still waiting
+ Job 16139922 is still waiting
+ Job 16139923 is still waiting
+ Job 16139924 is still waiting
+ Job 16139934 is still waiting
+Mon Dec 12 08:34:48 2016: Submitting jobs...
+2 more job(s) to submit
+8 job(s) are running, and 7 are waiting
+Submitting 2 job(s):
+ TASK_ID 15:
+  sbatch failed with error code '256' (output: ''): 
+  Problem with submitting/checking job.  Checking with squeue in a while.
+  Result from squeue: 16139919 16139909.09
+16139918 16139909.08
+16139921 16139909.10
+16139922 16139909.11
+16139923 16139909.12
+16139924 16139909.13
+16139934 16139909.14
+16139915 16139909.05
+16139916 16139909.06
+16139917 16139909.07
+16139914 16139909.04
+16139911 16139909.01
+16139912 16139909.02
+16139913 16139909.03
+16139910 16139909.00
+16139909 tblastx_ntJob '16139909.15' did not start.
+  Could not submit job.  Trying again in a while.
+  sbatch failed with error code '256' (output: ''): 
+  Problem with submitting/checking job.  Checking with squeue in a while.
+  Result from squeue: 16139919 16139909.09
+16139918 16139909.08
+16139921 16139909.10
+16139922 16139909.11
+16139923 16139909.12
+16139924 16139909.13
+16139934 16139909.14
+16139915 16139909.05
+16139916 16139909.06
+16139917 16139909.07
+16139914 16139909.04
+16139911 16139909.01
+16139912 16139909.02
+16139913 16139909.03
+16139910 16139909.00
+16139909 tblastx_ntJob '16139909.15' did not start.
+  Could not submit job.  Trying again in a while.
+  sbatch failed with error code '256' (output: ''): 
+  Problem with submitting/checking job.  Checking with squeue in a while.
+  Result from squeue: 16139919 16139909.09
+16139918 16139909.08
+16139921 16139909.10
+16139922 16139909.11
+16139923 16139909.12
+16139924 16139909.13
+16139934 16139909.14
+16139915 16139909.05
+16139916 16139909.06
+16139917 16139909.07
+16139914 16139909.04
+16139911 16139909.01
+16139912 16139909.02
+16139913 16139909.03
+16139910 16139909.00
+16139909 tblastx_ntJob '16139909.15' did not start.
+  Could not submit job.  Trying again in a while.
+  sbatch failed with error code '256' (output: ''): 
+  Problem with submitting/checking job.  Checking with squeue in a while.
+  Result from squeue: 16139919 16139909.09
+16139918 16139909.08
+16139921 16139909.10
+16139922 16139909.11
+16139923 16139909.12
+16139924 16139909.13
+16139934 16139909.14
+16139915 16139909.05
+16139916 16139909.06
+16139917 16139909.07
+16139914 16139909.04
+16139911 16139909.01
+16139912 16139909.02
+16139913 16139909.03
+16139910 16139909.00
+16139909 tblastx_ntJob '16139909.15' did not start.
+  Could not submit job.  Trying again in a while.
+  sbatch failed with error code '256' (output: ''): 
+  Problem with submitting/checking job.  Checking with squeue in a while.
+  Result from squeue: 16139921 16139909.10
+16139919 16139909.09
+16139918 16139909.08
+16139922 16139909.11
+16139923 16139909.12
+16139924 16139909.13
+16139934 16139909.14
+16139915 16139909.05
+16139916 16139909.06
+16139917 16139909.07
+16139914 16139909.04
+16139911 16139909.01
+16139912 16139909.02
+16139913 16139909.03
+16139910 16139909.00
+16139909 tblastx_ntJob '16139909.15' did not start.
+  Could not submit job.  Trying again in a while.
+  sbatch failed with error code '256' (output: ''): 
+  Problem with submitting/checking job.  Checking with squeue in a while.
+  Result from squeue: 16139919 16139909.09
+16139918 16139909.08
+16139921 16139909.10
+16139922 16139909.11
+16139923 16139909.12
+16139924 16139909.13
+16139934 16139909.14
+16139915 16139909.05
+16139916 16139909.06
+16139917 16139909.07
+16139914 16139909.04
+16139911 16139909.01
+16139912 16139909.02
+16139913 16139909.03
+16139910 16139909.00
+16139909 tblastx_ntJob '16139909.15' did not start.
+  Could not submit job.  Trying again in a while.
+  sbatch failed with error code '256' (output: ''): 
+  Problem with submitting/checking job.  Checking with squeue in a while.
+  Result from squeue: 16139921 16139909.10
+16139919 16139909.09
+16139918 16139909.08
+16139922 16139909.11
+16139923 16139909.12
+16139924 16139909.13
+16139934 16139909.14
+16139915 16139909.05
+16139916 16139909.06
+16139917 16139909.07
+16139914 16139909.04
+16139911 16139909.01
+16139912 16139909.02
+16139913 16139909.03
+16139910 16139909.00
+16139909 tblastx_ntJob '16139909.15' did not start.
+  Could not submit job.  Trying again in a while.
+  sbatch failed with error code '256' (output: ''): 
+  Problem with submitting/checking job.  Checking with squeue in a while.
+  Result from squeue: 16139923 16139909.12
+16139922 16139909.11
+16139921 16139909.10
+16139924 16139909.13
+16139934 16139909.14
+16139919 16139909.09
+16139918 16139909.08
+16139915 16139909.05
+16139916 16139909.06
+16139917 16139909.07
+16139914 16139909.04
+16139911 16139909.01
+16139912 16139909.02
+16139913 16139909.03
+16139910 16139909.00
+16139909 tblastx_ntJob '16139909.15' did not start.
+  Could not submit job.  Trying again in a while.
+  sbatch failed with error code '256' (output: ''): 
+  Problem with submitting/checking job.  Checking with squeue in a while.
+  Result from squeue: 16139923 16139909.12
+16139922 16139909.11
+16139921 16139909.10
+16139924 16139909.13
+16139934 16139909.14
+16139919 16139909.09
+16139918 16139909.08
+16139915 16139909.05
+16139916 16139909.06
+16139917 16139909.07
+16139914 16139909.04
+16139911 16139909.01
+16139912 16139909.02
+16139913 16139909.03
+16139910 16139909.00
+16139909 tblastx_ntJob '16139909.15' did not start.
+  Could not submit job.  Trying again in a while.
+  sbatch failed with error code '256' (output: ''): 
+  Problem with submitting/checking job.  Checking with squeue in a while.
+  Result from squeue: 16139923 16139909.12
+16139922 16139909.11
+16139921 16139909.10
+16139924 16139909.13
+16139934 16139909.14
+16139919 16139909.09
+16139918 16139909.08
+16139915 16139909.05
+16139916 16139909.06
+16139917 16139909.07
+16139914 16139909.04
+16139911 16139909.01
+16139912 16139909.02
+16139913 16139909.03
+16139910 16139909.00
+16139909 tblastx_ntJob '16139909.15' did not start.
+  Could not submit job.  Trying again in a while.
+  sbatch failed with error code '256' (output: ''): 
+  Problem with submitting/checking job.  Checking with squeue in a while.
+  Result from squeue: 16139923 16139909.12
+16139922 16139909.11
+16139921 16139909.10
+16139924 16139909.13
+16139934 16139909.14
+16139919 16139909.09
+16139918 16139909.08
+16139915 16139909.05
+16139916 16139909.06
+16139917 16139909.07
+16139914 16139909.04
+16139911 16139909.01
+16139912 16139909.02
+16139913 16139909.03
+16139910 16139909.00
+16139909 tblastx_ntJob '16139909.15' did not start.
+  Could not submit job.  Trying again in a while.
+  sbatch failed with error code '256' (output: ''): 
+  Problem with submitting/checking job.  Checking with squeue in a while.
+  Result from squeue: 16139923 16139909.12
+16139922 16139909.11
+16139921 16139909.10
+16139924 16139909.13
+16139934 16139909.14
+16139919 16139909.09
+16139918 16139909.08
+16139915 16139909.05
+16139916 16139909.06
+16139917 16139909.07
+16139914 16139909.04
+16139911 16139909.01
+16139912 16139909.02
+16139913 16139909.03
+16139910 16139909.00
+16139909 tblastx_ntJob '16139909.15' did not start.
+  Could not submit job.  Trying again in a while.
+  sbatch failed with error code '256' (output: ''): 
+  Problem with submitting/checking job.  Checking with squeue in a while.
+  Result from squeue: 16139923 16139909.12
+16139922 16139909.11
+16139921 16139909.10
+16139924 16139909.13
+16139934 16139909.14
+16139919 16139909.09
+16139918 16139909.08
+16139915 16139909.05
+16139916 16139909.06
+16139917 16139909.07
+16139914 16139909.04
+16139911 16139909.01
+16139912 16139909.02
+16139913 16139909.03
+16139910 16139909.00
+16139909 tblastx_ntJob '16139909.15' did not start.
+  Could not submit job.  Trying again in a while.
+  Result from submit: Submitted batch job 16140309 => job ID 16140309
+ TASK_ID 16:
+  Result from submit: Submitted batch job 16140310 => job ID 16140310
+Sleeping...
+Mon Dec 12 09:48:13 2016: Checking queue...
+Number of jobs to check: 17
+ Job 16139910 has finished:
+       JobID               Start                 End  MaxVMSize     MaxRSS      State ExitCode 
+  ------------ ------------------- ------------------- ---------- ---------- ---------- -------- 
+  16139910     2016-12-12T07:38:54 2016-12-12T09:47:38                        COMPLETED      0:0 
+  16139910.ba+ 2016-12-12T07:38:54 2016-12-12T09:47:38  13737476K    754560K  COMPLETED      0:0 
+ Job 16139911 has finished:
+       JobID               Start                 End  MaxVMSize     MaxRSS      State ExitCode 
+  ------------ ------------------- ------------------- ---------- ---------- ---------- -------- 
+  16139911     2016-12-12T07:39:43 2016-12-12T09:44:57                        COMPLETED      0:0 
+  16139911.ba+ 2016-12-12T07:39:43 2016-12-12T09:44:57  13742900K    752141K  COMPLETED      0:0 
+ Job 16139912 has finished:
+       JobID               Start                 End  MaxVMSize     MaxRSS      State ExitCode 
+  ------------ ------------------- ------------------- ---------- ---------- ---------- -------- 
+  16139912     2016-12-12T07:39:43 2016-12-12T09:48:05                        COMPLETED      0:0 
+  16139912.ba+ 2016-12-12T07:39:43 2016-12-12T09:48:05  13745756K    775890K  COMPLETED      0:0 
+ Job 16139913 is still running
+ Job 16139914 is still running
+ Job 16139915 is still running
+ Job 16139916 is still running
+ Job 16139917 is still running
+ Job 16139918 is still running
+ Job 16139919 is still running
+ Job 16139921 is still running
+ Job 16139922 is still waiting
+ Job 16139923 is still waiting
+ Job 16139924 is still waiting
+ Job 16139934 is still waiting
+ Job 16140309 is still waiting
+ Job 16140310 is still waiting
+All jobs have been submitted
+8 job(s) are still running, and 6 are waiting
+Sleeping...
+Mon Dec 12 09:50:28 2016: Checking queue...
+Number of jobs to check: 14
+ Job 16139913 is still running
+ Job 16139914 is still running
+ Job 16139915 is still running
+ Job 16139916 is still running
+ Job 16139917 is still running
+ Job 16139918 is still running
+ Job 16139919 is still running
+ Job 16139921 is still running
+ Job 16139922 is still running
+ Job 16139923 is still running
+ Job 16139924 is still waiting
+ Job 16139934 is still waiting
+ Job 16140309 is still waiting
+ Job 16140310 is still waiting
+10 job(s) are still running, and 4 are waiting
+Sleeping...
+Mon Dec 12 09:52:44 2016: Checking queue...
+Number of jobs to check: 14
+ Job 16139913 is still running
+ Job 16139914 is still running
+ Job 16139915 is still running
+ Job 16139916 is still running
+ Job 16139917 is still running
+ Job 16139918 is still running
+ Job 16139919 is still running
+ Job 16139921 is still running
+ Job 16139922 is still running
+ Job 16139923 is still running
+ Job 16139924 is still waiting
+ Job 16139934 is still waiting
+ Job 16140309 is still waiting
+ Job 16140310 is still waiting
+10 job(s) are still running, and 4 are waiting
+Sleeping...
+Mon Dec 12 09:54:57 2016: Checking queue...
+Number of jobs to check: 14
+ Job 16139913 is still running
+ Job 16139914 is still running
+ Job 16139915 is still running
+ Job 16139916 is still running
+ Job 16139917 is still running
+ Job 16139918 is still running
+ Job 16139919 is still running
+ Job 16139921 is still running
+ Job 16139922 is still running
+ Job 16139923 is still running
+ Job 16139924 is still waiting
+ Job 16139934 is still waiting
+ Job 16140309 is still waiting
+ Job 16140310 is still waiting
+10 job(s) are still running, and 4 are waiting
+Sleeping...
+Mon Dec 12 09:57:05 2016: Checking queue...
+Number of jobs to check: 14
+ Job 16139913 is still running
+ Job 16139914 is still running
+ Job 16139915 is still running
+ Job 16139916 is still running
+ Job 16139917 is still running
+ Job 16139918 is still running
+ Job 16139919 is still running
+ Job 16139921 is still running
+ Job 16139922 is still running
+ Job 16139923 is still running
+ Job 16139924 is still waiting
+ Job 16139934 is still waiting
+ Job 16140309 is still waiting
+ Job 16140310 is still waiting
+10 job(s) are still running, and 4 are waiting
+Sleeping...
+Mon Dec 12 09:59:18 2016: Checking queue...
+Number of jobs to check: 14
+ Job 16139913 is still running
+ Job 16139914 has finished:
+       JobID               Start                 End  MaxVMSize     MaxRSS      State ExitCode 
+  ------------ ------------------- ------------------- ---------- ---------- ---------- -------- 
+  16139914     2016-12-12T07:47:53 2016-12-12T09:57:23                        COMPLETED      0:0 
+  16139914.ba+ 2016-12-12T07:47:53 2016-12-12T09:57:23  13748056K    789255K  COMPLETED      0:0 
+ Job 16139915 is still running
+ Job 16139916 is still running
+ Job 16139917 is still running
+ Job 16139918 is still running
+ Job 16139919 is still running
+ Job 16139921 is still running
+ Job 16139922 is still running
+ Job 16139923 is still running
+ Job 16139924 is still running
+ Job 16139934 is still waiting
+ Job 16140309 is still waiting
+ Job 16140310 is still waiting
+10 job(s) are still running, and 3 are waiting
+Sleeping...
+Mon Dec 12 10:01:32 2016: Checking queue...
+Number of jobs to check: 13
+ Job 16139913 is still running
+ Job 16139915 is still running
+ Job 16139916 is still running
+ Job 16139917 is still running
+ Job 16139918 is still running
+ Job 16139919 is still running
+ Job 16139921 is still running
+ Job 16139922 is still running
+ Job 16139923 is still running
+ Job 16139924 is still running
+ Job 16139934 is still waiting
+ Job 16140309 is still waiting
+ Job 16140310 is still waiting
+10 job(s) are still running, and 3 are waiting
+Sleeping...
+Mon Dec 12 10:03:40 2016: Checking queue...
+Number of jobs to check: 13
+ Job 16139913 is still running
+ Job 16139915 is still running
+ Job 16139916 is still running
+ Job 16139917 is still running
+ Job 16139918 is still running
+ Job 16139919 is still running
+ Job 16139921 is still running
+ Job 16139922 is still running
+ Job 16139923 is still running
+ Job 16139924 is still running
+ Job 16139934 is still waiting
+ Job 16140309 is still waiting
+ Job 16140310 is still waiting
+10 job(s) are still running, and 3 are waiting
+Sleeping...
+Mon Dec 12 10:05:48 2016: Checking queue...
+Number of jobs to check: 13
+ Job 16139913 has finished:
+       JobID               Start                 End  MaxVMSize     MaxRSS      State ExitCode 
+  ------------ ------------------- ------------------- ---------- ---------- ---------- -------- 
+  16139913     2016-12-12T07:39:43 2016-12-12T10:05:24                        COMPLETED      0:0 
+  16139913.ba+ 2016-12-12T07:39:43 2016-12-12T10:05:24  13729356K    758040K  COMPLETED      0:0 
+ Job 16139915 is still running
+ Job 16139916 is still running
+ Job 16139917 is still running
+ Job 16139918 is still running
+ Job 16139919 is still running
+ Job 16139921 is still running
+ Job 16139922 is still running
+ Job 16139923 is still running
+ Job 16139924 is still running
+ Job 16139934 is still waiting
+ Job 16140309 is still waiting
+ Job 16140310 is still waiting
+9 job(s) are still running, and 3 are waiting
+Sleeping...
+Mon Dec 12 10:08:03 2016: Checking queue...
+Number of jobs to check: 12
+ Job 16139915 is still running
+ Job 16139916 is still running
+ Job 16139917 is still running
+ Job 16139918 is still running
+ Job 16139919 is still running
+ Job 16139921 is still running
+ Job 16139922 is still running
+ Job 16139923 is still running
+ Job 16139924 is still running
+ Job 16139934 is still running
+ Job 16140309 is still waiting
+ Job 16140310 is still waiting
+10 job(s) are still running, and 2 are waiting
+Sleeping...
+Mon Dec 12 10:10:15 2016: Checking queue...
+Number of jobs to check: 12
+ Job 16139915 is still running
+ Job 16139916 is still running
+ Job 16139917 is still running
+ Job 16139918 is still running
+ Job 16139919 is still running
+ Job 16139921 is still running
+ Job 16139922 is still running
+ Job 16139923 is still running
+ Job 16139924 is still running
+ Job 16139934 is still running
+ Job 16140309 is still waiting
+ Job 16140310 is still waiting
+10 job(s) are still running, and 2 are waiting
+Sleeping...
+Mon Dec 12 10:12:25 2016: Checking queue...
+Number of jobs to check: 12
+ Job 16139915 is still running
+ Job 16139916 is still running
+ Job 16139917 is still running
+ Job 16139918 is still running
+ Job 16139919 is still running
+ Job 16139921 is still running
+ Job 16139922 is still running
+ Job 16139923 is still running
+ Job 16139924 is still running
+ Job 16139934 is still running
+ Job 16140309 is still waiting
+ Job 16140310 is still waiting
+10 job(s) are still running, and 2 are waiting
+Sleeping...
+Mon Dec 12 10:14:36 2016: Checking queue...
+Number of jobs to check: 12
+ Job 16139915 is still running
+ Job 16139916 is still running
+ Job 16139917 is still running
+ Job 16139918 is still running
+ Job 16139919 is still running
+ Job 16139921 is still running
+ Job 16139922 is still running
+ Job 16139923 is still running
+ Job 16139924 is still running
+ Job 16139934 is still running
+ Job 16140309 is still waiting
+ Job 16140310 is still waiting
+10 job(s) are still running, and 2 are waiting
+Sleeping...
+Mon Dec 12 10:16:43 2016: Checking queue...
+Number of jobs to check: 12
+ Job 16139915 is still running
+ Job 16139916 is still running
+ Job 16139917 is still running
+ Job 16139918 is still running
+ Job 16139919 is still running
+ Job 16139921 is still running
+ Job 16139922 is still running
+ Job 16139923 is still running
+ Job 16139924 is still running
+ Job 16139934 is still running
+ Job 16140309 is still waiting
+ Job 16140310 is still waiting
+10 job(s) are still running, and 2 are waiting
+Sleeping...
+Mon Dec 12 10:18:50 2016: Checking queue...
+Number of jobs to check: 12
+ Job 16139915 is still running
+ Job 16139916 is still running
+ Job 16139917 is still running
+ Job 16139918 is still running
+ Job 16139919 is still running
+ Job 16139921 is still running
+ Job 16139922 is still running
+ Job 16139923 is still running
+ Job 16139924 is still running
+ Job 16139934 is still running
+ Job 16140309 is still waiting
+ Job 16140310 is still waiting
+10 job(s) are still running, and 2 are waiting
+Sleeping...
+Mon Dec 12 10:21:03 2016: Checking queue...
+Number of jobs to check: 12
+ Job 16139915 is still running
+ Job 16139916 is still running
+ Job 16139917 is still running
+ Job 16139918 is still running
+ Job 16139919 is still running
+ Job 16139921 is still running
+ Job 16139922 is still running
+ Job 16139923 is still running
+ Job 16139924 is still running
+ Job 16139934 is still running
+ Job 16140309 is still waiting
+ Job 16140310 is still waiting
+10 job(s) are still running, and 2 are waiting
+Sleeping...
+Mon Dec 12 10:23:17 2016: Checking queue...
+Number of jobs to check: 12
+ Job 16139915 is still running
+ Job 16139916 is still running
+ Job 16139917 is still running
+ Job 16139918 is still running
+ Job 16139919 is still running
+ Job 16139921 is still running
+ Job 16139922 is still running
+ Job 16139923 is still running
+ Job 16139924 is still running
+ Job 16139934 is still running
+ Job 16140309 is still waiting
+ Job 16140310 is still waiting
+10 job(s) are still running, and 2 are waiting
+Sleeping...
+Mon Dec 12 10:25:27 2016: Checking queue...
+Number of jobs to check: 12
+ Job 16139915 is still running
+ Job 16139916 is still running
+ Job 16139917 is still running
+ Job 16139918 is still running
+ Job 16139919 is still running
+ Job 16139921 is still running
+ Job 16139922 is still running
+ Job 16139923 is still running
+ Job 16139924 is still running
+ Job 16139934 is still running
+ Job 16140309 is still waiting
+ Job 16140310 is still waiting
+10 job(s) are still running, and 2 are waiting
+Sleeping...
+Mon Dec 12 10:27:35 2016: Checking queue...
+Number of jobs to check: 12
+ Job 16139915 is still running
+ Job 16139916 is still running
+ Job 16139917 is still running
+ Job 16139918 is still running
+ Job 16139919 is still running
+ Job 16139921 is still running
+ Job 16139922 is still running
+ Job 16139923 is still running
+ Job 16139924 is still running
+ Job 16139934 is still running
+ Job 16140309 is still waiting
+ Job 16140310 is still waiting
+10 job(s) are still running, and 2 are waiting
+Sleeping...
+Mon Dec 12 10:29:49 2016: Checking queue...
+Number of jobs to check: 12
+ Job 16139915 is still running
+ Job 16139916 is still running
+ Job 16139917 is still running
+ Job 16139918 is still running
+ Job 16139919 is still running
+ Job 16139921 is still running
+ Job 16139922 is still running
+ Job 16139923 is still running
+ Job 16139924 is still running
+ Job 16139934 is still running
+ Job 16140309 is still waiting
+ Job 16140310 is still waiting
+10 job(s) are still running, and 2 are waiting
+Sleeping...
+Mon Dec 12 10:31:54 2016: Checking queue...
+Number of jobs to check: 12
+ Job 16139915 is still running
+ Job 16139916 is still running
+ Job 16139917 is still running
+ Job 16139918 is still running
+ Job 16139919 is still running
+ Job 16139921 is still running
+ Job 16139922 is still running
+ Job 16139923 is still running
+ Job 16139924 is still running
+ Job 16139934 is still running
+ Job 16140309 is still waiting
+ Job 16140310 is still waiting
+10 job(s) are still running, and 2 are waiting
+Sleeping...
+Mon Dec 12 10:34:06 2016: Checking queue...
+Number of jobs to check: 12
+ Job 16139915 is still running
+ Job 16139916 is still running
+ Job 16139917 is still running
+ Job 16139918 is still running
+ Job 16139919 is still running
+ Job 16139921 is still running
+ Job 16139922 is still running
+ Job 16139923 is still running
+ Job 16139924 is still running
+ Job 16139934 is still running
+ Job 16140309 is still waiting
+ Job 16140310 is still waiting
+10 job(s) are still running, and 2 are waiting
+Sleeping...
+Mon Dec 12 10:36:14 2016: Checking queue...
+Number of jobs to check: 12
+ Job 16139915 is still running
+ Job 16139916 is still running
+ Job 16139917 is still running
+ Job 16139918 is still running
+ Job 16139919 is still running
+ Job 16139921 is still running
+ Job 16139922 is still running
+ Job 16139923 is still running
+ Job 16139924 is still running
+ Job 16139934 is still running
+ Job 16140309 is still waiting
+ Job 16140310 is still waiting
+10 job(s) are still running, and 2 are waiting
+Sleeping...
+Mon Dec 12 10:38:27 2016: Checking queue...
+Number of jobs to check: 12
+ Job 16139915 is still running
+ Job 16139916 is still running
+ Job 16139917 is still running
+ Job 16139918 is still running
+ Job 16139919 is still running
+ Job 16139921 is still running
+ Job 16139922 is still running
+ Job 16139923 is still running
+ Job 16139924 is still running
+ Job 16139934 is still running
+ Job 16140309 is still waiting
+ Job 16140310 is still waiting
+10 job(s) are still running, and 2 are waiting
+Sleeping...
+Mon Dec 12 10:40:36 2016: Checking queue...
+Number of jobs to check: 12
+ Job 16139915 is still running
+ Job 16139916 is still running
+ Job 16139917 is still running
+ Job 16139918 is still running
+ Job 16139919 is still running
+ Job 16139921 is still running
+ Job 16139922 is still running
+ Job 16139923 is still running
+ Job 16139924 is still running
+ Job 16139934 is still running
+ Job 16140309 is still waiting
+ Job 16140310 is still waiting
+10 job(s) are still running, and 2 are waiting
+Sleeping...
+Mon Dec 12 10:42:51 2016: Checking queue...
+Number of jobs to check: 12
+ Job 16139915 is still running
+ Job 16139916 has finished:
+       JobID               Start                 End  MaxVMSize     MaxRSS      State ExitCode 
+  ------------ ------------------- ------------------- ---------- ---------- ---------- -------- 
+  16139916     2016-12-12T08:33:45 2016-12-12T10:41:08                        COMPLETED      0:0 
+  16139916.ba+ 2016-12-12T08:33:45 2016-12-12T10:41:08  13737116K    506155K  COMPLETED      0:0 
+ Job 16139917 is still running
+ Job 16139918 is still running
+ Job 16139919 is still running
+ Job 16139921 is still running
+ Job 16139922 is still running
+ Job 16139923 is still running
+ Job 16139924 is still running
+ Job 16139934 is still running
+ Job 16140309 is still waiting
+ Job 16140310 is still waiting
+9 job(s) are still running, and 2 are waiting
+Sleeping...
+Mon Dec 12 10:45:00 2016: Checking queue...
+Number of jobs to check: 11
+ Job 16139915 is still running
+ Job 16139917 has finished:
+       JobID               Start                 End  MaxVMSize     MaxRSS      State ExitCode 
+  ------------ ------------------- ------------------- ---------- ---------- ---------- -------- 
+  16139917     2016-12-12T08:33:45 2016-12-12T10:43:10                        COMPLETED      0:0 
+  16139917.ba+ 2016-12-12T08:33:45 2016-12-12T10:43:10  13738324K    754927K  COMPLETED      0:0 
+ Job 16139918 is still running
+ Job 16139919 is still running
+ Job 16139921 is still running
+ Job 16139922 is still running
+ Job 16139923 is still running
+ Job 16139924 is still running
+ Job 16139934 is still running
+ Job 16140309 is still waiting
+ Job 16140310 is still waiting
+8 job(s) are still running, and 2 are waiting
+Sleeping...
+Mon Dec 12 10:47:16 2016: Checking queue...
+Number of jobs to check: 10
+ Job 16139915 is still running
+ Job 16139918 is still running
+ Job 16139919 is still running
+ Job 16139921 is still running
+ Job 16139922 is still running
+ Job 16139923 is still running
+ Job 16139924 is still running
+ Job 16139934 is still running
+ Job 16140309 is still waiting
+ Job 16140310 is still waiting
+8 job(s) are still running, and 2 are waiting
+Sleeping...
+Mon Dec 12 10:49:31 2016: Checking queue...
+Number of jobs to check: 10
+ Job 16139915 is still running
+ Job 16139918 is still running
+ Job 16139919 is still running
+ Job 16139921 is still running
+ Job 16139922 is still running
+ Job 16139923 is still running
+ Job 16139924 is still running
+ Job 16139934 is still running
+ Job 16140309 is still waiting
+ Job 16140310 is still waiting
+8 job(s) are still running, and 2 are waiting
+Sleeping...
+Mon Dec 12 10:51:36 2016: Checking queue...
+Number of jobs to check: 10
+ Job 16139915 is still running
+ Job 16139918 is still running
+ Job 16139919 is still running
+ Job 16139921 is still running
+ Job 16139922 is still running
+ Job 16139923 is still running
+ Job 16139924 is still running
+ Job 16139934 is still running
+ Job 16140309 is still waiting
+ Job 16140310 is still waiting
+8 job(s) are still running, and 2 are waiting
+Sleeping...
+Mon Dec 12 10:53:51 2016: Checking queue...
+Number of jobs to check: 10
+ Job 16139915 is still running
+ Job 16139918 is still running
+ Job 16139919 is still running
+ Job 16139921 is still running
+ Job 16139922 is still running
+ Job 16139923 is still running
+ Job 16139924 is still running
+ Job 16139934 is still running
+ Job 16140309 is still waiting
+ Job 16140310 is still waiting
+8 job(s) are still running, and 2 are waiting
+Sleeping...
+Mon Dec 12 10:56:04 2016: Checking queue...
+Number of jobs to check: 10
+ Job 16139915 has finished:
+       JobID               Start                 End  MaxVMSize     MaxRSS      State ExitCode 
+  ------------ ------------------- ------------------- ---------- ---------- ---------- -------- 
+  16139915     2016-12-12T08:33:45 2016-12-12T10:54:56                        COMPLETED      0:0 
+  16139915.ba+ 2016-12-12T08:33:45 2016-12-12T10:54:56  13744028K    767460K  COMPLETED      0:0 
+ Job 16139918 is still running
+ Job 16139919 is still running
+ Job 16139921 is still running
+ Job 16139922 is still running
+ Job 16139923 is still running
+ Job 16139924 is still running
+ Job 16139934 is still running
+ Job 16140309 is still waiting
+ Job 16140310 is still waiting
+7 job(s) are still running, and 2 are waiting
+Sleeping...
+Mon Dec 12 10:58:13 2016: Checking queue...
+Number of jobs to check: 9
+ Job 16139918 is still running
+ Job 16139919 is still running
+ Job 16139921 is still running
+ Job 16139922 is still running
+ Job 16139923 is still running
+ Job 16139924 is still running
+ Job 16139934 is still running
+ Job 16140309 is still waiting
+ Job 16140310 is still waiting
+7 job(s) are still running, and 2 are waiting
+Sleeping...
+Mon Dec 12 11:00:23 2016: Checking queue...
+Number of jobs to check: 9
+ Job 16139918 is still running
+ Job 16139919 is still running
+ Job 16139921 is still running
+ Job 16139922 is still running
+ Job 16139923 is still running
+ Job 16139924 is still running
+ Job 16139934 is still running
+ Job 16140309 is still waiting
+ Job 16140310 is still waiting
+7 job(s) are still running, and 2 are waiting
+Sleeping...
+Mon Dec 12 11:02:37 2016: Checking queue...
+Number of jobs to check: 9
+ Job 16139918 is still running
+ Job 16139919 is still running
+ Job 16139921 is still running
+ Job 16139922 is still running
+ Job 16139923 is still running
+ Job 16139924 is still running
+ Job 16139934 is still running
+ Job 16140309 is still waiting
+ Job 16140310 is still waiting
+7 job(s) are still running, and 2 are waiting
+Sleeping...
+Mon Dec 12 11:04:52 2016: Checking queue...
+Number of jobs to check: 9
+ Job 16139918 is still running
+ Job 16139919 is still running
+ Job 16139921 is still running
+ Job 16139922 is still running
+ Job 16139923 is still running
+ Job 16139924 is still running
+ Job 16139934 is still running
+ Job 16140309 is still waiting
+ Job 16140310 is still waiting
+7 job(s) are still running, and 2 are waiting
+Sleeping...
+Mon Dec 12 11:07:00 2016: Checking queue...
+Number of jobs to check: 9
+ Job 16139918 is still running
+ Job 16139919 is still running
+ Job 16139921 is still running
+ Job 16139922 is still running
+ Job 16139923 is still running
+ Job 16139924 is still running
+ Job 16139934 is still running
+ Job 16140309 is still waiting
+ Job 16140310 is still waiting
+7 job(s) are still running, and 2 are waiting
+Sleeping...
+Mon Dec 12 11:09:13 2016: Checking queue...
+Number of jobs to check: 9
+ Job 16139918 is still running
+ Job 16139919 is still running
+ Job 16139921 is still running
+ Job 16139922 is still running
+ Job 16139923 is still running
+ Job 16139924 is still running
+ Job 16139934 is still running
+ Job 16140309 is still waiting
+ Job 16140310 is still waiting
+7 job(s) are still running, and 2 are waiting
+Sleeping...
+Mon Dec 12 11:11:24 2016: Checking queue...
+Number of jobs to check: 9
+ Job 16139918 is still running
+ Job 16139919 is still running
+ Job 16139921 is still running
+ Job 16139922 is still running
+ Job 16139923 is still running
+ Job 16139924 is still running
+ Job 16139934 is still running
+ Job 16140309 is still waiting
+ Job 16140310 is still waiting
+7 job(s) are still running, and 2 are waiting
+Sleeping...
+Mon Dec 12 11:13:38 2016: Checking queue...
+Number of jobs to check: 9
+ Job 16139918 is still running
+ Job 16139919 is still running
+ Job 16139921 is still running
+ Job 16139922 is still running
+ Job 16139923 is still running
+ Job 16139924 is still running
+ Job 16139934 is still running
+ Job 16140309 is still waiting
+ Job 16140310 is still waiting
+7 job(s) are still running, and 2 are waiting
+Sleeping...
+Mon Dec 12 11:15:53 2016: Checking queue...
+Number of jobs to check: 9
+ Job 16139918 is still running
+ Job 16139919 has finished:
+       JobID               Start                 End  MaxVMSize     MaxRSS      State ExitCode 
+  ------------ ------------------- ------------------- ---------- ---------- ---------- -------- 
+  16139919     2016-12-12T09:12:39 2016-12-12T11:15:31                        COMPLETED      0:0 
+  16139919.ba+ 2016-12-12T09:12:39 2016-12-12T11:15:31  13738720K    782228K  COMPLETED      0:0 
+ Job 16139921 is still running
+ Job 16139922 is still running
+ Job 16139923 is still running
+ Job 16139924 is still running
+ Job 16139934 is still running
+ Job 16140309 is still waiting
+ Job 16140310 is still waiting
+6 job(s) are still running, and 2 are waiting
+Sleeping...
+Mon Dec 12 11:18:05 2016: Checking queue...
+Number of jobs to check: 8
+ Job 16139918 is still running
+ Job 16139921 is still running
+ Job 16139922 is still running
+ Job 16139923 is still running
+ Job 16139924 is still running
+ Job 16139934 is still running
+ Job 16140309 is still running
+ Job 16140310 is still waiting
+7 job(s) are still running, and 1 are waiting
+Sleeping...
+Mon Dec 12 11:20:16 2016: Checking queue...
+Number of jobs to check: 8
+ Job 16139918 is still running
+ Job 16139921 is still running
+ Job 16139922 is still running
+ Job 16139923 is still running
+ Job 16139924 is still running
+ Job 16139934 is still running
+ Job 16140309 is still running
+ Job 16140310 is still waiting
+7 job(s) are still running, and 1 are waiting
+Sleeping...
+Mon Dec 12 11:22:23 2016: Checking queue...
+Number of jobs to check: 8
+ Job 16139918 is still running
+ Job 16139921 is still running
+ Job 16139922 is still running
+ Job 16139923 is still running
+ Job 16139924 is still running
+ Job 16139934 is still running
+ Job 16140309 is still running
+ Job 16140310 is still waiting
+7 job(s) are still running, and 1 are waiting
+Sleeping...
+Mon Dec 12 11:24:37 2016: Checking queue...
+Number of jobs to check: 8
+ Job 16139918 is still running
+ Job 16139921 is still running
+ Job 16139922 is still running
+ Job 16139923 is still running
+ Job 16139924 is still running
+ Job 16139934 is still running
+ Job 16140309 is still running
+ Job 16140310 is still waiting
+7 job(s) are still running, and 1 are waiting
+Sleeping...
+Mon Dec 12 11:26:46 2016: Checking queue...
+Number of jobs to check: 8
+ Job 16139918 is still running
+ Job 16139921 is still running
+ Job 16139922 is still running
+ Job 16139923 is still running
+ Job 16139924 is still running
+ Job 16139934 is still running
+ Job 16140309 is still running
+ Job 16140310 is still waiting
+7 job(s) are still running, and 1 are waiting
+Sleeping...
+Mon Dec 12 11:29:01 2016: Checking queue...
+Number of jobs to check: 8
+ Job 16139918 has finished:
+       JobID               Start                 End  MaxVMSize     MaxRSS      State ExitCode 
+  ------------ ------------------- ------------------- ---------- ---------- ---------- -------- 
+  16139918     2016-12-12T09:11:49 2016-12-12T11:27:59                        COMPLETED      0:0 
+  16139918.ba+ 2016-12-12T09:11:49 2016-12-12T11:27:59  13708220K    785341K  COMPLETED      0:0 
+ Job 16139921 is still running
+ Job 16139922 is still running
+ Job 16139923 is still running
+ Job 16139924 is still running
+ Job 16139934 is still running
+ Job 16140309 is still running
+ Job 16140310 is still running
+7 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Dec 12 11:31:10 2016: Checking queue...
+Number of jobs to check: 7
+ Job 16139921 is still running
+ Job 16139922 is still running
+ Job 16139923 is still running
+ Job 16139924 is still running
+ Job 16139934 is still running
+ Job 16140309 is still running
+ Job 16140310 is still running
+7 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Dec 12 11:33:22 2016: Checking queue...
+Number of jobs to check: 7
+ Job 16139921 is still running
+ Job 16139922 is still running
+ Job 16139923 is still running
+ Job 16139924 is still running
+ Job 16139934 is still running
+ Job 16140309 is still running
+ Job 16140310 is still running
+7 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Dec 12 11:35:33 2016: Checking queue...
+Number of jobs to check: 7
+ Job 16139921 is still running
+ Job 16139922 is still running
+ Job 16139923 is still running
+ Job 16139924 is still running
+ Job 16139934 is still running
+ Job 16140309 is still running
+ Job 16140310 is still running
+7 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Dec 12 11:37:45 2016: Checking queue...
+Number of jobs to check: 7
+ Job 16139921 is still running
+ Job 16139922 is still running
+ Job 16139923 is still running
+ Job 16139924 is still running
+ Job 16139934 is still running
+ Job 16140309 is still running
+ Job 16140310 is still running
+7 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Dec 12 11:39:59 2016: Checking queue...
+Number of jobs to check: 7
+ Job 16139921 is still running
+ Job 16139922 is still running
+ Job 16139923 is still running
+ Job 16139924 is still running
+ Job 16139934 is still running
+ Job 16140309 is still running
+ Job 16140310 is still running
+7 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Dec 12 11:42:15 2016: Checking queue...
+Number of jobs to check: 7
+ Job 16139921 is still running
+ Job 16139922 is still running
+ Job 16139923 is still running
+ Job 16139924 is still running
+ Job 16139934 is still running
+ Job 16140309 is still running
+ Job 16140310 is still running
+7 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Dec 12 11:44:22 2016: Checking queue...
+Number of jobs to check: 7
+ Job 16139921 is still running
+ Job 16139922 is still running
+ Job 16139923 is still running
+ Job 16139924 is still running
+ Job 16139934 is still running
+ Job 16140309 is still running
+ Job 16140310 is still running
+7 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Dec 12 11:46:32 2016: Checking queue...
+Number of jobs to check: 7
+ Job 16139921 is still running
+ Job 16139922 is still running
+ Job 16139923 is still running
+ Job 16139924 is still running
+ Job 16139934 is still running
+ Job 16140309 is still running
+ Job 16140310 is still running
+7 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Dec 12 11:48:40 2016: Checking queue...
+Number of jobs to check: 7
+ Job 16139921 is still running
+ Job 16139922 is still running
+ Job 16139923 is still running
+ Job 16139924 is still running
+ Job 16139934 is still running
+ Job 16140309 is still running
+ Job 16140310 is still running
+7 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Dec 12 11:50:49 2016: Checking queue...
+Number of jobs to check: 7
+ Job 16139921 is still running
+ Job 16139922 is still running
+ Job 16139923 is still running
+ Job 16139924 is still running
+ Job 16139934 is still running
+ Job 16140309 is still running
+ Job 16140310 is still running
+7 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Dec 12 11:53:04 2016: Checking queue...
+Number of jobs to check: 7
+ Job 16139921 is still running
+ Job 16139922 is still running
+ Job 16139923 is still running
+ Job 16139924 is still running
+ Job 16139934 is still running
+ Job 16140309 is still running
+ Job 16140310 is still running
+7 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Dec 12 11:55:17 2016: Checking queue...
+Number of jobs to check: 7
+ Job 16139921 is still running
+ Job 16139922 has finished:
+       JobID               Start                 End  MaxVMSize     MaxRSS      State ExitCode 
+  ------------ ------------------- ------------------- ---------- ---------- ---------- -------- 
+  16139922     2016-12-12T09:48:45 2016-12-12T11:53:30                        COMPLETED      0:0 
+  16139922.ba+ 2016-12-12T09:48:45 2016-12-12T11:53:30  13740620K    774059K  COMPLETED      0:0 
+ Job 16139923 is still running
+ Job 16139924 is still running
+ Job 16139934 is still running
+ Job 16140309 is still running
+ Job 16140310 is still running
+6 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Dec 12 11:57:33 2016: Checking queue...
+Number of jobs to check: 6
+ Job 16139921 is still running
+ Job 16139923 is still running
+ Job 16139924 is still running
+ Job 16139934 is still running
+ Job 16140309 is still running
+ Job 16140310 is still running
+6 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Dec 12 11:59:47 2016: Checking queue...
+Number of jobs to check: 6
+ Job 16139921 is still running
+ Job 16139923 is still running
+ Job 16139924 is still running
+ Job 16139934 is still running
+ Job 16140309 is still running
+ Job 16140310 is still running
+6 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Dec 12 12:02:00 2016: Checking queue...
+Number of jobs to check: 6
+ Job 16139921 is still running
+ Job 16139923 is still running
+ Job 16139924 is still running
+ Job 16139934 is still running
+ Job 16140309 is still running
+ Job 16140310 is still running
+6 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Dec 12 12:04:06 2016: Checking queue...
+Number of jobs to check: 6
+ Job 16139921 has finished:
+       JobID               Start                 End  MaxVMSize     MaxRSS      State ExitCode 
+  ------------ ------------------- ------------------- ---------- ---------- ---------- -------- 
+  16139921     2016-12-12T09:45:21 2016-12-12T12:03:16                        COMPLETED      0:0 
+  16139921.ba+ 2016-12-12T09:45:21 2016-12-12T12:03:16  14000104K    770863K  COMPLETED      0:0 
+ Job 16139923 is still running
+ Job 16139924 has finished:
+       JobID               Start                 End  MaxVMSize     MaxRSS      State ExitCode 
+  ------------ ------------------- ------------------- ---------- ---------- ---------- -------- 
+  16139924     2016-12-12T09:58:02 2016-12-12T12:02:41                        COMPLETED      0:0 
+  16139924.ba+ 2016-12-12T09:58:02 2016-12-12T12:02:41  13742992K    794527K  COMPLETED      0:0 
+ Job 16139934 is still running
+ Job 16140309 is still running
+ Job 16140310 has finished:
+       JobID               Start                 End  MaxVMSize     MaxRSS      State ExitCode 
+  ------------ ------------------- ------------------- ---------- ---------- ---------- -------- 
+  16140310     2016-12-12T11:28:58 2016-12-12T12:03:20                        COMPLETED      0:0 
+  16140310.ba+ 2016-12-12T11:28:58 2016-12-12T12:03:20  13740512K    693125K  COMPLETED      0:0 
+3 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Dec 12 12:06:14 2016: Checking queue...
+Number of jobs to check: 3
+ Job 16139923 is still running
+ Job 16139934 is still running
+ Job 16140309 is still running
+3 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Dec 12 12:08:23 2016: Checking queue...
+Number of jobs to check: 3
+ Job 16139923 has finished:
+       JobID               Start                 End  MaxVMSize     MaxRSS      State ExitCode 
+  ------------ ------------------- ------------------- ---------- ---------- ---------- -------- 
+  16139923     2016-12-12T09:49:35 2016-12-12T12:08:19                        COMPLETED      0:0 
+  16139923.ba+ 2016-12-12T09:49:35 2016-12-12T12:08:19  13733440K    771910K  COMPLETED      0:0 
+ Job 16139934 is still running
+ Job 16140309 is still running
+2 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Dec 12 12:10:29 2016: Checking queue...
+Number of jobs to check: 2
+ Job 16139934 is still running
+ Job 16140309 is still running
+2 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Dec 12 12:12:40 2016: Checking queue...
+Number of jobs to check: 2
+ Job 16139934 is still running
+ Job 16140309 is still running
+2 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Dec 12 12:14:55 2016: Checking queue...
+Number of jobs to check: 2
+ Job 16139934 is still running
+ Job 16140309 is still running
+2 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Dec 12 12:17:06 2016: Checking queue...
+Number of jobs to check: 2
+ Job 16139934 is still running
+ Job 16140309 is still running
+2 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Dec 12 12:19:21 2016: Checking queue...
+Number of jobs to check: 2
+ Job 16139934 is still running
+ Job 16140309 is still running
+2 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Dec 12 12:21:30 2016: Checking queue...
+Number of jobs to check: 2
+ Job 16139934 is still running
+ Job 16140309 is still running
+2 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Dec 12 12:23:37 2016: Checking queue...
+Number of jobs to check: 2
+ Job 16139934 is still running
+ Job 16140309 is still running
+2 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Dec 12 12:25:51 2016: Checking queue...
+Number of jobs to check: 2
+ Job 16139934 is still running
+ Job 16140309 is still running
+2 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Dec 12 12:28:00 2016: Checking queue...
+Number of jobs to check: 2
+ Job 16139934 has finished:
+       JobID               Start                 End  MaxVMSize     MaxRSS      State ExitCode 
+  ------------ ------------------- ------------------- ---------- ---------- ---------- -------- 
+  16139934     2016-12-12T10:07:27 2016-12-12T12:27:21                        COMPLETED      0:0 
+  16139934.ba+ 2016-12-12T10:07:27 2016-12-12T12:27:21  13738524K    781076K  COMPLETED      0:0 
+ Job 16140309 is still running
+1 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Dec 12 12:30:16 2016: Checking queue...
+Number of jobs to check: 1
+ Job 16140309 is still running
+1 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Dec 12 12:32:30 2016: Checking queue...
+Number of jobs to check: 1
+ Job 16140309 is still running
+1 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Dec 12 12:34:40 2016: Checking queue...
+Number of jobs to check: 1
+ Job 16140309 is still running
+1 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Dec 12 12:36:50 2016: Checking queue...
+Number of jobs to check: 1
+ Job 16140309 is still running
+1 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Dec 12 12:39:03 2016: Checking queue...
+Number of jobs to check: 1
+ Job 16140309 is still running
+1 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Dec 12 12:41:16 2016: Checking queue...
+Number of jobs to check: 1
+ Job 16140309 is still running
+1 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Dec 12 12:43:31 2016: Checking queue...
+Number of jobs to check: 1
+ Job 16140309 is still running
+1 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Dec 12 12:45:36 2016: Checking queue...
+Number of jobs to check: 1
+ Job 16140309 is still running
+1 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Dec 12 12:47:44 2016: Checking queue...
+Number of jobs to check: 1
+ Job 16140309 is still running
+1 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Dec 12 12:49:51 2016: Checking queue...
+Number of jobs to check: 1
+ Job 16140309 is still running
+1 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Dec 12 12:52:00 2016: Checking queue...
+Number of jobs to check: 1
+ Job 16140309 is still running
+1 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Dec 12 12:54:13 2016: Checking queue...
+Number of jobs to check: 1
+ Job 16140309 is still running
+1 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Dec 12 12:56:21 2016: Checking queue...
+Number of jobs to check: 1
+ Job 16140309 is still running
+1 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Dec 12 12:58:33 2016: Checking queue...
+Number of jobs to check: 1
+ Job 16140309 is still running
+1 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Dec 12 13:00:42 2016: Checking queue...
+Number of jobs to check: 1
+ Job 16140309 is still running
+1 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Dec 12 13:02:55 2016: Checking queue...
+Number of jobs to check: 1
+ Job 16140309 is still running
+1 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Dec 12 13:05:08 2016: Checking queue...
+Number of jobs to check: 1
+ Job 16140309 is still running
+1 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Dec 12 13:07:22 2016: Checking queue...
+Number of jobs to check: 1
+ Job 16140309 is still running
+1 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Dec 12 13:09:32 2016: Checking queue...
+Number of jobs to check: 1
+ Job 16140309 is still running
+1 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Dec 12 13:11:40 2016: Checking queue...
+Number of jobs to check: 1
+ Job 16140309 is still running
+1 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Dec 12 13:13:47 2016: Checking queue...
+Number of jobs to check: 1
+ Job 16140309 is still running
+1 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Dec 12 13:16:02 2016: Checking queue...
+Number of jobs to check: 1
+ Job 16140309 is still running
+1 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Dec 12 13:18:13 2016: Checking queue...
+Number of jobs to check: 1
+ Job 16140309 is still running
+1 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Dec 12 13:20:23 2016: Checking queue...
+Number of jobs to check: 1
+ Job 16140309 is still running
+1 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Dec 12 13:22:36 2016: Checking queue...
+Number of jobs to check: 1
+ Job 16140309 is still running
+1 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Dec 12 13:24:50 2016: Checking queue...
+Number of jobs to check: 1
+ Job 16140309 is still running
+1 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Dec 12 13:26:58 2016: Checking queue...
+Number of jobs to check: 1
+ Job 16140309 is still running
+1 job(s) are still running, and 0 are waiting
+Sleeping...
+Mon Dec 12 13:29:05 2016: Checking queue...
+Number of jobs to check: 1
+ Job 16140309 has finished:
+       JobID               Start                 End  MaxVMSize     MaxRSS      State ExitCode 
+  ------------ ------------------- ------------------- ---------- ---------- ---------- -------- 
+  16140309     2016-12-12T11:16:13 2016-12-12T13:27:09                        COMPLETED      0:0 
+  16140309.ba+ 2016-12-12T11:16:13 2016-12-12T13:27:09  13741036K    768312K  COMPLETED      0:0 
+Done.
+
+No Modulefiles Currently Loaded.
+
+Job script resource usage:
+       JobID  MaxVMSize     MaxRSS 
+------------ ---------- ---------- 
+16139909.ba+    360904K      4718K 
+
+Job step resource usage:
+       JobID    JobName  AllocCPUS  MaxVMSize     MaxRSS    Elapsed ExitCode 
+------------ ---------- ---------- ---------- ---------- ---------- -------- 
+16139909     tblastx_nt          1                         05:51:13      0:0 
+16139909.0   arrayrun_+          1    273524K      4065K   05:51:11      0:0 
+
+Job 16139909 ("tblastx_nt") completed on c18-34 at ma. 12. des. 13:29:18 +0100 2016

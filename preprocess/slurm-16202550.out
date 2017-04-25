@@ -1,0 +1,73 @@
+Starting job 16202550 ("trim_reads") on c15-25 at ma. 19. des. 13:45:14 +0100 2016
+TrimmomaticPE: Started with arguments:
+ -phred33 salmon_unmapped1.fastq salmon_unmapped2.fastq forward_paired.fastq forward_unpaired.fastq reverse_paired.fastq reverse_unpaired.fastq LEADING:3 TRAILING:3 SLIDINGWINDOW:4:5 MINLEN:50
+Input Read Pairs: 19194 Both Surviving: 15168 (79,02%) Forward Only Surviving: 271 (1,41%) Reverse Only Surviving: 71 (0,37%) Dropped: 3684 (19,19%)
+TrimmomaticPE: Completed successfully
+Checking forward singletons for low complexity reads
+Input and filter stats:
+	Input sequences: 271
+	Input bases: 66,357
+	Input mean length: 244.86
+	Good sequences: 230 (84.87%)
+	Good bases: 55,221
+	Good mean length: 240.09
+	Bad sequences: 41 (15.13%)
+	Bad bases: 11,136
+	Bad mean length: 271.61
+	Sequences filtered by specified parameters:
+	lc_method: 41
+Checking reverse singletons for low complexity reads
+Input and filter stats:
+	Input sequences: 71
+	Input bases: 21,306
+	Input mean length: 300.08
+	Good sequences: 62 (87.32%)
+	Good bases: 18,605
+	Good mean length: 300.08
+	Bad sequences: 9 (12.68%)
+	Bad bases: 2,701
+	Bad mean length: 300.11
+	Sequences filtered by specified parameters:
+	lc_method: 9
+
+Checking paired end reads for low complexity reads
+
+Input and filter stats:
+	Input sequences (file 1): 15,168
+	Input bases (file 1): 3,953,366
+	Input mean length (file 1): 260.64
+	Input sequences (file 2): 15,168
+	Input bases (file 2): 4,002,014
+	Input mean length (file 2): 263.85
+	Good sequences (pairs): 13,435
+	Good bases (pairs): 6,920,714
+	Good mean length (pairs): 515.13
+	Good sequences (singletons file 1): 379 (2.50%)
+	Good bases (singletons file 1): 112,090
+	Good mean length (singletons file 1): 295.75
+	Good sequences (singletons file 2): 1,186 (7.82%)
+	Good bases (singletons file 2): 352,658
+	Good mean length (singletons file 2): 297.35
+	Bad sequences (file 1): 1,354 (8.93%)
+	Bad bases (file 1): 406,082
+	Bad mean length (file 1): 299.91
+	Bad sequences (file 2): 547 (3.61%)
+	Bad bases (file 2): 163,836
+	Bad mean length (file 2): 299.52
+	Sequences filtered by specified parameters:
+	lc_method: 1901
+
+
+No Modulefiles Currently Loaded.
+
+Job script resource usage:
+       JobID  MaxVMSize     MaxRSS 
+------------ ---------- ---------- 
+16202550.ba+    212328K      1793K 
+
+Job step resource usage:
+       JobID    JobName  AllocCPUS  MaxVMSize     MaxRSS    Elapsed ExitCode 
+------------ ---------- ---------- ---------- ---------- ---------- -------- 
+16202550     trim_reads          1                         00:00:15      0:0 
+
+Job 16202550 ("trim_reads") completed on c15-25 at ma. 19. des. 13:45:26 +0100 2016

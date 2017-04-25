@@ -1,0 +1,25 @@
+slurmstepd: Unable to create TMPDIR [/work/jobs/16359216.d/.tmp]: No such file or directory
+slurmstepd: Setting TMPDIR to /tmp
+Starting job 16359222 ("BLASTN_paired_end_reads") on c18-34 at ma. 16. jan. 04:38:39 +0100 2017
+
+After BLASTN processing, the dataset contained 11093 forward paired end reads, 
+corresponding to 17.22 % reduction of the original files.
+The forward singleton file increased by 83.22 %, and contains 1114 sequences.
+After BLASTN processing, the dataset contained 11093 reverse paired end reads, 
+corresponding to 17.22 % reduction of the original files.
+The reverse singleton file increased by 69.16 %, and contains 2140 sequences.
+
+Currently Loaded Modulefiles:
+  1) blast+/2.2.29
+
+Job script resource usage:
+       JobID  MaxVMSize     MaxRSS 
+------------ ---------- ---------- 
+16359222.ba+   1245720K    885899K 
+
+Job step resource usage:
+       JobID    JobName  AllocCPUS  MaxVMSize     MaxRSS    Elapsed ExitCode 
+------------ ---------- ---------- ---------- ---------- ---------- -------- 
+16359222     BLASTN_pa+          1                         02:11:22      0:0 
+
+Job 16359222 ("BLASTN_paired_end_reads") completed on c18-34 at ma. 16. jan. 06:50:00 +0100 2017

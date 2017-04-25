@@ -1,0 +1,17 @@
+slurmstepd: Unable to create TMPDIR [/work/jobs/16359216.d/.tmp]: No such file or directory
+slurmstepd: Setting TMPDIR to /tmp
+Starting job 16359226 ("merge_delete") on c16-33 at ma. 16. jan. 11:27:44 +0100 2017
+
+No Modulefiles Currently Loaded.
+
+Job script resource usage:
+       JobID  MaxVMSize     MaxRSS 
+------------ ---------- ---------- 
+16359226.ba+    212336K      2120K 
+
+Job step resource usage:
+       JobID    JobName  AllocCPUS  MaxVMSize     MaxRSS    Elapsed ExitCode 
+------------ ---------- ---------- ---------- ---------- ---------- -------- 
+16359226     merge_del+          1                         00:00:12      0:0 
+
+Job 16359226 ("merge_delete") completed on c16-33 at ma. 16. jan. 11:27:51 +0100 2017

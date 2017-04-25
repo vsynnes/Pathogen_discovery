@@ -1,0 +1,16 @@
+Starting job 16139919 ("16139909.09") on c18-36 at ma. 12. des. 09:12:41 +0100 2016
+
+Currently Loaded Modulefiles:
+  1) blast+/2.2.29
+
+Job script resource usage:
+       JobID  MaxVMSize     MaxRSS 
+------------ ---------- ---------- 
+16139919.ba+  13738720K    782228K 
+
+Job step resource usage:
+       JobID    JobName  AllocCPUS  MaxVMSize     MaxRSS    Elapsed ExitCode 
+------------ ---------- ---------- ---------- ---------- ---------- -------- 
+16139919     16139909.+          1                         02:02:46      0:0 
+
+Job 16139919 ("16139909.09") completed on c18-36 at ma. 12. des. 11:15:25 +0100 2016

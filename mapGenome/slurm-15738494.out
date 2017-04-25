@@ -1,0 +1,1194 @@
+Starting job 15738494 ("mapping_Genome") on c60-7 at ma. 17. okt. 22:19:23 +0200 2016
+The dataset had 17577648 left reads and 17577648 right reads prior to processing
+[bwa_index] Pack FASTA... 35.03 sec
+[bwa_index] Construct BWT for the packed sequence...
+[BWTIncCreate] textLength=5933780406, availableWord=429522560
+[BWTIncConstructFromPacked] 10 iterations done. 99999990 characters processed.
+[BWTIncConstructFromPacked] 20 iterations done. 199999990 characters processed.
+[BWTIncConstructFromPacked] 30 iterations done. 299999990 characters processed.
+[BWTIncConstructFromPacked] 40 iterations done. 399999990 characters processed.
+[BWTIncConstructFromPacked] 50 iterations done. 499999990 characters processed.
+[BWTIncConstructFromPacked] 60 iterations done. 599999990 characters processed.
+[BWTIncConstructFromPacked] 70 iterations done. 699999990 characters processed.
+[BWTIncConstructFromPacked] 80 iterations done. 799999990 characters processed.
+[BWTIncConstructFromPacked] 90 iterations done. 899999990 characters processed.
+[BWTIncConstructFromPacked] 100 iterations done. 999999990 characters processed.
+[BWTIncConstructFromPacked] 110 iterations done. 1099999990 characters processed.
+[BWTIncConstructFromPacked] 120 iterations done. 1199999990 characters processed.
+[BWTIncConstructFromPacked] 130 iterations done. 1299999990 characters processed.
+[BWTIncConstructFromPacked] 140 iterations done. 1399999990 characters processed.
+[BWTIncConstructFromPacked] 150 iterations done. 1499999990 characters processed.
+[BWTIncConstructFromPacked] 160 iterations done. 1599999990 characters processed.
+[BWTIncConstructFromPacked] 170 iterations done. 1699999990 characters processed.
+[BWTIncConstructFromPacked] 180 iterations done. 1799999990 characters processed.
+[BWTIncConstructFromPacked] 190 iterations done. 1899999990 characters processed.
+[BWTIncConstructFromPacked] 200 iterations done. 1999999990 characters processed.
+[BWTIncConstructFromPacked] 210 iterations done. 2099999990 characters processed.
+[BWTIncConstructFromPacked] 220 iterations done. 2199999990 characters processed.
+[BWTIncConstructFromPacked] 230 iterations done. 2299999990 characters processed.
+[BWTIncConstructFromPacked] 240 iterations done. 2399999990 characters processed.
+[BWTIncConstructFromPacked] 250 iterations done. 2499999990 characters processed.
+[BWTIncConstructFromPacked] 260 iterations done. 2599999990 characters processed.
+[BWTIncConstructFromPacked] 270 iterations done. 2699999990 characters processed.
+[BWTIncConstructFromPacked] 280 iterations done. 2799999990 characters processed.
+[BWTIncConstructFromPacked] 290 iterations done. 2899999990 characters processed.
+[BWTIncConstructFromPacked] 300 iterations done. 2999999990 characters processed.
+[BWTIncConstructFromPacked] 310 iterations done. 3099999990 characters processed.
+[BWTIncConstructFromPacked] 320 iterations done. 3199999990 characters processed.
+[BWTIncConstructFromPacked] 330 iterations done. 3299999990 characters processed.
+[BWTIncConstructFromPacked] 340 iterations done. 3399999990 characters processed.
+[BWTIncConstructFromPacked] 350 iterations done. 3499999990 characters processed.
+[BWTIncConstructFromPacked] 360 iterations done. 3599999990 characters processed.
+[BWTIncConstructFromPacked] 370 iterations done. 3699999990 characters processed.
+[BWTIncConstructFromPacked] 380 iterations done. 3799999990 characters processed.
+[BWTIncConstructFromPacked] 390 iterations done. 3899999990 characters processed.
+[BWTIncConstructFromPacked] 400 iterations done. 3999999990 characters processed.
+[BWTIncConstructFromPacked] 410 iterations done. 4099999990 characters processed.
+[BWTIncConstructFromPacked] 420 iterations done. 4199999990 characters processed.
+[BWTIncConstructFromPacked] 430 iterations done. 4299999990 characters processed.
+[BWTIncConstructFromPacked] 440 iterations done. 4399999990 characters processed.
+[BWTIncConstructFromPacked] 450 iterations done. 4499999990 characters processed.
+[BWTIncConstructFromPacked] 460 iterations done. 4599999990 characters processed.
+[BWTIncConstructFromPacked] 470 iterations done. 4699999990 characters processed.
+[BWTIncConstructFromPacked] 480 iterations done. 4799999990 characters processed.
+[BWTIncConstructFromPacked] 490 iterations done. 4899999990 characters processed.
+[BWTIncConstructFromPacked] 500 iterations done. 4999999990 characters processed.
+[BWTIncConstructFromPacked] 510 iterations done. 5099999990 characters processed.
+[BWTIncConstructFromPacked] 520 iterations done. 5199999990 characters processed.
+[BWTIncConstructFromPacked] 530 iterations done. 5299003606 characters processed.
+[BWTIncConstructFromPacked] 540 iterations done. 5388830438 characters processed.
+[BWTIncConstructFromPacked] 550 iterations done. 5468664790 characters processed.
+[BWTIncConstructFromPacked] 560 iterations done. 5539617750 characters processed.
+[BWTIncConstructFromPacked] 570 iterations done. 5602676918 characters processed.
+[BWTIncConstructFromPacked] 580 iterations done. 5658720038 characters processed.
+[BWTIncConstructFromPacked] 590 iterations done. 5708527286 characters processed.
+[BWTIncConstructFromPacked] 600 iterations done. 5752792086 characters processed.
+[BWTIncConstructFromPacked] 610 iterations done. 5792130726 characters processed.
+[BWTIncConstructFromPacked] 620 iterations done. 5827090982 characters processed.
+[BWTIncConstructFromPacked] 630 iterations done. 5858159702 characters processed.
+[BWTIncConstructFromPacked] 640 iterations done. 5885769622 characters processed.
+[BWTIncConstructFromPacked] 650 iterations done. 5910305398 characters processed.
+[BWTIncConstructFromPacked] 660 iterations done. 5932108790 characters processed.
+[bwa_index] 3003.58 seconds elapse.
+[bwa_index] Update BWT... 20.46 sec
+[bwa_index] Pack forward-only FASTA... 24.53 sec
+[bwa_index] Construct SA from BWT and Occ... 762.49 sec
+[bwt_gen] Finished constructing BWT in 661 iterations.
+[main] Version: 0.7.5a-r405
+[main] CMD: bwa index -a bwtsw salmonRef.fa
+[main] Real time: 3982.906 sec; CPU: 3846.094 sec
+[M::main_mem] read 1237434 sequences (240000320 bp)...
+[M::mem_pestat] # candidate unique pairs for (FF, FR, RF, RR): (2, 42276, 39, 2)
+[M::mem_pestat] skip orientation FF as there are not enough pairs
+[M::mem_pestat] analyzing insert size distribution for orientation FR...
+[M::mem_pestat] (25, 50, 75) percentile: (123, 149, 188)
+[M::mem_pestat] low and high boundaries for computing mean and std.dev: (1, 318)
+[M::mem_pestat] mean and std.dev: (155.97, 49.09)
+[M::mem_pestat] low and high boundaries for proper pairs: (1, 383)
+[M::mem_pestat] analyzing insert size distribution for orientation RF...
+[M::mem_pestat] (25, 50, 75) percentile: (179, 319, 1513)
+[M::mem_pestat] low and high boundaries for computing mean and std.dev: (1, 4181)
+[M::mem_pestat] mean and std.dev: (792.54, 840.21)
+[M::mem_pestat] low and high boundaries for proper pairs: (1, 5515)
+[M::mem_pestat] skip orientation RR as there are not enough pairs
+[M::mem_pestat] skip orientation RF
+[M::worker2@9] performed mate-SW for 135579 reads
+[M::worker2@8] performed mate-SW for 140497 reads
+[M::worker2@7] performed mate-SW for 139812 reads
+[M::worker2@22] performed mate-SW for 139657 reads
+[M::worker2@20] performed mate-SW for 142484 reads
+[M::worker2@1] performed mate-SW for 138818 reads
+[M::worker2@4] performed mate-SW for 142855 reads
+[M::worker2@10] performed mate-SW for 144286 reads
+[M::worker2@21] performed mate-SW for 140830 reads
+[M::worker2@0] performed mate-SW for 144267 reads
+[M::worker2@15] performed mate-SW for 143260 reads
+[M::worker2@11] performed mate-SW for 144499 reads
+[M::worker2@3] performed mate-SW for 143335 reads
+[M::worker2@16] performed mate-SW for 143037 reads
+[M::worker2@14] performed mate-SW for 148491 reads
+[M::worker2@18] performed mate-SW for 144385 reads
+[M::worker2@19] performed mate-SW for 147989 reads
+[M::worker2@23] performed mate-SW for 148559 reads
+[M::worker2@12] performed mate-SW for 147384 reads
+[M::worker2@13] performed mate-SW for 148052 reads
+[M::worker2@6] performed mate-SW for 149015 reads
+[M::worker2@5] performed mate-SW for 150660 reads
+[M::worker2@17] performed mate-SW for 149119 reads
+[M::worker2@2] performed mate-SW for 152023 reads
+[M::main_mem] read 1287714 sequences (240000391 bp)...
+[M::mem_pestat] # candidate unique pairs for (FF, FR, RF, RR): (3, 44787, 45, 2)
+[M::mem_pestat] skip orientation FF as there are not enough pairs
+[M::mem_pestat] analyzing insert size distribution for orientation FR...
+[M::mem_pestat] (25, 50, 75) percentile: (123, 149, 186)
+[M::mem_pestat] low and high boundaries for computing mean and std.dev: (1, 312)
+[M::mem_pestat] mean and std.dev: (154.86, 48.27)
+[M::mem_pestat] low and high boundaries for proper pairs: (1, 375)
+[M::mem_pestat] analyzing insert size distribution for orientation RF...
+[M::mem_pestat] (25, 50, 75) percentile: (141, 329, 931)
+[M::mem_pestat] low and high boundaries for computing mean and std.dev: (1, 2511)
+[M::mem_pestat] mean and std.dev: (474.73, 467.51)
+[M::mem_pestat] low and high boundaries for proper pairs: (1, 3301)
+[M::mem_pestat] skip orientation RR as there are not enough pairs
+[M::mem_pestat] skip orientation RF
+[M::worker2@8] performed mate-SW for 140960 reads
+[M::worker2@5] performed mate-SW for 145240 reads
+[M::worker2@1] performed mate-SW for 144395 reads
+[M::worker2@22] performed mate-SW for 151214 reads
+[M::worker2@17] performed mate-SW for 146465 reads
+[M::worker2@15] performed mate-SW for 148278 reads
+[M::worker2@20] performed mate-SW for 146223 reads
+[M::worker2@2] performed mate-SW for 149535 reads
+[M::worker2@13] performed mate-SW for 145092 reads
+[M::worker2@4] performed mate-SW for 147044 reads
+[M::worker2@11] performed mate-SW for 147182 reads
+[M::worker2@14] performed mate-SW for 148548 reads
+[M::worker2@12] performed mate-SW for 147209 reads
+[M::worker2@0] performed mate-SW for 147073 reads
+[M::worker2@3] performed mate-SW for 147714 reads
+[M::worker2@21] performed mate-SW for 148936 reads
+[M::worker2@18] performed mate-SW for 151476 reads
+[M::worker2@10] performed mate-SW for 151625 reads
+[M::worker2@9] performed mate-SW for 150668 reads
+[M::worker2@7] performed mate-SW for 152864 reads
+[M::worker2@23] performed mate-SW for 152600 reads
+[M::worker2@16] performed mate-SW for 148107 reads
+[M::worker2@6] performed mate-SW for 155138 reads
+[M::worker2@19] performed mate-SW for 153977 reads
+[M::main_mem] read 1291612 sequences (240000176 bp)...
+[M::mem_pestat] # candidate unique pairs for (FF, FR, RF, RR): (2, 43345, 60, 5)
+[M::mem_pestat] skip orientation FF as there are not enough pairs
+[M::mem_pestat] analyzing insert size distribution for orientation FR...
+[M::mem_pestat] (25, 50, 75) percentile: (123, 150, 187)
+[M::mem_pestat] low and high boundaries for computing mean and std.dev: (1, 315)
+[M::mem_pestat] mean and std.dev: (156.09, 49.00)
+[M::mem_pestat] low and high boundaries for proper pairs: (1, 379)
+[M::mem_pestat] analyzing insert size distribution for orientation RF...
+[M::mem_pestat] (25, 50, 75) percentile: (166, 540, 1351)
+[M::mem_pestat] low and high boundaries for computing mean and std.dev: (1, 3721)
+[M::mem_pestat] mean and std.dev: (704.94, 796.77)
+[M::mem_pestat] low and high boundaries for proper pairs: (1, 4906)
+[M::mem_pestat] skip orientation RR as there are not enough pairs
+[M::mem_pestat] skip orientation RF
+[M::worker2@0] performed mate-SW for 118332 reads
+[M::worker2@11] performed mate-SW for 121946 reads
+[M::worker2@23] performed mate-SW for 124509 reads
+[M::worker2@8] performed mate-SW for 124525 reads
+[M::worker2@17] performed mate-SW for 124808 reads
+[M::worker2@12] performed mate-SW for 129644 reads
+[M::worker2@9] performed mate-SW for 126883 reads
+[M::worker2@21] performed mate-SW for 124841 reads
+[M::worker2@5] performed mate-SW for 127483 reads
+[M::worker2@10] performed mate-SW for 128954 reads
+[M::worker2@4] performed mate-SW for 129006 reads
+[M::worker2@16] performed mate-SW for 130865 reads
+[M::worker2@7] performed mate-SW for 128354 reads
+[M::worker2@19] performed mate-SW for 130079 reads
+[M::worker2@15] performed mate-SW for 129573 reads
+[M::worker2@18] performed mate-SW for 131119 reads
+[M::worker2@20] performed mate-SW for 131907 reads
+[M::worker2@3] performed mate-SW for 132005 reads
+[M::worker2@2] performed mate-SW for 130664 reads
+[M::worker2@1] performed mate-SW for 131269 reads
+[M::worker2@6] performed mate-SW for 132818 reads
+[M::worker2@13] performed mate-SW for 135857 reads
+[M::worker2@14] performed mate-SW for 134010 reads
+[M::worker2@22] performed mate-SW for 136829 reads
+[M::main_mem] read 1290620 sequences (240000121 bp)...
+[M::mem_pestat] # candidate unique pairs for (FF, FR, RF, RR): (3, 43717, 39, 0)
+[M::mem_pestat] skip orientation FF as there are not enough pairs
+[M::mem_pestat] analyzing insert size distribution for orientation FR...
+[M::mem_pestat] (25, 50, 75) percentile: (123, 150, 188)
+[M::mem_pestat] low and high boundaries for computing mean and std.dev: (1, 318)
+[M::mem_pestat] mean and std.dev: (156.21, 49.29)
+[M::mem_pestat] low and high boundaries for proper pairs: (1, 383)
+[M::mem_pestat] analyzing insert size distribution for orientation RF...
+[M::mem_pestat] (25, 50, 75) percentile: (170, 444, 1598)
+[M::mem_pestat] low and high boundaries for computing mean and std.dev: (1, 4454)
+[M::mem_pestat] mean and std.dev: (830.56, 984.41)
+[M::mem_pestat] low and high boundaries for proper pairs: (1, 5882)
+[M::mem_pestat] skip orientation RR as there are not enough pairs
+[M::mem_pestat] skip orientation RF
+[M::worker2@4] performed mate-SW for 120391 reads
+[M::worker2@19] performed mate-SW for 119925 reads
+[M::worker2@20] performed mate-SW for 124189 reads
+[M::worker2@1] performed mate-SW for 124224 reads
+[M::worker2@22] performed mate-SW for 125861 reads
+[M::worker2@2] performed mate-SW for 127934 reads
+[M::worker2@11] performed mate-SW for 125986 reads
+[M::worker2@12] performed mate-SW for 130986 reads
+[M::worker2@5] performed mate-SW for 126454 reads
+[M::worker2@10] performed mate-SW for 127039 reads
+[M::worker2@6] performed mate-SW for 125197 reads
+[M::worker2@7] performed mate-SW for 126747 reads
+[M::worker2@8] performed mate-SW for 130790 reads
+[M::worker2@18] performed mate-SW for 129707 reads
+[M::worker2@15] performed mate-SW for 130122 reads
+[M::worker2@23] performed mate-SW for 132142 reads
+[M::worker2@0] performed mate-SW for 128191 reads
+[M::worker2@21] performed mate-SW for 128955 reads
+[M::worker2@9] performed mate-SW for 131273 reads
+[M::worker2@13] performed mate-SW for 127695 reads
+[M::worker2@17] performed mate-SW for 128396 reads
+[M::worker2@3] performed mate-SW for 131663 reads
+[M::worker2@16] performed mate-SW for 133884 reads
+[M::worker2@14] performed mate-SW for 132247 reads
+[M::main_mem] read 1282258 sequences (240000076 bp)...
+[M::mem_pestat] # candidate unique pairs for (FF, FR, RF, RR): (3, 43163, 20, 1)
+[M::mem_pestat] skip orientation FF as there are not enough pairs
+[M::mem_pestat] analyzing insert size distribution for orientation FR...
+[M::mem_pestat] (25, 50, 75) percentile: (123, 149, 187)
+[M::mem_pestat] low and high boundaries for computing mean and std.dev: (1, 315)
+[M::mem_pestat] mean and std.dev: (155.27, 48.85)
+[M::mem_pestat] low and high boundaries for proper pairs: (1, 379)
+[M::mem_pestat] analyzing insert size distribution for orientation RF...
+[M::mem_pestat] (25, 50, 75) percentile: (108, 218, 411)
+[M::mem_pestat] low and high boundaries for computing mean and std.dev: (1, 1017)
+[M::mem_pestat] mean and std.dev: (239.06, 196.61)
+[M::mem_pestat] low and high boundaries for proper pairs: (1, 1320)
+[M::mem_pestat] skip orientation RR as there are not enough pairs
+[M::mem_pestat] skip orientation RF
+[M::worker2@20] performed mate-SW for 130914 reads
+[M::worker2@22] performed mate-SW for 132509 reads
+[M::worker2@1] performed mate-SW for 136312 reads
+[M::worker2@15] performed mate-SW for 135225 reads
+[M::worker2@14] performed mate-SW for 137345 reads
+[M::worker2@0] performed mate-SW for 136630 reads
+[M::worker2@4] performed mate-SW for 135241 reads
+[M::worker2@18] performed mate-SW for 138994 reads
+[M::worker2@16] performed mate-SW for 141105 reads
+[M::worker2@3] performed mate-SW for 139149 reads
+[M::worker2@2] performed mate-SW for 137520 reads
+[M::worker2@10] performed mate-SW for 141721 reads
+[M::worker2@13] performed mate-SW for 140787 reads
+[M::worker2@17] performed mate-SW for 143693 reads
+[M::worker2@5] performed mate-SW for 141977 reads
+[M::worker2@6] performed mate-SW for 142815 reads
+[M::worker2@21] performed mate-SW for 143161 reads
+[M::worker2@9] performed mate-SW for 143619 reads
+[M::worker2@8] performed mate-SW for 143437 reads
+[M::worker2@7] performed mate-SW for 143255 reads
+[M::worker2@11] performed mate-SW for 144425 reads
+[M::worker2@19] performed mate-SW for 146841 reads
+[M::worker2@23] performed mate-SW for 150901 reads
+[M::worker2@12] performed mate-SW for 148427 reads
+[M::main_mem] read 1288810 sequences (240000069 bp)...
+[M::mem_pestat] # candidate unique pairs for (FF, FR, RF, RR): (3, 44037, 11, 0)
+[M::mem_pestat] skip orientation FF as there are not enough pairs
+[M::mem_pestat] analyzing insert size distribution for orientation FR...
+[M::mem_pestat] (25, 50, 75) percentile: (123, 149, 187)
+[M::mem_pestat] low and high boundaries for computing mean and std.dev: (1, 315)
+[M::mem_pestat] mean and std.dev: (155.68, 48.91)
+[M::mem_pestat] low and high boundaries for proper pairs: (1, 379)
+[M::mem_pestat] analyzing insert size distribution for orientation RF...
+[M::mem_pestat] (25, 50, 75) percentile: (243, 887, 1443)
+[M::mem_pestat] low and high boundaries for computing mean and std.dev: (1, 3843)
+[M::mem_pestat] mean and std.dev: (810.00, 690.87)
+[M::mem_pestat] low and high boundaries for proper pairs: (1, 5043)
+[M::mem_pestat] skip orientation RR as there are not enough pairs
+[M::mem_pestat] skip orientation RF
+[M::worker2@13] performed mate-SW for 122908 reads
+[M::worker2@20] performed mate-SW for 124614 reads
+[M::worker2@11] performed mate-SW for 128165 reads
+[M::worker2@17] performed mate-SW for 128513 reads
+[M::worker2@12] performed mate-SW for 127698 reads
+[M::worker2@6] performed mate-SW for 125812 reads
+[M::worker2@2] performed mate-SW for 126085 reads
+[M::worker2@15] performed mate-SW for 129363 reads
+[M::worker2@18] performed mate-SW for 127039 reads
+[M::worker2@22] performed mate-SW for 129204 reads
+[M::worker2@19] performed mate-SW for 130836 reads
+[M::worker2@8] performed mate-SW for 130374 reads
+[M::worker2@0] performed mate-SW for 132083 reads
+[M::worker2@9] performed mate-SW for 130720 reads
+[M::worker2@4] performed mate-SW for 133729 reads
+[M::worker2@7] performed mate-SW for 133672 reads
+[M::worker2@3] performed mate-SW for 130372 reads
+[M::worker2@16] performed mate-SW for 132445 reads
+[M::worker2@1] performed mate-SW for 132045 reads
+[M::worker2@23] performed mate-SW for 134535 reads
+[M::worker2@14] performed mate-SW for 135805 reads
+[M::worker2@21] performed mate-SW for 138635 reads
+[M::worker2@10] performed mate-SW for 135246 reads
+[M::worker2@5] performed mate-SW for 138442 reads
+[M::main_mem] read 1293844 sequences (240000286 bp)...
+[M::mem_pestat] # candidate unique pairs for (FF, FR, RF, RR): (0, 44656, 11, 2)
+[M::mem_pestat] skip orientation FF as there are not enough pairs
+[M::mem_pestat] analyzing insert size distribution for orientation FR...
+[M::mem_pestat] (25, 50, 75) percentile: (123, 149, 187)
+[M::mem_pestat] low and high boundaries for computing mean and std.dev: (1, 315)
+[M::mem_pestat] mean and std.dev: (155.12, 48.76)
+[M::mem_pestat] low and high boundaries for proper pairs: (1, 379)
+[M::mem_pestat] analyzing insert size distribution for orientation RF...
+[M::mem_pestat] (25, 50, 75) percentile: (137, 742, 1956)
+[M::mem_pestat] low and high boundaries for computing mean and std.dev: (1, 5594)
+[M::mem_pestat] mean and std.dev: (1103.27, 1224.88)
+[M::mem_pestat] low and high boundaries for proper pairs: (1, 7413)
+[M::mem_pestat] skip orientation RR as there are not enough pairs
+[M::mem_pestat] skip orientation RF
+[M::worker2@1] performed mate-SW for 127820 reads
+[M::worker2@5] performed mate-SW for 127544 reads
+[M::worker2@0] performed mate-SW for 128663 reads
+[M::worker2@14] performed mate-SW for 132035 reads
+[M::worker2@12] performed mate-SW for 131031 reads
+[M::worker2@22] performed mate-SW for 131595 reads
+[M::worker2@6] performed mate-SW for 131972 reads
+[M::worker2@3] performed mate-SW for 132054 reads
+[M::worker2@19] performed mate-SW for 132760 reads
+[M::worker2@23] performed mate-SW for 133137 reads
+[M::worker2@17] performed mate-SW for 133548 reads
+[M::worker2@2] performed mate-SW for 134325 reads
+[M::worker2@10] performed mate-SW for 136502 reads
+[M::worker2@20] performed mate-SW for 136038 reads
+[M::worker2@18] performed mate-SW for 136392 reads
+[M::worker2@11] performed mate-SW for 134098 reads
+[M::worker2@7] performed mate-SW for 134046 reads
+[M::worker2@21] performed mate-SW for 134754 reads
+[M::worker2@4] performed mate-SW for 135487 reads
+[M::worker2@13] performed mate-SW for 140357 reads
+[M::worker2@16] performed mate-SW for 140668 reads
+[M::worker2@9] performed mate-SW for 142120 reads
+[M::worker2@15] performed mate-SW for 139301 reads
+[M::worker2@8] performed mate-SW for 142571 reads
+[M::main_mem] read 1295378 sequences (240000281 bp)...
+[M::mem_pestat] # candidate unique pairs for (FF, FR, RF, RR): (0, 45906, 15, 1)
+[M::mem_pestat] skip orientation FF as there are not enough pairs
+[M::mem_pestat] analyzing insert size distribution for orientation FR...
+[M::mem_pestat] (25, 50, 75) percentile: (122, 149, 186)
+[M::mem_pestat] low and high boundaries for computing mean and std.dev: (1, 314)
+[M::mem_pestat] mean and std.dev: (154.82, 48.45)
+[M::mem_pestat] low and high boundaries for proper pairs: (1, 378)
+[M::mem_pestat] analyzing insert size distribution for orientation RF...
+[M::mem_pestat] (25, 50, 75) percentile: (233, 530, 1288)
+[M::mem_pestat] low and high boundaries for computing mean and std.dev: (1, 3398)
+[M::mem_pestat] mean and std.dev: (705.54, 823.02)
+[M::mem_pestat] low and high boundaries for proper pairs: (1, 4453)
+[M::mem_pestat] skip orientation RR as there are not enough pairs
+[M::mem_pestat] skip orientation RF
+[M::worker2@6] performed mate-SW for 132185 reads
+[M::worker2@2] performed mate-SW for 132624 reads
+[M::worker2@15] performed mate-SW for 138477 reads
+[M::worker2@23] performed mate-SW for 139364 reads
+[M::worker2@20] performed mate-SW for 139047 reads
+[M::worker2@12] performed mate-SW for 137511 reads
+[M::worker2@19] performed mate-SW for 140646 reads
+[M::worker2@11] performed mate-SW for 138569 reads
+[M::worker2@3] performed mate-SW for 139908 reads
+[M::worker2@9] performed mate-SW for 137749 reads
+[M::worker2@5] performed mate-SW for 141422 reads
+[M::worker2@21] performed mate-SW for 139709 reads
+[M::worker2@16] performed mate-SW for 139942 reads
+[M::worker2@22] performed mate-SW for 139608 reads
+[M::worker2@7] performed mate-SW for 140921 reads
+[M::worker2@10] performed mate-SW for 141442 reads
+[M::worker2@18] performed mate-SW for 141220 reads
+[M::worker2@4] performed mate-SW for 140558 reads
+[M::worker2@17] performed mate-SW for 143244 reads
+[M::worker2@1] performed mate-SW for 143096 reads
+[M::worker2@14] performed mate-SW for 143954 reads
+[M::worker2@13] performed mate-SW for 144424 reads
+[M::worker2@8] performed mate-SW for 150683 reads
+[M::worker2@0] performed mate-SW for 152330 reads
+[M::main_mem] read 1294216 sequences (240000056 bp)...
+[M::mem_pestat] # candidate unique pairs for (FF, FR, RF, RR): (2, 45752, 10, 1)
+[M::mem_pestat] skip orientation FF as there are not enough pairs
+[M::mem_pestat] analyzing insert size distribution for orientation FR...
+[M::mem_pestat] (25, 50, 75) percentile: (122, 148, 186)
+[M::mem_pestat] low and high boundaries for computing mean and std.dev: (1, 314)
+[M::mem_pestat] mean and std.dev: (154.79, 48.45)
+[M::mem_pestat] low and high boundaries for proper pairs: (1, 378)
+[M::mem_pestat] analyzing insert size distribution for orientation RF...
+[M::mem_pestat] (25, 50, 75) percentile: (506, 824, 2169)
+[M::mem_pestat] low and high boundaries for computing mean and std.dev: (1, 5495)
+[M::mem_pestat] mean and std.dev: (1014.78, 988.45)
+[M::mem_pestat] low and high boundaries for proper pairs: (1, 7158)
+[M::mem_pestat] skip orientation RR as there are not enough pairs
+[M::mem_pestat] skip orientation RF
+[M::worker2@6] performed mate-SW for 130906 reads
+[M::worker2@15] performed mate-SW for 132113 reads
+[M::worker2@7] performed mate-SW for 135084 reads
+[M::worker2@4] performed mate-SW for 135827 reads
+[M::worker2@18] performed mate-SW for 134981 reads
+[M::worker2@5] performed mate-SW for 137894 reads
+[M::worker2@8] performed mate-SW for 140092 reads
+[M::worker2@1] performed mate-SW for 138341 reads
+[M::worker2@19] performed mate-SW for 137855 reads
+[M::worker2@16] performed mate-SW for 139385 reads
+[M::worker2@21] performed mate-SW for 141139 reads
+[M::worker2@23] performed mate-SW for 141959 reads
+[M::worker2@12] performed mate-SW for 140190 reads
+[M::worker2@3] performed mate-SW for 141561 reads
+[M::worker2@9] performed mate-SW for 141906 reads
+[M::worker2@22] performed mate-SW for 144260 reads
+[M::worker2@0] performed mate-SW for 143536 reads
+[M::worker2@13] performed mate-SW for 145641 reads
+[M::worker2@2] performed mate-SW for 144546 reads
+[M::worker2@11] performed mate-SW for 144312 reads
+[M::worker2@20] performed mate-SW for 145416 reads
+[M::worker2@14] performed mate-SW for 146174 reads
+[M::worker2@10] performed mate-SW for 148055 reads
+[M::worker2@17] performed mate-SW for 150409 reads
+[M::main_mem] read 1288292 sequences (240000188 bp)...
+[M::mem_pestat] # candidate unique pairs for (FF, FR, RF, RR): (3, 44887, 12, 0)
+[M::mem_pestat] skip orientation FF as there are not enough pairs
+[M::mem_pestat] analyzing insert size distribution for orientation FR...
+[M::mem_pestat] (25, 50, 75) percentile: (123, 149, 186)
+[M::mem_pestat] low and high boundaries for computing mean and std.dev: (1, 312)
+[M::mem_pestat] mean and std.dev: (155.04, 48.44)
+[M::mem_pestat] low and high boundaries for proper pairs: (1, 375)
+[M::mem_pestat] analyzing insert size distribution for orientation RF...
+[M::mem_pestat] (25, 50, 75) percentile: (218, 501, 2559)
+[M::mem_pestat] low and high boundaries for computing mean and std.dev: (1, 7241)
+[M::mem_pestat] mean and std.dev: (1114.17, 1240.68)
+[M::mem_pestat] low and high boundaries for proper pairs: (1, 9582)
+[M::mem_pestat] skip orientation RR as there are not enough pairs
+[M::mem_pestat] skip orientation RF
+[M::worker2@15] performed mate-SW for 147715 reads
+[M::worker2@18] performed mate-SW for 151336 reads
+[M::worker2@19] performed mate-SW for 148917 reads
+[M::worker2@16] performed mate-SW for 150803 reads
+[M::worker2@11] performed mate-SW for 152682 reads
+[M::worker2@2] performed mate-SW for 149947 reads
+[M::worker2@0] performed mate-SW for 151287 reads
+[M::worker2@23] performed mate-SW for 153666 reads
+[M::worker2@5] performed mate-SW for 156374 reads
+[M::worker2@22] performed mate-SW for 156090 reads
+[M::worker2@17] performed mate-SW for 154774 reads
+[M::worker2@8] performed mate-SW for 155297 reads
+[M::worker2@6] performed mate-SW for 155643 reads
+[M::worker2@3] performed mate-SW for 156570 reads
+[M::worker2@1] performed mate-SW for 156381 reads
+[M::worker2@20] performed mate-SW for 157114 reads
+[M::worker2@21] performed mate-SW for 159666 reads
+[M::worker2@4] performed mate-SW for 157671 reads
+[M::worker2@10] performed mate-SW for 158520 reads
+[M::worker2@12] performed mate-SW for 158272 reads
+[M::worker2@14] performed mate-SW for 158641 reads
+[M::worker2@9] performed mate-SW for 159114 reads
+[M::worker2@13] performed mate-SW for 160899 reads
+[M::worker2@7] performed mate-SW for 163394 reads
+[M::main_mem] read 1293026 sequences (240000299 bp)...
+[M::mem_pestat] # candidate unique pairs for (FF, FR, RF, RR): (1, 43966, 18, 1)
+[M::mem_pestat] skip orientation FF as there are not enough pairs
+[M::mem_pestat] analyzing insert size distribution for orientation FR...
+[M::mem_pestat] (25, 50, 75) percentile: (122, 149, 187)
+[M::mem_pestat] low and high boundaries for computing mean and std.dev: (1, 317)
+[M::mem_pestat] mean and std.dev: (155.31, 49.12)
+[M::mem_pestat] low and high boundaries for proper pairs: (1, 382)
+[M::mem_pestat] analyzing insert size distribution for orientation RF...
+[M::mem_pestat] (25, 50, 75) percentile: (738, 1639, 2799)
+[M::mem_pestat] low and high boundaries for computing mean and std.dev: (1, 6921)
+[M::mem_pestat] mean and std.dev: (1808.71, 1496.18)
+[M::mem_pestat] low and high boundaries for proper pairs: (1, 8982)
+[M::mem_pestat] skip orientation RR as there are not enough pairs
+[M::mem_pestat] skip orientation RF
+[M::worker2@12] performed mate-SW for 114348 reads
+[M::worker2@0] performed mate-SW for 119826 reads
+[M::worker2@3] performed mate-SW for 118397 reads
+[M::worker2@20] performed mate-SW for 117150 reads
+[M::worker2@5] performed mate-SW for 119039 reads
+[M::worker2@21] performed mate-SW for 119948 reads
+[M::worker2@16] performed mate-SW for 122051 reads
+[M::worker2@18] performed mate-SW for 117580 reads
+[M::worker2@7] performed mate-SW for 122301 reads
+[M::worker2@19] performed mate-SW for 122161 reads
+[M::worker2@8] performed mate-SW for 125174 reads
+[M::worker2@4] performed mate-SW for 124141 reads
+[M::worker2@13] performed mate-SW for 123237 reads
+[M::worker2@10] performed mate-SW for 123648 reads
+[M::worker2@17] performed mate-SW for 123583 reads
+[M::worker2@2] performed mate-SW for 126782 reads
+[M::worker2@9] performed mate-SW for 127733 reads
+[M::worker2@23] performed mate-SW for 125010 reads
+[M::worker2@1] performed mate-SW for 126635 reads
+[M::worker2@15] performed mate-SW for 128228 reads
+[M::worker2@11] performed mate-SW for 129243 reads
+[M::worker2@6] performed mate-SW for 129611 reads
+[M::worker2@22] performed mate-SW for 130655 reads
+[M::worker2@14] performed mate-SW for 132452 reads
+[M::main_mem] read 1287206 sequences (240000190 bp)...
+[M::mem_pestat] # candidate unique pairs for (FF, FR, RF, RR): (1, 43530, 13, 3)
+[M::mem_pestat] skip orientation FF as there are not enough pairs
+[M::mem_pestat] analyzing insert size distribution for orientation FR...
+[M::mem_pestat] (25, 50, 75) percentile: (123, 150, 188)
+[M::mem_pestat] low and high boundaries for computing mean and std.dev: (1, 318)
+[M::mem_pestat] mean and std.dev: (156.51, 49.14)
+[M::mem_pestat] low and high boundaries for proper pairs: (1, 383)
+[M::mem_pestat] analyzing insert size distribution for orientation RF...
+[M::mem_pestat] (25, 50, 75) percentile: (92, 157, 1124)
+[M::mem_pestat] low and high boundaries for computing mean and std.dev: (1, 3188)
+[M::mem_pestat] mean and std.dev: (466.42, 809.05)
+[M::mem_pestat] low and high boundaries for proper pairs: (1, 4220)
+[M::mem_pestat] skip orientation RR as there are not enough pairs
+[M::mem_pestat] skip orientation RF
+[M::worker2@13] performed mate-SW for 126422 reads
+[M::worker2@21] performed mate-SW for 128194 reads
+[M::worker2@10] performed mate-SW for 130392 reads
+[M::worker2@22] performed mate-SW for 129849 reads
+[M::worker2@20] performed mate-SW for 128293 reads
+[M::worker2@3] performed mate-SW for 129225 reads
+[M::worker2@2] performed mate-SW for 130094 reads
+[M::worker2@14] performed mate-SW for 132160 reads
+[M::worker2@15] performed mate-SW for 131394 reads
+[M::worker2@16] performed mate-SW for 129626 reads
+[M::worker2@9] performed mate-SW for 130764 reads
+[M::worker2@23] performed mate-SW for 130711 reads
+[M::worker2@18] performed mate-SW for 132005 reads
+[M::worker2@6] performed mate-SW for 135213 reads
+[M::worker2@5] performed mate-SW for 134474 reads
+[M::worker2@8] performed mate-SW for 133453 reads
+[M::worker2@4] performed mate-SW for 134397 reads
+[M::worker2@1] performed mate-SW for 134716 reads
+[M::worker2@11] performed mate-SW for 136904 reads
+[M::worker2@0] performed mate-SW for 134152 reads
+[M::worker2@19] performed mate-SW for 136839 reads
+[M::worker2@12] performed mate-SW for 138120 reads
+[M::worker2@7] performed mate-SW for 141262 reads
+[M::worker2@17] performed mate-SW for 139428 reads
+[M::main_mem] read 1291936 sequences (240000294 bp)...
+[M::mem_pestat] # candidate unique pairs for (FF, FR, RF, RR): (1, 43686, 16, 2)
+[M::mem_pestat] skip orientation FF as there are not enough pairs
+[M::mem_pestat] analyzing insert size distribution for orientation FR...
+[M::mem_pestat] (25, 50, 75) percentile: (124, 150, 187)
+[M::mem_pestat] low and high boundaries for computing mean and std.dev: (1, 313)
+[M::mem_pestat] mean and std.dev: (155.81, 48.38)
+[M::mem_pestat] low and high boundaries for proper pairs: (1, 376)
+[M::mem_pestat] analyzing insert size distribution for orientation RF...
+[M::mem_pestat] (25, 50, 75) percentile: (156, 395, 2671)
+[M::mem_pestat] low and high boundaries for computing mean and std.dev: (1, 7701)
+[M::mem_pestat] mean and std.dev: (1743.44, 2232.31)
+[M::mem_pestat] low and high boundaries for proper pairs: (1, 10216)
+[M::mem_pestat] skip orientation RR as there are not enough pairs
+[M::mem_pestat] skip orientation RF
+[M::worker2@10] performed mate-SW for 129357 reads
+[M::worker2@3] performed mate-SW for 130947 reads
+[M::worker2@13] performed mate-SW for 132670 reads
+[M::worker2@5] performed mate-SW for 133786 reads
+[M::worker2@14] performed mate-SW for 130207 reads
+[M::worker2@18] performed mate-SW for 128865 reads
+[M::worker2@15] performed mate-SW for 131407 reads
+[M::worker2@2] performed mate-SW for 131968 reads
+[M::worker2@20] performed mate-SW for 132041 reads
+[M::worker2@21] performed mate-SW for 135730 reads
+[M::worker2@19] performed mate-SW for 135695 reads
+[M::worker2@16] performed mate-SW for 132560 reads
+[M::worker2@9] performed mate-SW for 132166 reads
+[M::worker2@17] performed mate-SW for 136483 reads
+[M::worker2@6] performed mate-SW for 134779 reads
+[M::worker2@23] performed mate-SW for 136153 reads
+[M::worker2@0] performed mate-SW for 135579 reads
+[M::worker2@8] performed mate-SW for 138349 reads
+[M::worker2@4] performed mate-SW for 139419 reads
+[M::worker2@11] performed mate-SW for 141414 reads
+[M::worker2@7] performed mate-SW for 142237 reads
+[M::worker2@22] performed mate-SW for 145231 reads
+[M::worker2@1] performed mate-SW for 144098 reads
+[M::worker2@12] performed mate-SW for 150343 reads
+[M::main_mem] read 1285772 sequences (240000057 bp)...
+[M::mem_pestat] # candidate unique pairs for (FF, FR, RF, RR): (3, 43287, 31, 3)
+[M::mem_pestat] skip orientation FF as there are not enough pairs
+[M::mem_pestat] analyzing insert size distribution for orientation FR...
+[M::mem_pestat] (25, 50, 75) percentile: (124, 149, 188)
+[M::mem_pestat] low and high boundaries for computing mean and std.dev: (1, 316)
+[M::mem_pestat] mean and std.dev: (156.08, 48.69)
+[M::mem_pestat] low and high boundaries for proper pairs: (1, 380)
+[M::mem_pestat] analyzing insert size distribution for orientation RF...
+[M::mem_pestat] (25, 50, 75) percentile: (170, 288, 638)
+[M::mem_pestat] low and high boundaries for computing mean and std.dev: (1, 1574)
+[M::mem_pestat] mean and std.dev: (333.07, 245.82)
+[M::mem_pestat] low and high boundaries for proper pairs: (1, 2042)
+[M::mem_pestat] skip orientation RR as there are not enough pairs
+[M::mem_pestat] skip orientation RF
+[M::worker2@4] performed mate-SW for 124467 reads
+[M::worker2@23] performed mate-SW for 123957 reads
+[M::worker2@6] performed mate-SW for 125423 reads
+[M::worker2@1] performed mate-SW for 126015 reads
+[M::worker2@21] performed mate-SW for 122069 reads
+[M::worker2@0] performed mate-SW for 125224 reads
+[M::worker2@11] performed mate-SW for 126451 reads
+[M::worker2@16] performed mate-SW for 127750 reads
+[M::worker2@19] performed mate-SW for 127384 reads
+[M::worker2@15] performed mate-SW for 127467 reads
+[M::worker2@9] performed mate-SW for 129898 reads
+[M::worker2@3] performed mate-SW for 129201 reads
+[M::worker2@5] performed mate-SW for 127798 reads
+[M::worker2@10] performed mate-SW for 126759 reads
+[M::worker2@14] performed mate-SW for 131589 reads
+[M::worker2@8] performed mate-SW for 130533 reads
+[M::worker2@7] performed mate-SW for 130408 reads
+[M::worker2@12] performed mate-SW for 131179 reads
+[M::worker2@20] performed mate-SW for 131667 reads
+[M::worker2@18] performed mate-SW for 130728 reads
+[M::worker2@2] performed mate-SW for 130983 reads
+[M::worker2@13] performed mate-SW for 129722 reads
+[M::worker2@17] performed mate-SW for 134156 reads
+[M::worker2@22] performed mate-SW for 137205 reads
+[M::main_mem] read 1282326 sequences (240000344 bp)...
+[M::mem_pestat] # candidate unique pairs for (FF, FR, RF, RR): (4, 43640, 17, 1)
+[M::mem_pestat] skip orientation FF as there are not enough pairs
+[M::mem_pestat] analyzing insert size distribution for orientation FR...
+[M::mem_pestat] (25, 50, 75) percentile: (123, 149, 187)
+[M::mem_pestat] low and high boundaries for computing mean and std.dev: (1, 315)
+[M::mem_pestat] mean and std.dev: (155.85, 48.79)
+[M::mem_pestat] low and high boundaries for proper pairs: (1, 379)
+[M::mem_pestat] analyzing insert size distribution for orientation RF...
+[M::mem_pestat] (25, 50, 75) percentile: (290, 834, 1265)
+[M::mem_pestat] low and high boundaries for computing mean and std.dev: (1, 3215)
+[M::mem_pestat] mean and std.dev: (744.19, 584.01)
+[M::mem_pestat] low and high boundaries for proper pairs: (1, 4190)
+[M::mem_pestat] skip orientation RR as there are not enough pairs
+[M::mem_pestat] skip orientation RF
+[M::worker2@10] performed mate-SW for 134010 reads
+[M::worker2@6] performed mate-SW for 139533 reads
+[M::worker2@21] performed mate-SW for 136065 reads
+[M::worker2@15] performed mate-SW for 141600 reads
+[M::worker2@20] performed mate-SW for 141399 reads
+[M::worker2@14] performed mate-SW for 138364 reads
+[M::worker2@19] performed mate-SW for 141395 reads
+[M::worker2@3] performed mate-SW for 141183 reads
+[M::worker2@7] performed mate-SW for 140492 reads
+[M::worker2@18] performed mate-SW for 136801 reads
+[M::worker2@17] performed mate-SW for 141329 reads
+[M::worker2@23] performed mate-SW for 141829 reads
+[M::worker2@12] performed mate-SW for 138364 reads
+[M::worker2@4] performed mate-SW for 139743 reads
+[M::worker2@9] performed mate-SW for 142653 reads
+[M::worker2@16] performed mate-SW for 139326 reads
+[M::worker2@2] performed mate-SW for 142354 reads
+[M::worker2@0] performed mate-SW for 142317 reads
+[M::worker2@11] performed mate-SW for 141369 reads
+[M::worker2@5] performed mate-SW for 145212 reads
+[M::worker2@8] performed mate-SW for 145287 reads
+[M::worker2@13] performed mate-SW for 145346 reads
+[M::worker2@1] performed mate-SW for 147764 reads
+[M::worker2@22] performed mate-SW for 147010 reads
+[M::main_mem] read 1263362 sequences (240000368 bp)...
+[M::mem_pestat] # candidate unique pairs for (FF, FR, RF, RR): (4, 43597, 22, 2)
+[M::mem_pestat] skip orientation FF as there are not enough pairs
+[M::mem_pestat] analyzing insert size distribution for orientation FR...
+[M::mem_pestat] (25, 50, 75) percentile: (123, 150, 188)
+[M::mem_pestat] low and high boundaries for computing mean and std.dev: (1, 318)
+[M::mem_pestat] mean and std.dev: (156.58, 49.42)
+[M::mem_pestat] low and high boundaries for proper pairs: (1, 383)
+[M::mem_pestat] analyzing insert size distribution for orientation RF...
+[M::mem_pestat] (25, 50, 75) percentile: (160, 330, 1767)
+[M::mem_pestat] low and high boundaries for computing mean and std.dev: (1, 4981)
+[M::mem_pestat] mean and std.dev: (851.45, 1175.46)
+[M::mem_pestat] low and high boundaries for proper pairs: (1, 6588)
+[M::mem_pestat] skip orientation RR as there are not enough pairs
+[M::mem_pestat] skip orientation RF
+[M::worker2@6] performed mate-SW for 114469 reads
+[M::worker2@21] performed mate-SW for 122281 reads
+[M::worker2@18] performed mate-SW for 123020 reads
+[M::worker2@17] performed mate-SW for 121467 reads
+[M::worker2@0] performed mate-SW for 121622 reads
+[M::worker2@19] performed mate-SW for 122751 reads
+[M::worker2@8] performed mate-SW for 122494 reads
+[M::worker2@10] performed mate-SW for 122967 reads
+[M::worker2@15] performed mate-SW for 126679 reads
+[M::worker2@7] performed mate-SW for 126570 reads
+[M::worker2@1] performed mate-SW for 126802 reads
+[M::worker2@2] performed mate-SW for 126011 reads
+[M::worker2@20] performed mate-SW for 129276 reads
+[M::worker2@23] performed mate-SW for 130358 reads
+[M::worker2@12] performed mate-SW for 126897 reads
+[M::worker2@22] performed mate-SW for 129090 reads
+[M::worker2@5] performed mate-SW for 128880 reads
+[M::worker2@9] performed mate-SW for 130750 reads
+[M::worker2@3] performed mate-SW for 132469 reads
+[M::worker2@4] performed mate-SW for 130693 reads
+[M::worker2@16] performed mate-SW for 129781 reads
+[M::worker2@13] performed mate-SW for 132802 reads
+[M::worker2@11] performed mate-SW for 133771 reads
+[M::worker2@14] performed mate-SW for 137830 reads
+[M::main_mem] read 1243716 sequences (240000007 bp)...
+[M::mem_pestat] # candidate unique pairs for (FF, FR, RF, RR): (3, 42100, 49, 2)
+[M::mem_pestat] skip orientation FF as there are not enough pairs
+[M::mem_pestat] analyzing insert size distribution for orientation FR...
+[M::mem_pestat] (25, 50, 75) percentile: (124, 150, 189)
+[M::mem_pestat] low and high boundaries for computing mean and std.dev: (1, 319)
+[M::mem_pestat] mean and std.dev: (157.17, 49.66)
+[M::mem_pestat] low and high boundaries for proper pairs: (1, 384)
+[M::mem_pestat] analyzing insert size distribution for orientation RF...
+[M::mem_pestat] (25, 50, 75) percentile: (190, 353, 1039)
+[M::mem_pestat] low and high boundaries for computing mean and std.dev: (1, 2737)
+[M::mem_pestat] mean and std.dev: (553.36, 597.97)
+[M::mem_pestat] low and high boundaries for proper pairs: (1, 3586)
+[M::mem_pestat] skip orientation RR as there are not enough pairs
+[M::mem_pestat] skip orientation RF
+[M::worker2@11] performed mate-SW for 124987 reads
+[M::worker2@18] performed mate-SW for 127154 reads
+[M::worker2@21] performed mate-SW for 126466 reads
+[M::worker2@19] performed mate-SW for 125099 reads
+[M::worker2@4] performed mate-SW for 128299 reads
+[M::worker2@7] performed mate-SW for 129538 reads
+[M::worker2@23] performed mate-SW for 127646 reads
+[M::worker2@13] performed mate-SW for 125309 reads
+[M::worker2@8] performed mate-SW for 128555 reads
+[M::worker2@20] performed mate-SW for 129602 reads
+[M::worker2@15] performed mate-SW for 128726 reads
+[M::worker2@9] performed mate-SW for 131497 reads
+[M::worker2@17] performed mate-SW for 130487 reads
+[M::worker2@12] performed mate-SW for 130914 reads
+[M::worker2@16] performed mate-SW for 130618 reads
+[M::worker2@1] performed mate-SW for 129757 reads
+[M::worker2@0] performed mate-SW for 132883 reads
+[M::worker2@6] performed mate-SW for 133336 reads
+[M::worker2@5] performed mate-SW for 131969 reads
+[M::worker2@3] performed mate-SW for 132349 reads
+[M::worker2@14] performed mate-SW for 132837 reads
+[M::worker2@10] performed mate-SW for 133148 reads
+[M::worker2@22] performed mate-SW for 136663 reads
+[M::worker2@2] performed mate-SW for 134513 reads
+[M::main_mem] read 1265970 sequences (240000405 bp)...
+[M::mem_pestat] # candidate unique pairs for (FF, FR, RF, RR): (3, 43045, 14, 7)
+[M::mem_pestat] skip orientation FF as there are not enough pairs
+[M::mem_pestat] analyzing insert size distribution for orientation FR...
+[M::mem_pestat] (25, 50, 75) percentile: (124, 150, 189)
+[M::mem_pestat] low and high boundaries for computing mean and std.dev: (1, 319)
+[M::mem_pestat] mean and std.dev: (156.92, 49.28)
+[M::mem_pestat] low and high boundaries for proper pairs: (1, 384)
+[M::mem_pestat] analyzing insert size distribution for orientation RF...
+[M::mem_pestat] (25, 50, 75) percentile: (121, 271, 2624)
+[M::mem_pestat] low and high boundaries for computing mean and std.dev: (1, 7630)
+[M::mem_pestat] mean and std.dev: (1669.29, 2316.39)
+[M::mem_pestat] low and high boundaries for proper pairs: (1, 10133)
+[M::mem_pestat] skip orientation RR as there are not enough pairs
+[M::mem_pestat] skip orientation RF
+[M::worker2@9] performed mate-SW for 111812 reads
+[M::worker2@1] performed mate-SW for 113753 reads
+[M::worker2@7] performed mate-SW for 111660 reads
+[M::worker2@19] performed mate-SW for 114750 reads
+[M::worker2@6] performed mate-SW for 113843 reads
+[M::worker2@11] performed mate-SW for 115037 reads
+[M::worker2@13] performed mate-SW for 117349 reads
+[M::worker2@18] performed mate-SW for 114492 reads
+[M::worker2@20] performed mate-SW for 115404 reads
+[M::worker2@23] performed mate-SW for 119403 reads
+[M::worker2@14] performed mate-SW for 117748 reads
+[M::worker2@21] performed mate-SW for 120425 reads
+[M::worker2@0] performed mate-SW for 119184 reads
+[M::worker2@3] performed mate-SW for 119953 reads
+[M::worker2@5] performed mate-SW for 118817 reads
+[M::worker2@4] performed mate-SW for 120405 reads
+[M::worker2@17] performed mate-SW for 120806 reads
+[M::worker2@10] performed mate-SW for 121945 reads
+[M::worker2@12] performed mate-SW for 120163 reads
+[M::worker2@22] performed mate-SW for 123023 reads
+[M::worker2@2] performed mate-SW for 124889 reads
+[M::worker2@16] performed mate-SW for 126897 reads
+[M::worker2@8] performed mate-SW for 125612 reads
+[M::worker2@15] performed mate-SW for 130245 reads
+[M::main_mem] read 1262912 sequences (240000002 bp)...
+[M::mem_pestat] # candidate unique pairs for (FF, FR, RF, RR): (5, 43304, 12, 2)
+[M::mem_pestat] skip orientation FF as there are not enough pairs
+[M::mem_pestat] analyzing insert size distribution for orientation FR...
+[M::mem_pestat] (25, 50, 75) percentile: (124, 150, 190)
+[M::mem_pestat] low and high boundaries for computing mean and std.dev: (1, 322)
+[M::mem_pestat] mean and std.dev: (157.17, 49.94)
+[M::mem_pestat] low and high boundaries for proper pairs: (1, 388)
+[M::mem_pestat] analyzing insert size distribution for orientation RF...
+[M::mem_pestat] (25, 50, 75) percentile: (412, 521, 1218)
+[M::mem_pestat] low and high boundaries for computing mean and std.dev: (1, 2830)
+[M::mem_pestat] mean and std.dev: (721.73, 711.10)
+[M::mem_pestat] low and high boundaries for proper pairs: (1, 3636)
+[M::mem_pestat] skip orientation RR as there are not enough pairs
+[M::mem_pestat] skip orientation RF
+[M::worker2@14] performed mate-SW for 118364 reads
+[M::worker2@18] performed mate-SW for 120918 reads
+[M::worker2@22] performed mate-SW for 121330 reads
+[M::worker2@3] performed mate-SW for 121772 reads
+[M::worker2@5] performed mate-SW for 120237 reads
+[M::worker2@10] performed mate-SW for 124924 reads
+[M::worker2@4] performed mate-SW for 121351 reads
+[M::worker2@0] performed mate-SW for 122403 reads
+[M::worker2@15] performed mate-SW for 124252 reads
+[M::worker2@19] performed mate-SW for 124568 reads
+[M::worker2@23] performed mate-SW for 126639 reads
+[M::worker2@17] performed mate-SW for 126015 reads
+[M::worker2@8] performed mate-SW for 126734 reads
+[M::worker2@21] performed mate-SW for 124736 reads
+[M::worker2@7] performed mate-SW for 125474 reads
+[M::worker2@13] performed mate-SW for 127745 reads
+[M::worker2@16] performed mate-SW for 125100 reads
+[M::worker2@9] performed mate-SW for 127572 reads
+[M::worker2@12] performed mate-SW for 126780 reads
+[M::worker2@1] performed mate-SW for 127131 reads
+[M::worker2@20] performed mate-SW for 128164 reads
+[M::worker2@6] performed mate-SW for 127494 reads
+[M::worker2@11] performed mate-SW for 129039 reads
+[M::worker2@2] performed mate-SW for 135644 reads
+[M::main_mem] read 1258418 sequences (240000456 bp)...
+[M::mem_pestat] # candidate unique pairs for (FF, FR, RF, RR): (5, 42888, 22, 3)
+[M::mem_pestat] skip orientation FF as there are not enough pairs
+[M::mem_pestat] analyzing insert size distribution for orientation FR...
+[M::mem_pestat] (25, 50, 75) percentile: (124, 150, 188)
+[M::mem_pestat] low and high boundaries for computing mean and std.dev: (1, 316)
+[M::mem_pestat] mean and std.dev: (156.48, 49.15)
+[M::mem_pestat] low and high boundaries for proper pairs: (1, 380)
+[M::mem_pestat] analyzing insert size distribution for orientation RF...
+[M::mem_pestat] (25, 50, 75) percentile: (237, 781, 1617)
+[M::mem_pestat] low and high boundaries for computing mean and std.dev: (1, 4377)
+[M::mem_pestat] mean and std.dev: (967.24, 1011.61)
+[M::mem_pestat] low and high boundaries for proper pairs: (1, 5757)
+[M::mem_pestat] skip orientation RR as there are not enough pairs
+[M::mem_pestat] skip orientation RF
+[M::worker2@2] performed mate-SW for 129334 reads
+[M::worker2@10] performed mate-SW for 130781 reads
+[M::worker2@8] performed mate-SW for 132651 reads
+[M::worker2@13] performed mate-SW for 131265 reads
+[M::worker2@15] performed mate-SW for 130049 reads
+[M::worker2@12] performed mate-SW for 133983 reads
+[M::worker2@3] performed mate-SW for 131216 reads
+[M::worker2@0] performed mate-SW for 132596 reads
+[M::worker2@18] performed mate-SW for 135158 reads
+[M::worker2@21] performed mate-SW for 132180 reads
+[M::worker2@6] performed mate-SW for 134359 reads
+[M::worker2@1] performed mate-SW for 134308 reads
+[M::worker2@16] performed mate-SW for 136695 reads
+[M::worker2@22] performed mate-SW for 139145 reads
+[M::worker2@17] performed mate-SW for 137986 reads
+[M::worker2@5] performed mate-SW for 138972 reads
+[M::worker2@9] performed mate-SW for 138568 reads
+[M::worker2@20] performed mate-SW for 141830 reads
+[M::worker2@11] performed mate-SW for 140580 reads
+[M::worker2@23] performed mate-SW for 138984 reads
+[M::worker2@14] performed mate-SW for 139876 reads
+[M::worker2@4] performed mate-SW for 137357 reads
+[M::worker2@7] performed mate-SW for 139959 reads
+[M::worker2@19] performed mate-SW for 143947 reads
+[M::main_mem] read 1253678 sequences (240000230 bp)...
+[M::mem_pestat] # candidate unique pairs for (FF, FR, RF, RR): (1, 43231, 21, 5)
+[M::mem_pestat] skip orientation FF as there are not enough pairs
+[M::mem_pestat] analyzing insert size distribution for orientation FR...
+[M::mem_pestat] (25, 50, 75) percentile: (123, 150, 188)
+[M::mem_pestat] low and high boundaries for computing mean and std.dev: (1, 318)
+[M::mem_pestat] mean and std.dev: (156.34, 49.34)
+[M::mem_pestat] low and high boundaries for proper pairs: (1, 383)
+[M::mem_pestat] analyzing insert size distribution for orientation RF...
+[M::mem_pestat] (25, 50, 75) percentile: (112, 253, 902)
+[M::mem_pestat] low and high boundaries for computing mean and std.dev: (1, 2482)
+[M::mem_pestat] mean and std.dev: (456.32, 496.93)
+[M::mem_pestat] low and high boundaries for proper pairs: (1, 3272)
+[M::mem_pestat] skip orientation RR as there are not enough pairs
+[M::mem_pestat] skip orientation RF
+[M::worker2@4] performed mate-SW for 135209 reads
+[M::worker2@18] performed mate-SW for 135700 reads
+[M::worker2@0] performed mate-SW for 137751 reads
+[M::worker2@14] performed mate-SW for 140874 reads
+[M::worker2@10] performed mate-SW for 137718 reads
+[M::worker2@3] performed mate-SW for 141155 reads
+[M::worker2@12] performed mate-SW for 143184 reads
+[M::worker2@20] performed mate-SW for 143693 reads
+[M::worker2@22] performed mate-SW for 142419 reads
+[M::worker2@1] performed mate-SW for 138598 reads
+[M::worker2@11] performed mate-SW for 142301 reads
+[M::worker2@9] performed mate-SW for 139650 reads
+[M::worker2@6] performed mate-SW for 143517 reads
+[M::worker2@5] performed mate-SW for 144867 reads
+[M::worker2@23] performed mate-SW for 144752 reads
+[M::worker2@15] performed mate-SW for 145712 reads
+[M::worker2@7] performed mate-SW for 143855 reads
+[M::worker2@16] performed mate-SW for 146807 reads
+[M::worker2@8] performed mate-SW for 146683 reads
+[M::worker2@2] performed mate-SW for 147874 reads
+[M::worker2@17] performed mate-SW for 142960 reads
+[M::worker2@13] performed mate-SW for 144204 reads
+[M::worker2@21] performed mate-SW for 149078 reads
+[M::worker2@19] performed mate-SW for 150521 reads
+[M::main_mem] read 1262056 sequences (240000161 bp)...
+[M::mem_pestat] # candidate unique pairs for (FF, FR, RF, RR): (2, 44942, 22, 2)
+[M::mem_pestat] skip orientation FF as there are not enough pairs
+[M::mem_pestat] analyzing insert size distribution for orientation FR...
+[M::mem_pestat] (25, 50, 75) percentile: (123, 149, 188)
+[M::mem_pestat] low and high boundaries for computing mean and std.dev: (1, 318)
+[M::mem_pestat] mean and std.dev: (155.96, 49.24)
+[M::mem_pestat] low and high boundaries for proper pairs: (1, 383)
+[M::mem_pestat] analyzing insert size distribution for orientation RF...
+[M::mem_pestat] (25, 50, 75) percentile: (221, 405, 1777)
+[M::mem_pestat] low and high boundaries for computing mean and std.dev: (1, 4889)
+[M::mem_pestat] mean and std.dev: (556.61, 615.72)
+[M::mem_pestat] low and high boundaries for proper pairs: (1, 6445)
+[M::mem_pestat] skip orientation RR as there are not enough pairs
+[M::mem_pestat] skip orientation RF
+[M::worker2@0] performed mate-SW for 147082 reads
+[M::worker2@10] performed mate-SW for 143811 reads
+[M::worker2@5] performed mate-SW for 149193 reads
+[M::worker2@3] performed mate-SW for 147767 reads
+[M::worker2@19] performed mate-SW for 148148 reads
+[M::worker2@21] performed mate-SW for 149574 reads
+[M::worker2@8] performed mate-SW for 151353 reads
+[M::worker2@13] performed mate-SW for 151550 reads
+[M::worker2@7] performed mate-SW for 150304 reads
+[M::worker2@14] performed mate-SW for 153678 reads
+[M::worker2@6] performed mate-SW for 150409 reads
+[M::worker2@18] performed mate-SW for 151511 reads
+[M::worker2@17] performed mate-SW for 153070 reads
+[M::worker2@9] performed mate-SW for 155659 reads
+[M::worker2@16] performed mate-SW for 153202 reads
+[M::worker2@11] performed mate-SW for 152254 reads
+[M::worker2@4] performed mate-SW for 153885 reads
+[M::worker2@2] performed mate-SW for 152944 reads
+[M::worker2@1] performed mate-SW for 153797 reads
+[M::worker2@23] performed mate-SW for 156379 reads
+[M::worker2@22] performed mate-SW for 154293 reads
+[M::worker2@15] performed mate-SW for 157907 reads
+[M::worker2@12] performed mate-SW for 158618 reads
+[M::worker2@20] performed mate-SW for 158047 reads
+[M::main_mem] read 1258494 sequences (240000193 bp)...
+[M::mem_pestat] # candidate unique pairs for (FF, FR, RF, RR): (1, 44846, 11, 0)
+[M::mem_pestat] skip orientation FF as there are not enough pairs
+[M::mem_pestat] analyzing insert size distribution for orientation FR...
+[M::mem_pestat] (25, 50, 75) percentile: (123, 149, 187)
+[M::mem_pestat] low and high boundaries for computing mean and std.dev: (1, 315)
+[M::mem_pestat] mean and std.dev: (155.39, 48.82)
+[M::mem_pestat] low and high boundaries for proper pairs: (1, 379)
+[M::mem_pestat] analyzing insert size distribution for orientation RF...
+[M::mem_pestat] (25, 50, 75) percentile: (122, 376, 750)
+[M::mem_pestat] low and high boundaries for computing mean and std.dev: (1, 2006)
+[M::mem_pestat] mean and std.dev: (570.45, 600.71)
+[M::mem_pestat] low and high boundaries for proper pairs: (1, 2634)
+[M::mem_pestat] skip orientation RR as there are not enough pairs
+[M::mem_pestat] skip orientation RF
+[M::worker2@7] performed mate-SW for 153054 reads
+[M::worker2@22] performed mate-SW for 153603 reads
+[M::worker2@14] performed mate-SW for 155202 reads
+[M::worker2@0] performed mate-SW for 157053 reads
+[M::worker2@5] performed mate-SW for 153350 reads
+[M::worker2@21] performed mate-SW for 153343 reads
+[M::worker2@19] performed mate-SW for 154122 reads
+[M::worker2@1] performed mate-SW for 155583 reads
+[M::worker2@8] performed mate-SW for 156785 reads
+[M::worker2@12] performed mate-SW for 158421 reads
+[M::worker2@6] performed mate-SW for 160171 reads
+[M::worker2@17] performed mate-SW for 157205 reads
+[M::worker2@23] performed mate-SW for 155935 reads
+[M::worker2@15] performed mate-SW for 156783 reads
+[M::worker2@4] performed mate-SW for 159166 reads
+[M::worker2@20] performed mate-SW for 161955 reads
+[M::worker2@10] performed mate-SW for 161107 reads
+[M::worker2@18] performed mate-SW for 160002 reads
+[M::worker2@2] performed mate-SW for 159312 reads
+[M::worker2@13] performed mate-SW for 161677 reads
+[M::worker2@11] performed mate-SW for 160414 reads
+[M::worker2@16] performed mate-SW for 164601 reads
+[M::worker2@9] performed mate-SW for 163580 reads
+[M::worker2@3] performed mate-SW for 160377 reads
+[M::main_mem] read 1238074 sequences (240000344 bp)...
+[M::mem_pestat] # candidate unique pairs for (FF, FR, RF, RR): (3, 42979, 12, 1)
+[M::mem_pestat] skip orientation FF as there are not enough pairs
+[M::mem_pestat] analyzing insert size distribution for orientation FR...
+[M::mem_pestat] (25, 50, 75) percentile: (123, 150, 188)
+[M::mem_pestat] low and high boundaries for computing mean and std.dev: (1, 318)
+[M::mem_pestat] mean and std.dev: (156.21, 49.35)
+[M::mem_pestat] low and high boundaries for proper pairs: (1, 383)
+[M::mem_pestat] analyzing insert size distribution for orientation RF...
+[M::mem_pestat] (25, 50, 75) percentile: (101, 752, 1394)
+[M::mem_pestat] low and high boundaries for computing mean and std.dev: (1, 3980)
+[M::mem_pestat] mean and std.dev: (583.45, 604.94)
+[M::mem_pestat] low and high boundaries for proper pairs: (1, 5273)
+[M::mem_pestat] skip orientation RR as there are not enough pairs
+[M::mem_pestat] skip orientation RF
+[M::worker2@16] performed mate-SW for 159586 reads
+[M::worker2@9] performed mate-SW for 164305 reads
+[M::worker2@11] performed mate-SW for 162397 reads
+[M::worker2@21] performed mate-SW for 163003 reads
+[M::worker2@22] performed mate-SW for 164635 reads
+[M::worker2@20] performed mate-SW for 164085 reads
+[M::worker2@12] performed mate-SW for 165459 reads
+[M::worker2@5] performed mate-SW for 168965 reads
+[M::worker2@7] performed mate-SW for 166309 reads
+[M::worker2@17] performed mate-SW for 167277 reads
+[M::worker2@8] performed mate-SW for 167127 reads
+[M::worker2@1] performed mate-SW for 166594 reads
+[M::worker2@15] performed mate-SW for 166342 reads
+[M::worker2@2] performed mate-SW for 166432 reads
+[M::worker2@13] performed mate-SW for 167734 reads
+[M::worker2@6] performed mate-SW for 165211 reads
+[M::worker2@0] performed mate-SW for 170965 reads
+[M::worker2@3] performed mate-SW for 168725 reads
+[M::worker2@23] performed mate-SW for 169610 reads
+[M::worker2@18] performed mate-SW for 168222 reads
+[M::worker2@4] performed mate-SW for 170291 reads
+[M::worker2@14] performed mate-SW for 171019 reads
+[M::worker2@19] performed mate-SW for 171333 reads
+[M::worker2@10] performed mate-SW for 174405 reads
+[M::main_mem] read 1238000 sequences (240000028 bp)...
+[M::mem_pestat] # candidate unique pairs for (FF, FR, RF, RR): (5, 43103, 12, 2)
+[M::mem_pestat] skip orientation FF as there are not enough pairs
+[M::mem_pestat] analyzing insert size distribution for orientation FR...
+[M::mem_pestat] (25, 50, 75) percentile: (124, 150, 189)
+[M::mem_pestat] low and high boundaries for computing mean and std.dev: (1, 319)
+[M::mem_pestat] mean and std.dev: (156.56, 49.50)
+[M::mem_pestat] low and high boundaries for proper pairs: (1, 384)
+[M::mem_pestat] analyzing insert size distribution for orientation RF...
+[M::mem_pestat] (25, 50, 75) percentile: (212, 442, 1045)
+[M::mem_pestat] low and high boundaries for computing mean and std.dev: (1, 2711)
+[M::mem_pestat] mean and std.dev: (610.18, 672.77)
+[M::mem_pestat] low and high boundaries for proper pairs: (1, 3544)
+[M::mem_pestat] skip orientation RR as there are not enough pairs
+[M::mem_pestat] skip orientation RF
+[M::worker2@17] performed mate-SW for 150276 reads
+[M::worker2@0] performed mate-SW for 149508 reads
+[M::worker2@20] performed mate-SW for 149328 reads
+[M::worker2@6] performed mate-SW for 150942 reads
+[M::worker2@19] performed mate-SW for 150475 reads
+[M::worker2@12] performed mate-SW for 150248 reads
+[M::worker2@11] performed mate-SW for 151287 reads
+[M::worker2@13] performed mate-SW for 154025 reads
+[M::worker2@2] performed mate-SW for 152919 reads
+[M::worker2@1] performed mate-SW for 154000 reads
+[M::worker2@9] performed mate-SW for 153571 reads
+[M::worker2@23] performed mate-SW for 152013 reads
+[M::worker2@15] performed mate-SW for 151918 reads
+[M::worker2@5] performed mate-SW for 153526 reads
+[M::worker2@4] performed mate-SW for 153630 reads
+[M::worker2@21] performed mate-SW for 154651 reads
+[M::worker2@8] performed mate-SW for 155806 reads
+[M::worker2@14] performed mate-SW for 154526 reads
+[M::worker2@10] performed mate-SW for 158525 reads
+[M::worker2@3] performed mate-SW for 157539 reads
+[M::worker2@16] performed mate-SW for 156790 reads
+[M::worker2@18] performed mate-SW for 158448 reads
+[M::worker2@7] performed mate-SW for 158185 reads
+[M::worker2@22] performed mate-SW for 161600 reads
+[M::main_mem] read 1254612 sequences (240000269 bp)...
+[M::mem_pestat] # candidate unique pairs for (FF, FR, RF, RR): (3, 43999, 19, 2)
+[M::mem_pestat] skip orientation FF as there are not enough pairs
+[M::mem_pestat] analyzing insert size distribution for orientation FR...
+[M::mem_pestat] (25, 50, 75) percentile: (123, 150, 189)
+[M::mem_pestat] low and high boundaries for computing mean and std.dev: (1, 321)
+[M::mem_pestat] mean and std.dev: (157.00, 50.08)
+[M::mem_pestat] low and high boundaries for proper pairs: (1, 387)
+[M::mem_pestat] analyzing insert size distribution for orientation RF...
+[M::mem_pestat] (25, 50, 75) percentile: (162, 498, 2073)
+[M::mem_pestat] low and high boundaries for computing mean and std.dev: (1, 5895)
+[M::mem_pestat] mean and std.dev: (1226.83, 1632.81)
+[M::mem_pestat] low and high boundaries for proper pairs: (1, 7806)
+[M::mem_pestat] skip orientation RR as there are not enough pairs
+[M::mem_pestat] skip orientation RF
+[M::worker2@1] performed mate-SW for 130159 reads
+[M::worker2@5] performed mate-SW for 133157 reads
+[M::worker2@8] performed mate-SW for 130206 reads
+[M::worker2@7] performed mate-SW for 134633 reads
+[M::worker2@0] performed mate-SW for 133244 reads
+[M::worker2@21] performed mate-SW for 137390 reads
+[M::worker2@10] performed mate-SW for 135174 reads
+[M::worker2@3] performed mate-SW for 134979 reads
+[M::worker2@23] performed mate-SW for 134405 reads
+[M::worker2@12] performed mate-SW for 135215 reads
+[M::worker2@17] performed mate-SW for 136853 reads
+[M::worker2@16] performed mate-SW for 137196 reads
+[M::worker2@20] performed mate-SW for 137744 reads
+[M::worker2@4] performed mate-SW for 140054 reads
+[M::worker2@22] performed mate-SW for 137047 reads
+[M::worker2@2] performed mate-SW for 139513 reads
+[M::worker2@18] performed mate-SW for 139047 reads
+[M::worker2@13] performed mate-SW for 140727 reads
+[M::worker2@14] performed mate-SW for 142285 reads
+[M::worker2@6] performed mate-SW for 141309 reads
+[M::worker2@19] performed mate-SW for 138458 reads
+[M::worker2@11] performed mate-SW for 140525 reads
+[M::worker2@15] performed mate-SW for 147269 reads
+[M::worker2@9] performed mate-SW for 146418 reads
+[M::main_mem] read 1247140 sequences (240000333 bp)...
+[M::mem_pestat] # candidate unique pairs for (FF, FR, RF, RR): (3, 43638, 39, 6)
+[M::mem_pestat] skip orientation FF as there are not enough pairs
+[M::mem_pestat] analyzing insert size distribution for orientation FR...
+[M::mem_pestat] (25, 50, 75) percentile: (124, 150, 189)
+[M::mem_pestat] low and high boundaries for computing mean and std.dev: (1, 319)
+[M::mem_pestat] mean and std.dev: (156.93, 49.51)
+[M::mem_pestat] low and high boundaries for proper pairs: (1, 384)
+[M::mem_pestat] analyzing insert size distribution for orientation RF...
+[M::mem_pestat] (25, 50, 75) percentile: (196, 654, 2469)
+[M::mem_pestat] low and high boundaries for computing mean and std.dev: (1, 7015)
+[M::mem_pestat] mean and std.dev: (1342.61, 1547.13)
+[M::mem_pestat] low and high boundaries for proper pairs: (1, 9288)
+[M::mem_pestat] skip orientation RR as there are not enough pairs
+[M::mem_pestat] skip orientation RF
+[M::worker2@2] performed mate-SW for 131327 reads
+[M::worker2@8] performed mate-SW for 132035 reads
+[M::worker2@14] performed mate-SW for 132647 reads
+[M::worker2@20] performed mate-SW for 132153 reads
+[M::worker2@18] performed mate-SW for 134943 reads
+[M::worker2@9] performed mate-SW for 134277 reads
+[M::worker2@22] performed mate-SW for 139480 reads
+[M::worker2@1] performed mate-SW for 138977 reads
+[M::worker2@6] performed mate-SW for 138012 reads
+[M::worker2@13] performed mate-SW for 140648 reads
+[M::worker2@0] performed mate-SW for 139272 reads
+[M::worker2@4] performed mate-SW for 138077 reads
+[M::worker2@5] performed mate-SW for 137642 reads
+[M::worker2@12] performed mate-SW for 142192 reads
+[M::worker2@10] performed mate-SW for 140415 reads
+[M::worker2@23] performed mate-SW for 142819 reads
+[M::worker2@11] performed mate-SW for 138809 reads
+[M::worker2@19] performed mate-SW for 140036 reads
+[M::worker2@15] performed mate-SW for 143005 reads
+[M::worker2@3] performed mate-SW for 141959 reads
+[M::worker2@21] performed mate-SW for 142872 reads
+[M::worker2@16] performed mate-SW for 145094 reads
+[M::worker2@17] performed mate-SW for 147085 reads
+[M::worker2@7] performed mate-SW for 149293 reads
+[M::main_mem] read 818420 sequences (155344169 bp)...
+[M::mem_pestat] # candidate unique pairs for (FF, FR, RF, RR): (1, 29589, 31, 2)
+[M::mem_pestat] skip orientation FF as there are not enough pairs
+[M::mem_pestat] analyzing insert size distribution for orientation FR...
+[M::mem_pestat] (25, 50, 75) percentile: (124, 150, 189)
+[M::mem_pestat] low and high boundaries for computing mean and std.dev: (1, 319)
+[M::mem_pestat] mean and std.dev: (156.99, 49.58)
+[M::mem_pestat] low and high boundaries for proper pairs: (1, 384)
+[M::mem_pestat] analyzing insert size distribution for orientation RF...
+[M::mem_pestat] (25, 50, 75) percentile: (137, 297, 775)
+[M::mem_pestat] low and high boundaries for computing mean and std.dev: (1, 2051)
+[M::mem_pestat] mean and std.dev: (493.70, 433.27)
+[M::mem_pestat] low and high boundaries for proper pairs: (1, 2689)
+[M::mem_pestat] skip orientation RR as there are not enough pairs
+[M::mem_pestat] skip orientation RF
+[M::worker2@5] performed mate-SW for 84282 reads
+[M::worker2@0] performed mate-SW for 83271 reads
+[M::worker2@10] performed mate-SW for 84014 reads
+[M::worker2@18] performed mate-SW for 85511 reads
+[M::worker2@9] performed mate-SW for 85630 reads
+[M::worker2@8] performed mate-SW for 87014 reads
+[M::worker2@4] performed mate-SW for 83945 reads
+[M::worker2@2] performed mate-SW for 86283 reads
+[M::worker2@16] performed mate-SW for 88673 reads
+[M::worker2@7] performed mate-SW for 86893 reads
+[M::worker2@11] performed mate-SW for 86964 reads
+[M::worker2@1] performed mate-SW for 87780 reads
+[M::worker2@13] performed mate-SW for 90467 reads
+[M::worker2@17] performed mate-SW for 89292 reads
+[M::worker2@3] performed mate-SW for 88811 reads
+[M::worker2@19] performed mate-SW for 88850 reads
+[M::worker2@21] performed mate-SW for 89875 reads
+[M::worker2@22] performed mate-SW for 91758 reads
+[M::worker2@20] performed mate-SW for 90726 reads
+[M::worker2@12] performed mate-SW for 94327 reads
+[M::worker2@6] performed mate-SW for 97207 reads
+[M::worker2@14] performed mate-SW for 95274 reads
+[M::worker2@23] performed mate-SW for 94861 reads
+[M::worker2@15] performed mate-SW for 93179 reads
+[main] Version: 0.7.5a-r405
+[main] CMD: bwa mem -M -t 24 salmonRef.fa Sample-2_1.fastq Sample-2_2.fastq
+[main] Real time: 17504.879 sec; CPU: 406523.967 sec
+[bam_sort_core] merging from 36 files...
+[M::bam2fq_mainloop] processed 19194 reads
+[M::bam2fq_mainloop] processed 19194 reads
+After mapping with BWA the dataset contains 19194 left reads and 19194,
+ and corresponds to  .10 % and .10 % of the complete dataset.
+
+Currently Loaded Modulefiles:
+  1) bwa/0.7.5a       2) htslib/1.3.1     3) samtools/1.3.1
+
+Job script resource usage:
+       JobID  MaxVMSize     MaxRSS 
+------------ ---------- ---------- 
+15738494.ba+  26701732K  23418086K 
+
+Job step resource usage:
+       JobID    JobName  AllocCPUS  MaxVMSize     MaxRSS    Elapsed ExitCode 
+------------ ---------- ---------- ---------- ---------- ---------- -------- 
+15738494     mapping_G+         24                         06:42:36      0:0 
+
+Job 15738494 ("mapping_Genome") completed on c60-7 at ti. 18. okt. 05:01:56 +0200 2016

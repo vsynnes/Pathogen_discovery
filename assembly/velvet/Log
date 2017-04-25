@@ -1,0 +1,22 @@
+Mon Jan 16 06:50:21 2017
+ velveth velvet 23 -fastq -short interleaved_seqs.fastq -fastq -shortPaired -separate out.notCombined_1.fastq out.notCombined_2.fastq
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 128
+
+Mon Jan 16 06:50:22 2017
+ velvetg velvet -min_contig_lgth 50 -exp_cov auto -cov_cutoff 9 -unused_reads yes
+Version 1.2.09
+Copyright 2007, 2008 Daniel Zerbino (zerbino@ebi.ac.uk)
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Compilation settings:
+CATEGORIES = 2
+MAXKMERLENGTH = 128
+
+Median coverage depth = 1.000000
+Final graph has 793 nodes and n50 of 220, max 983, total 25685, using 10655/20633 reads

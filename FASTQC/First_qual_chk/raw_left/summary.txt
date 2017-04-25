@@ -1,0 +1,12 @@
+PASS	Basic Statistics	Sample-2_1.fastq
+FAIL	Per base sequence quality	Sample-2_1.fastq
+FAIL	Per tile sequence quality	Sample-2_1.fastq
+PASS	Per sequence quality scores	Sample-2_1.fastq
+FAIL	Per base sequence content	Sample-2_1.fastq
+WARN	Per sequence GC content	Sample-2_1.fastq
+WARN	Per base N content	Sample-2_1.fastq
+WARN	Sequence Length Distribution	Sample-2_1.fastq
+FAIL	Sequence Duplication Levels	Sample-2_1.fastq
+PASS	Overrepresented sequences	Sample-2_1.fastq
+PASS	Adapter Content	Sample-2_1.fastq
+FAIL	Kmer Content	Sample-2_1.fastq

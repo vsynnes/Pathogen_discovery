@@ -1,0 +1,16 @@
+Starting job 16144935 ("extract_taxonomy") on c15-4 at ma. 12. des. 22:29:10 +0100 2016
+
+Currently Loaded Modulefiles:
+  1) intel/2015.3     2) libffi/3.0.13    3) python2/2.7.10
+
+Job script resource usage:
+       JobID  MaxVMSize     MaxRSS 
+------------ ---------- ---------- 
+16144935.ba+    212336K      2758K 
+
+Job step resource usage:
+       JobID    JobName  AllocCPUS  MaxVMSize     MaxRSS    Elapsed ExitCode 
+------------ ---------- ---------- ---------- ---------- ---------- -------- 
+16144935     extract_t+          1                         00:00:05      0:0 
+
+Job 16144935 ("extract_taxonomy") completed on c15-4 at ma. 12. des. 22:29:15 +0100 2016

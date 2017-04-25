@@ -1,0 +1,212 @@
+Starting job 15989100 ("BLASTN_paired_end_reads") on c16-33 at ti. 22. nov. 00:15:16 +0100 2016
+[FLASH] Starting FLASH v1.2.11
+[FLASH] Fast Length Adjustment of SHort reads
+[FLASH]  
+[FLASH] Input files:
+[FLASH]     forward_pe.fastq
+[FLASH]     reverse_pe.fastq
+[FLASH]  
+[FLASH] Output files:
+[FLASH]     ./out.extendedFrags.fastq
+[FLASH]     ./out.notCombined_1.fastq
+[FLASH]     ./out.notCombined_2.fastq
+[FLASH]     ./out.hist
+[FLASH]     ./out.histogram
+[FLASH]  
+[FLASH] Parameters:
+[FLASH]     Min overlap:           10
+[FLASH]     Max overlap:           178
+[FLASH]     Max mismatch density:  0.250000
+[FLASH]     Allow "outie" pairs:   false
+[FLASH]     Cap mismatch quals:    false
+[FLASH]     Combiner threads:      32
+[FLASH]     Input format:          FASTQ, phred_offset=33
+[FLASH]     Output format:         FASTQ, phred_offset=33
+[FLASH]  
+[FLASH] Starting reader and writer threads
+[FLASH] Starting 32 combiner threads
+[FLASH] Processed 11093 read pairs
+[FLASH]  
+[FLASH] Read combination statistics:
+[FLASH]     Total pairs:      11093
+[FLASH]     Combined pairs:   4807
+[FLASH]     Uncombined pairs: 6286
+[FLASH]     Percent combined: 43.33%
+[FLASH]  
+[FLASH] Writing histogram files.
+[FLASH]  
+[FLASH] FLASH v1.2.11 complete!
+[FLASH] 0.880 seconds elapsed
+[0.000000] Reading FastQ file interleaved_seqs.fastq;
+[0.118068] 8062 sequences found
+[0.118070] Done
+[0.119014] Reading FastQ file out.notCombined_1.fastq;
+[0.119833] Reading FastQ file out.notCombined_2.fastq;
+[0.210270] 12572 sequences found in total in the paired sequence files
+[0.210273] Done
+[0.211561] Reading read set file velvet/Sequences;
+[0.222935] 20634 sequences found
+[0.261300] Done
+[0.261303] 20634 sequences in total.
+[0.261536] Writing into roadmap file velvet/Roadmaps...
+[0.278874] Inputting sequences...
+[0.278878] Inputting sequence 0 / 20634
+[1.291010]  === Sequences loaded in 1.012137 s
+[1.291836] Done inputting sequences
+[1.291839] Destroying splay table
+[1.315355] Splay table destroyed
+[0.000000] Reading roadmap file velvet/Roadmaps
+[0.093720] 20634 roadmaps read
+[0.094319] Creating insertion markers
+[0.099935] Ordering insertion markers
+[0.159325] Counting preNodes
+[0.164610] 73865 preNodes counted, creating them now
+[0.276007] Adjusting marker info...
+[0.281567] Connecting preNodes
+[0.333942] Cleaning up memory
+[0.334174] Done creating preGraph
+[0.334176] Concatenation...
+[0.346489] Renumbering preNodes
+[0.346492] Initial preNode count 73865
+[0.351934] Destroyed 8458 preNodes
+[0.351937] Concatenation over!
+[0.351938] Clipping short tips off preGraph
+[0.359081] Concatenation...
+[0.366515] Renumbering preNodes
+[0.366518] Initial preNode count 65407
+[0.371604] Destroyed 4167 preNodes
+[0.371608] Concatenation over!
+[0.371609] 2752 tips cut off
+[0.371609] 61240 nodes left
+[0.371919] Writing into pregraph file velvet/PreGraph...
+[0.484401] Reading read set file velvet/Sequences;
+[0.497289] 20634 sequences found
+[0.535864] Done
+[0.553272] Reading pre-graph file velvet/PreGraph
+[0.553965] Graph has 61240 nodes and 20634 sequences
+[0.623549] Scanning pre-graph file velvet/PreGraph for k-mers
+[0.645476] 918752 kmers found
+[0.729786] Sorting kmer occurence table ... 
+[1.129079] Sorting done.
+[1.129084] Computing acceleration table... 
+[1.174678] Computing offsets... 
+[1.181376] Ghost Threading through reads 0 / 20634
+[2.063884]  === Ghost-Threaded in 0.882508 s
+[2.063891] Threading through reads 0 / 20634
+[3.082187]  === Threaded in 1.018296 s
+[3.126117] Correcting graph with cutoff 0.200000
+[3.129151] Determining eligible starting points
+[3.187351] Done listing starting nodes
+[3.187354] Initializing todo lists
+[3.197320] Done with initilization
+[3.197323] Activating arc lookup table
+[3.215189] Done activating arc lookup table
+[3.318486] 10000 / 61240 nodes visited
+[3.415103] 20000 / 61240 nodes visited
+[3.588453] 30000 / 61240 nodes visited
+[3.830118] 40000 / 61240 nodes visited
+[4.116574] 50000 / 61240 nodes visited
+[4.283272] 60000 / 61240 nodes visited
+[4.398962] 70000 / 61240 nodes visited
+[4.498255] 80000 / 61240 nodes visited
+[4.499776] Concatenation...
+[4.503266] Renumbering nodes
+[4.503269] Initial node count 61240
+[4.504350] Removed 21052 null nodes
+[4.504355] Concatenation over!
+[4.504356] Clipping short tips off graph, drastic
+[4.517580] Concatenation...
+[4.524395] Renumbering nodes
+[4.524398] Initial node count 40188
+[4.525480] Removed 8056 null nodes
+[4.525482] Concatenation over!
+[4.525482] 32132 nodes left
+[4.526010] Writing into graph file velvet/Graph2...
+[4.939632] Measuring median coverage depth...
+[4.950357] Median coverage depth = 1.000000
+[4.951766] Removing contigs with coverage < 9.000000...
+[4.962699] Concatenation...
+[4.982940] Renumbering nodes
+[4.982943] Initial node count 32132
+[4.983117] Removed 30142 null nodes
+[4.983118] Concatenation over!
+[4.983176] Concatenation...
+[4.983289] Renumbering nodes
+[4.983290] Initial node count 1990
+[4.983293] Removed 0 null nodes
+[4.983293] Concatenation over!
+[4.983298] Clipping short tips off graph, drastic
+[4.984080] Concatenation...
+[4.985896] Renumbering nodes
+[4.985898] Initial node count 1990
+[4.985923] Removed 1230 null nodes
+[4.985924] Concatenation over!
+[4.985924] 760 nodes left
+[4.985925] Read coherency...
+[4.985936] Identifying unique nodes
+[4.985948] Done, 0 unique nodes counted
+[4.985949] Trimming read tips
+[4.985959] Renumbering nodes
+[4.985959] Initial node count 760
+[4.985961] Removed 0 null nodes
+[4.985961] Confronted to 0 multiple hits and 0 null over 0
+[4.985962] Read coherency over!
+[4.986149] Starting pebble resolution...
+[4.986256] Computing read to node mapping array sizes
+[4.988183] Computing read to node mappings
+[4.997272] Estimating library insert lengths...
+[4.997995] Paired-end library 1 has length: 191, sample standard deviation: 105
+[4.997997] Done
+[4.998001] Computing direct node to node mappings
+[4.998045] Scaffolding node 0
+[4.998065]  === Nodes Scaffolded in 0.000064 s
+[4.998084] Preparing to correct graph with cutoff 0.200000
+[4.998175] Cleaning memory
+[4.998176] Deactivating local correction settings
+[4.998185] Pebble done.
+[4.998185] Starting pebble resolution...
+[4.998302] Computing read to node mapping array sizes
+[5.000375] Computing read to node mappings
+[5.010224] Estimating library insert lengths...
+[5.010902] Paired-end library 1 has length: 191, sample standard deviation: 105
+[5.010903] Done
+[5.010906] Computing direct node to node mappings
+[5.010936] Scaffolding node 0
+[5.010949]  === Nodes Scaffolded in 0.000042 s
+[5.010964] Preparing to correct graph with cutoff 0.200000
+[5.011041] Cleaning memory
+[5.011042] Deactivating local correction settings
+[5.011050] Pebble done.
+[5.011051] Concatenation...
+[5.011115] Renumbering nodes
+[5.011116] Initial node count 760
+[5.011118] Removed 0 null nodes
+[5.011122] Concatenation over!
+[5.011123] Removing reference contigs with coverage < 9.000000...
+[5.011148] Concatenation...
+[5.011174] Renumbering nodes
+[5.011174] Initial node count 760
+[5.011175] Removed 0 null nodes
+[5.011179] Concatenation over!
+[5.011495] Writing contigs into velvet/contigs.fa...
+[5.017374] Writing into stats file velvet/stats.txt...
+[5.021857] Writing into graph file velvet/LastGraph...
+[5.088523] Printing unused reads into velvet/UnusedReads.fa
+[5.114558] Estimated Coverage = 1.000000
+Final graph has 760 nodes and n50 of 220, max 983, total 25465, using 10759/20634 reads
+
+Currently Loaded Modulefiles:
+  1) binutils/2.26   3) flash/1.2.11    5) velvet/1.2.10
+  2) gcc/6.1.0       4) intel/2017.0
+
+Job script resource usage:
+       JobID  MaxVMSize     MaxRSS 
+------------ ---------- ---------- 
+15989100.ba+    212572K      2257K 
+
+Job step resource usage:
+       JobID    JobName  AllocCPUS  MaxVMSize     MaxRSS    Elapsed ExitCode 
+------------ ---------- ---------- ---------- ---------- ---------- -------- 
+15989100     BLASTN_pa+          1                         00:00:15      0:0 
+
+Job 15989100 ("BLASTN_paired_end_reads") completed on c16-33 at ti. 22. nov. 00:15:26 +0100 2016

@@ -1,0 +1,22 @@
+JOB map mapGenome.sbatch 
+JOB preprocess preprocess.sbatch
+JOB megablast_1 megablast_unpaired.sbatch 
+JOB megablast_2 megablast_paired.sbatch
+JOB blastn_1  blastn_unpaired.sbatch
+JOB blastn_2 blastn_paired.sbatch 
+JOB assembly assemble.sbatch 
+JOB post_process subtract_contigs.sbatch
+JOB tblastx tblastx_remote_submit.sbatch 
+JOB cleanup cleanup.sbatch 
+JOB taxonomy extract_taxonomy.sbatch 
+PARENT map CHILD preprocess
+PARENT preprocess CHILD megablast_1
+PARENT megablast_1 CHILD megablast_2
+PARENT megablast_2 CHILD blastn_1
+PARENT blastn_1 CHILD blastn_2
+PARENT blastn_2 CHILD assembly
+PARENT assembly CHILD post_process
+PARENT post_process CHILD tblastx
+PARENT tblastx CHILD cleanup
+PARENT cleanup CHILD taxonomy
+

@@ -1,0 +1,62 @@
+Starting job 16359216 ("Pathogen_pipeline") on c16-22 at sø. 15. jan. 16:35:38 +0100 2017
+Job map	ID: 16359217
+Parents: 
+Children: preprocess
+
+Job preprocess	ID: 16359218
+Parents: map
+Children: megablast_1
+
+Job megablast_1	ID: 16359219
+Parents: preprocess
+Children: megablast_2
+
+Job megablast_2	ID: 16359220
+Parents: megablast_1
+Children: blastn_1
+
+Job blastn_1	ID: 16359221
+Parents: megablast_2
+Children: blastn_2
+
+Job blastn_2	ID: 16359222
+Parents: blastn_1
+Children: assembly
+
+Job assembly	ID: 16359223
+Parents: blastn_2
+Children: post_process
+
+Job post_process	ID: 16359224
+Parents: assembly
+Children: tblastx
+
+Job tblastx	ID: 16359225
+Parents: post_process
+Children: cleanup
+
+Job cleanup	ID: 16359226
+Parents: tblastx
+Children: taxonomy
+
+Job taxonomy	ID: 16359227
+Parents: cleanup
+Children: 
+
+
+
+Currently Loaded Modulefiles:
+  1) intel/2015.3     3) python2/2.7.10
+  2) libffi/3.0.13    4) sdag/0.1
+
+Job script resource usage:
+       JobID  MaxVMSize     MaxRSS 
+------------ ---------- ---------- 
+16359216.ba+    212336K      2766K 
+
+Job step resource usage:
+       JobID    JobName  AllocCPUS  MaxVMSize     MaxRSS    Elapsed ExitCode 
+------------ ---------- ---------- ---------- ---------- ---------- -------- 
+16359216     Pathogen_+          1                         00:00:05      0:0 
+
+Job 16359216 ("Pathogen_pipeline") completed on c16-22 at sø. 15. jan. 16:35:40 +0100 2017

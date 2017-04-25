@@ -1,0 +1,15 @@
+Starting job 16143172 ("merge_delete") on c15-25 at ma. 12. des. 16:06:33 +0100 2016
+
+No Modulefiles Currently Loaded.
+
+Job script resource usage:
+       JobID  MaxVMSize     MaxRSS 
+------------ ---------- ---------- 
+16143172.ba+    212328K      1970K 
+
+Job step resource usage:
+       JobID    JobName  AllocCPUS  MaxVMSize     MaxRSS    Elapsed ExitCode 
+------------ ---------- ---------- ---------- ---------- ---------- -------- 
+16143172     merge_del+          1                         00:00:04      0:0 
+
+Job 16143172 ("merge_delete") completed on c15-25 at ma. 12. des. 16:06:35 +0100 2016

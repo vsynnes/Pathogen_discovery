@@ -1,0 +1,19 @@
+Starting job 15953065 ("BLASTN_unpaired_end_reads") on c16-19 at to. 17. nov. 14:20:16 +0100 2016
+Processing resulted in no reduction of forward singletons, and contains 609 sequences.
+After BLASTN processing, the dataset contained 1265 reverse singleton reads, 
+corresponding to .15 % reduction of the original files.
+
+Currently Loaded Modulefiles:
+  1) blast+/2.2.29
+
+Job script resource usage:
+       JobID  MaxVMSize     MaxRSS 
+------------ ---------- ---------- 
+15953065.ba+    212328K      1788K 
+
+Job step resource usage:
+       JobID    JobName  AllocCPUS  MaxVMSize     MaxRSS    Elapsed ExitCode 
+------------ ---------- ---------- ---------- ---------- ---------- -------- 
+15953065     BLASTN_un+          1                         00:00:24      0:0 
+
+Job 15953065 ("BLASTN_unpaired_end_reads") completed on c16-19 at to. 17. nov. 14:20:36 +0100 2016

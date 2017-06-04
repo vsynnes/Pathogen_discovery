@@ -4,8 +4,7 @@
 import os,sys
 import argparse
 
-#This generator function takes 2 fastq file as input, 2 id-sets to be removed and yields the paired ends files forward fastq, 
-# forward fasta, reverse fastq, reverse fasta, and four similar files for singletons. All eight are only used for paired ends processing
+#This generator function takes a fasta file as input, a id-set of sequences to be removed and yields the reduced fasta file. 
 def extract_seq (fasta_file, rem_set):
 	next_id = ""
 	read_rec = False
